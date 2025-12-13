@@ -22,16 +22,7 @@ export const metadata: Metadata = {
     template: "%s | Grüne Hauspflanzen",
   },
   description:
-    "Willkommen bei gruenhauspflanzen.de – deinem Blog rund um Zimmerpflanzen, Hauspflanzen und grüne Wohnideen. Hier findest du Tipps zur Pflanzenpflege, Inspiration für dein Zuhause und hilfreiche Ratgeber für Pflanzenliebhaber.",
-  keywords: [
-    "Zimmerpflanzen",
-    "Hauspflanzen",
-    "Pflanzenpflege",
-    "grüne Wohnideen",
-    "Pflanzen Blog",
-    "Zimmerpflanzen Tipps",
-    "Pflanzenpflege Ratgeber",
-  ],
+    "Dein Blog für Zimmerpflanzen, Hauspflanzen und grüne Wohnideen. Entdecke Tipps zur Pflege, Inspiration für dein Zuhause und hilfreiche Ratgeber.",
   authors: [{ name: "Grüne Hauspflanzen" }],
   creator: "Grüne Hauspflanzen",
   openGraph: {

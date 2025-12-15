@@ -21,6 +21,7 @@ export const metadata: Metadata = {
     default: "Grüne Hauspflanzen - Tipps & Inspiration für Zimmerpflanzen",
     template: "%s | Grüne Hauspflanzen",
   },
+  metadataBase: new URL("https://gruenhauspflanzen.de"),
   description:
     "Dein Blog für Zimmerpflanzen, Hauspflanzen und grüne Wohnideen. Entdecke Tipps zur Pflege, Inspiration für dein Zuhause und hilfreiche Ratgeber.",
   authors: [{ name: "Grüne Hauspflanzen" }],

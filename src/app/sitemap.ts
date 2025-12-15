@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/posts';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://gruenhauspflanzen.de';
+    const baseUrl = 'https://www.gruenhauspflanzen.de';
 
     // Static pages
     const staticPages = [

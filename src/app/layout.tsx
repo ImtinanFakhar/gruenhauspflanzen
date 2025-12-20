@@ -48,6 +48,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://gruenhauspflanzen.de",
   },
+  verification: {
+    google: "PFY_17eLr3Ylzj-nFaTawEytV3FuSE3sKRv-yPRTpJ4",
+  },
 };
 
 export default function RootLayout({

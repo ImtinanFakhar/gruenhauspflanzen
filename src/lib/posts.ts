@@ -13,6 +13,12 @@ export interface PostMeta {
     image: string;
     category?: string;
     readingTime?: string;
+    seoTitle?: string;
+    modifiedDate?: string;
+    imageAlt?: string;
+    excerpt?: string;
+    relatedSlugs?: string[];
+    showToc?: boolean;
 }
 
 export interface Post extends PostMeta {
@@ -26,6 +32,8 @@ function ensurePostsDirectory() {
     }
 }
 
+const REDIRECTED_SLUGS = ['zimmerpflanzen-wenig-licht'];
+
 // Get all post slugs for static generation
 export function getPostSlugs(): string[] {
     ensurePostsDirectory();
@@ -33,10 +41,15 @@ export function getPostSlugs(): string[] {
         const fileNames = fs.readdirSync(postsDirectory);
         return fileNames
             .filter((name) => name.endsWith('.md') || name.endsWith('.mdx'))
-            .map((name) => name.replace(/\.mdx?$/, ''));
+            .map((name) => name.replace(/\.mdx?$/, ''))
+            .filter((slug) => !REDIRECTED_SLUGS.includes(slug));
     } catch {
         return [];
     }
+}
+
+export function getPublishableSlugs(): string[] {
+    return getPostSlugs();
 }
 
 // Get a single post by slug
@@ -66,11 +79,17 @@ export function getPostBySlug(slug: string): Post | null {
         slug,
         title: data.title || 'Untitled',
         date: data.date || new Date().toISOString(),
-        author: data.author || 'Admin',
+        author: data.author || 'Grüne Hauspflanzen Redaktion',
         description: data.description || '',
         image: data.image || '/images/default-post.jpg',
         category: data.category,
         readingTime: `${readingTime} min Lesezeit`,
+        seoTitle: data.seoTitle,
+        modifiedDate: data.modifiedDate,
+        imageAlt: data.imageAlt,
+        excerpt: data.excerpt,
+        relatedSlugs: data.relatedSlugs,
+        showToc: data.showToc !== undefined ? data.showToc : true,
         content,
     };
 }
@@ -121,4 +140,38 @@ export function formatDate(dateString: string): string {
         month: 'long',
         day: 'numeric',
     });
+}
+
+// Get related posts
+export function getRelatedPosts(currentSlug: string, relatedSlugs?: string[], category?: string, count: number = 3): PostMeta[] {
+    const allPosts = getAllPosts();
+    const related: PostMeta[] = [];
+    const addedSlugs = new Set<string>();
+    addedSlugs.add(currentSlug);
+
+    if (relatedSlugs && relatedSlugs.length > 0) {
+        for (const slug of relatedSlugs) {
+            if (related.length >= count) break;
+            if (!addedSlugs.has(slug)) {
+                const post = allPosts.find(p => p.slug === slug);
+                if (post) {
+                    related.push(post);
+                    addedSlugs.add(slug);
+                }
+            }
+        }
+    }
+
+    if (related.length < count && category) {
+        const categoryPosts = getPostsByCategory(category);
+        for (const post of categoryPosts) {
+            if (related.length >= count) break;
+            if (!addedSlugs.has(post.slug)) {
+                related.push(post);
+                addedSlugs.add(post.slug);
+            }
+        }
+    }
+
+    return related;
 }

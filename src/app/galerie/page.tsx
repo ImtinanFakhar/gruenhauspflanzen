@@ -4,7 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
     title: 'Galerie',
-    description: 'Entdecken Sie unsere Pflanzenfotos und Inspirationen. Das hängt vom Pot-Typ ab. Auf Gruenhauspflanzen stellen wir verschiedene Kombinationen und Gestaltungsideen vor.',
+    description: 'Entdecken Sie unsere Pflanzenfotos und Inspirationen.',
+    robots: {
+        index: false,
+        follow: true,
+    },
+    alternates: {
+        canonical: 'https://gruenhauspflanzen.de/galerie/',
+    },
 };
 
 const galleryImages = [

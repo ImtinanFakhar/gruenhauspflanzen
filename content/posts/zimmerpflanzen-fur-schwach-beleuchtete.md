@@ -2,10 +2,13 @@
 title: "17 Zimmerpflanzen für wenig Licht: Die besten Pflanzen für dunkle Räume"
 slug: "zimmerpflanzen-fur-schwach-beleuchtete"
 date: "2025-09-16"
-author: "Admin"
+author: "Grüne Hauspflanzen Redaktion"
 description: "Entdecke 17 Zimmerpflanzen für wenig Licht – pflegeleichte Pflanzen, die auch in dunklen Räumen gedeihen. Tipps & FAQs für dein grünes Zuhause."
 image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&q=80"
 category: "Zimmerpflanzen"
+seoTitle: "17 Zimmerpflanzen für wenig Licht – Pflanzen für dunkle Räume | Grüne Hauspflanzen"
+imageAlt: "Grüne Zimmerpflanzen die wenig Licht benötigen in einem Raum mit indirektem Licht"
+relatedSlugs: ["pflegeleichte-zimmerpflanzen", "badezimmer-pflanzen"]
 ---
 
 ## Einleitung: Grün auch ohne Sonnenlicht

@@ -34,19 +34,22 @@ const features = [
 
 const categories = [
   {
-    title: 'Kakteen',
-    description: 'Tipps zur Pflege und Gestaltung mit robusten Kaktuspflanzen.',
-    image: 'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?w=400&q=80',
-  },
-  {
-    title: 'Sträucher & Grünpflanzen',
-    description: 'Entdecke pflegeleichte Sträucher und immergrüne Zimmerpflanzen.',
+    title: 'Wenig Licht',
+    description: 'Die besten Zimmerpflanzen für dunkle Räume und schattige Ecken.',
     image: 'https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=400&q=80',
+    href: '/zimmerpflanzen-fur-schwach-beleuchtete/',
   },
   {
-    title: 'Sukkulenten',
-    description: 'Alles über Sukkulenten: von der Pflege bis zu kreativen Deko-Ideen.',
-    image: 'https://images.unsplash.com/photo-1463154545680-d59320fd685d?w=400&q=80',
+    title: 'Pflegeleicht',
+    description: 'Robuste Zimmerpflanzen für Anfänger und Vielbeschäftigte.',
+    image: 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&q=80',
+    href: '/pflegeleichte-zimmerpflanzen/',
+  },
+  {
+    title: 'Badezimmer',
+    description: 'Tropische Pflanzen, die sich im Bad wohlfühlen.',
+    image: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=400&q=80',
+    href: '/badezimmer-pflanzen/',
   },
 ];
 
@@ -133,7 +136,7 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <span className="badge mb-4">🌱 Pflanzen Inspiration</span>
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Pflanzenarten im Blog
+              Beliebte Themen
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Entdecke verschiedene Pflanzenarten und finde die perfekte für dein Zuhause
@@ -143,7 +146,7 @@ export default function HomePage() {
             {categories.map((category, index) => (
               <Link
                 key={index}
-                href="/blog/"
+                href={category.href}
                 className="card group cursor-pointer"
               >
                 <div className="relative h-48 overflow-hidden">
@@ -294,26 +297,6 @@ export default function HomePage() {
               </Link>
             </div>
 
-            {/* Trust indicators */}
-            <div className="mt-12 pt-8 border-t border-white/20">
-              <p className="!text-white text-sm mb-4">Vertraut von Pflanzenliebhabern</p>
-              <div className="flex items-center justify-center gap-8">
-                <div className="text-center">
-                  <div className="text-2xl font-bold !text-white">500+</div>
-                  <div className="!text-white text-sm">Leser</div>
-                </div>
-                <div className="w-px h-10 bg-white/20"></div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold !text-white">50+</div>
-                  <div className="!text-white text-sm">Pflegetipps</div>
-                </div>
-                <div className="w-px h-10 bg-white/20"></div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold !text-white">100%</div>
-                  <div className="!text-white text-sm">Gratis</div>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>

@@ -6,10 +6,11 @@ import { usePathname } from 'next/navigation';
 
 const navLinks = [
   { href: '/', label: 'Startseite' },
-  { href: '/uber-uns/', label: 'Über uns' },
-  { href: '/galerie/', label: 'Galerie' },
+  { href: '/zimmerpflanzen-fur-schwach-beleuchtete/', label: 'Wenig Licht' },
+  { href: '/pflegeleichte-zimmerpflanzen/', label: 'Pflegeleicht' },
+  { href: '/badezimmer-pflanzen/', label: 'Badezimmer' },
   { href: '/blog/', label: 'Blog' },
-  { href: '/kontakt/', label: 'Kontakt' },
+  { href: '/uber-uns/', label: 'Über uns' },
 ];
 
 export default function Header() {

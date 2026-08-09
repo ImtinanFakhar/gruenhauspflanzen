@@ -6,6 +6,17 @@ author: "Admin"
 description: "Die besten Zimmerpflanzen für wenig Licht & dunkle Räume. Große Schattenpflanzen, Pflanzen für dunkle Ecken & welche Pflanze braucht kein Licht."
 image: "https://images.unsplash.com/photo-1545241047-6083a3684587?w=800&q=80"
 category: "Zimmerpflanzen"
+status: "REDIRECTED — content preserved for later content-refresh phase"
+redirect_to: "/zimmerpflanzen-fur-schwach-beleuchtete/"
+notes: |
+  This article was consolidated via 301/308 redirect to the primary URL.
+  Unique sections NOT present in the destination article:
+  - "Große Zimmerpflanzen für wenig Licht" section (plants 6-10)
+  - Comparison tables (Top 5 plants, Problems & Solutions)
+  - "Pflanzen für dunkle Ecken: Styling-Tipps" section
+  - Additional FAQs (6 FAQs vs 5 in primary)
+  - Kentiapalme, Dieffenbachia, Yucca, Efeu, Begonien, Peperomia, Monstera adansonii (not in primary)
+  Consider merging this unique content into the primary article during content optimization.
 ---
 
 Nicht jeder hat lichtdurchflutete Räume mit großen Fenstern. Doch auch in dunklen Ecken, schattigen Fluren und Nordzimmern können Pflanzen gedeihen! In diesem umfassenden Ratgeber zeigen wir dir die **besten Zimmerpflanzen für wenig Licht** – von großen Schattenpflanzen bis zu kompakten Arten für **dunkle Räume**.

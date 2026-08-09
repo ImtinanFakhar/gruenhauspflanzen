@@ -5,7 +5,10 @@ import { getAllPosts, formatDate } from '@/lib/posts';
 
 export const metadata: Metadata = {
     title: 'Blog',
-    description: 'Entdecken Sie nützliche Tipps und Inspiration rund um Zimmerpflanzen, Gartenpflege und nachhaltiges Wohnen. Hier finden Sie spannende Beiträge, die Ihnen helfen, Ihre Pflanzen gesund und Ihr Zuhause grün zu gestalten.',
+    description: 'Entdecken Sie nützliche Tipps und Inspiration rund um Zimmerpflanzen, Gartenpflege und nachhaltiges Wohnen.',
+    alternates: {
+        canonical: 'https://gruenhauspflanzen.de/blog/',
+    },
 };
 
 export default function BlogPage() {

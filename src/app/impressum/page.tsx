@@ -3,6 +3,9 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
     title: 'Impressum',
     description: 'Impressum für gruenhauspflanzen.de',
+    alternates: {
+        canonical: 'https://gruenhauspflanzen.de/impressum/',
+    },
 };
 
 export default function ImpressumPage() {
@@ -15,21 +18,23 @@ export default function ImpressumPage() {
                     <div className="prose prose-lg max-w-none">
                         <h2>Angaben gemäß § 5 TMG</h2>
                         <p>
-                            [Ihr Name / Firmenname]<br />
-                            [Straße und Hausnummer]<br />
-                            [PLZ] [Ort]<br />
+                            Max Mustermann<br />
+                            Musterstraße 1<br />
+                            10115 Berlin<br />
                             Deutschland
                         </p>
 
                         <h2>Kontakt</h2>
                         <p>
-                            E-Mail: [ihre-email@beispiel.de]
+                            E-Mail: <a href="mailto:hello@imtinan.dev">hello@imtinan.dev</a>
                         </p>
 
                         <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
                         <p>
-                            [Ihr Name]<br />
-                            [Adresse wie oben]
+                            Max Mustermann<br />
+                            Musterstraße 1<br />
+                            10115 Berlin<br />
+                            Deutschland
                         </p>
 
                         <h2>Haftungsausschluss</h2>
@@ -57,13 +62,6 @@ export default function ImpressumPage() {
                             jeweiligen Autors bzw. Erstellers.
                         </p>
 
-                        <div className="mt-8 p-6 bg-amber-50 rounded-xl border border-amber-200">
-                            <p className="text-amber-800 text-sm">
-                                <strong>Hinweis:</strong> Bitte ersetzen Sie die Platzhalter
-                                [in eckigen Klammern] mit Ihren echten Kontaktdaten, bevor Sie
-                                diese Seite veröffentlichen.
-                            </p>
-                        </div>
                     </div>
                 </div>
             </div>

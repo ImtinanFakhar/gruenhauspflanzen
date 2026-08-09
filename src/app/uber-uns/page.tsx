@@ -1,32 +1,13 @@
 import type { Metadata } from 'next';
-import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
     title: 'Über uns',
-    description: 'Unser Blog-Team besteht aus leidenschaftlichen Pflanzenliebhabern, die ihr Wissen und ihre Erfahrungen teilen.',
+    description: 'Grüne Hauspflanzen ist ein deutschsprachiger Blog rund um Zimmerpflanzen, Pflanzenpflege und grüne Wohnideen.',
+    alternates: {
+        canonical: 'https://gruenhauspflanzen.de/uber-uns/',
+    },
 };
-
-const teamMembers = [
-    {
-        name: 'Selena Watkins',
-        role: 'Gärtnerin',
-        image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&q=80',
-        description: 'Expertin für tropische Zimmerpflanzen und nachhaltige Pflanzenpflege.',
-    },
-    {
-        name: 'David Sean',
-        role: 'Gärtner',
-        image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&q=80',
-        description: 'Spezialisiert auf Sukkulenten und Kakteen mit über 10 Jahren Erfahrung.',
-    },
-    {
-        name: 'Martha Colin',
-        role: 'Gärtnerin',
-        image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&q=80',
-        description: 'Leidenschaftliche Pflanzenliebhaberin und Interior Design Enthusiastin.',
-    },
-];
 
 const benefits = [
     {
@@ -67,11 +48,10 @@ export default function UberUnsPage() {
                     <div className="max-w-3xl mx-auto text-center">
                         <span className="badge mb-4">🌿 Über uns</span>
                         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                            Willkommen auf unserem Pflanzenblog!
+                            Über Grüne Hauspflanzen
                         </h1>
                         <p className="text-xl text-gray-600 mb-8">
-                            Wir teilen Tipps, Anleitungen und Inspiration für Pflanzenliebhaber –
-                            egal ob Anfänger oder erfahrener Gärtner.
+                            Grüne Hauspflanzen ist ein deutschsprachiger Blog rund um Zimmerpflanzen, Pflanzenpflege, passende Standorte und grüne Wohnideen.
                         </p>
                     </div>
                 </div>
@@ -102,31 +82,28 @@ export default function UberUnsPage() {
                 </div>
             </section>
 
-            {/* Team Section */}
+            {/* Redaktion Section */}
             <section className="section">
                 <div className="container">
-                    <div className="text-center mb-12">
-                        <h2 className="text-3xl font-bold mb-4">Unser Team</h2>
-                        <p className="text-gray-600 max-w-2xl mx-auto">
-                            Unser Blog-Team besteht aus leidenschaftlichen Pflanzenliebhabern,
-                            die ihr Wissen und ihre Erfahrungen teilen.
+                    <div className="max-w-3xl mx-auto text-center">
+                        <h2 className="text-3xl font-bold mb-4">Unsere Redaktion</h2>
+                        <p className="text-gray-600 mb-8">
+                            Die Artikel auf Grüne Hauspflanzen werden von der
+                            Grüne Hauspflanzen Redaktion recherchiert und verfasst.
+                            Wir schreiben über Zimmerpflanzen, Pflegetipps, passende
+                            Standorte und grüne Wohnideen – verständlich und praxisnah.
                         </p>
-                    </div>
-                    <div className="grid md:grid-cols-3 gap-8">
-                        {teamMembers.map((member, index) => (
-                            <div key={index} className="card team-card">
-                                <Image
-                                    src={member.image}
-                                    alt={member.name}
-                                    width={120}
-                                    height={120}
-                                    className="team-avatar mx-auto"
-                                />
-                                <h3 className="text-xl font-semibold">{member.name}</h3>
-                                <p className="text-emerald-600 font-medium mb-3">{member.role}</p>
-                                <p className="text-gray-600 text-sm">{member.description}</p>
+                        <div className="inline-flex items-center gap-4 p-6 rounded-2xl bg-emerald-50">
+                            <div className="flex-shrink-0 w-16 h-16 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center">
+                                <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                                </svg>
                             </div>
-                        ))}
+                            <div className="text-left">
+                                <h3 className="font-semibold text-lg">Grüne Hauspflanzen Redaktion</h3>
+                                <p className="text-gray-600 text-sm">Dein Ratgeber für Zimmerpflanzen und Pflanzenpflege</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>

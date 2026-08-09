@@ -64,6 +64,34 @@ export default function RootLayout({
         className={`${inter.variable} ${outfit.variable} antialiased min-h-screen flex flex-col`}
         style={{ fontFamily: "var(--font-inter), system-ui, sans-serif" }}
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "name": "Grüne Hauspflanzen",
+              "url": "https://gruenhauspflanzen.de/",
+              "description": "Dein Blog für Zimmerpflanzen, Hauspflanzen und grüne Wohnideen.",
+              "inLanguage": "de-DE"
+            })
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "Grüne Hauspflanzen",
+              "url": "https://gruenhauspflanzen.de/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://gruenhauspflanzen.de/images/logo.png"
+              }
+            })
+          }}
+        />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />

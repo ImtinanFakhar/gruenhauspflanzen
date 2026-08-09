@@ -2,10 +2,13 @@
 title: "Blumen für die Fensterbank: Die schönsten Pflanzen für drinnen & draußen"
 slug: "blumen-fuer-die-fensterbank"
 date: "2025-09-18"
-author: "Admin"
+author: "Grüne Hauspflanzen Redaktion"
 description: "Entdecken Sie die schönsten Blumen für die Fensterbank – pflegeleicht, dekorativ und perfekt für drinnen & draußen. Tipps für jede Jahreszeit."
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
 category: "Zimmerpflanzen"
+seoTitle: "Blumen für die Fensterbank – Die schönsten Pflanzen | Grüne Hauspflanzen"
+imageAlt: "Bunte Blumen und Pflanzen auf einer sonnigen Fensterbank"
+relatedSlugs: ["pflegeleichte-zimmerpflanzen", "weisse-pflanzen-zimmerpflanzen-pflege-sorten"]
 ---
 
 Blumen auf der Fensterbank verschönern nicht nur das Zuhause, sondern verbessern auch das Raumklima. Ob für die sonnige oder schattige Seite des Hauses, für den Winter oder das ganze Jahr – die Auswahl ist riesig. In diesem Artikel zeigen wir dir, welche Blumen sich perfekt für die Fensterbank eignen, egal ob drinnen oder draußen, und welche Pflege sie benötigen. Entdecke pflegeleichte, robuste Sorten sowie besondere Pflanzen, die deine Fensterbank in ein wahres Blumenparadies verwandeln!

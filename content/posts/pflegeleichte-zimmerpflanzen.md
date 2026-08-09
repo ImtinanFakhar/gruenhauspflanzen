@@ -2,10 +2,13 @@
 title: "Pflegeleichte Zimmerpflanzen: Die 25 besten Pflanzen für Anfänger & Vielbeschäftigte"
 slug: "pflegeleichte-zimmerpflanzen"
 date: "2025-12-14"
-author: "Admin"
+author: "Grüne Hauspflanzen Redaktion"
 description: "Entdecke die besten pflegeleichten Zimmerpflanzen für jedes Zuhause. Große, blühende & moderne Sorten für wenig Licht, Büro & Anfänger."
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
 category: "Zimmerpflanzen"
+seoTitle: "25 pflegeleichte Zimmerpflanzen für Anfänger | Grüne Hauspflanzen"
+imageAlt: "Verschiedene pflegeleichte Zimmerpflanzen auf einem Regal"
+relatedSlugs: ["zimmerpflanzen-fur-schwach-beleuchtete", "badezimmer-pflanzen", "blumen-fuer-die-fensterbank"]
 ---
 
 Du liebst Pflanzen, hast aber wenig Zeit für aufwendige Pflege? Oder du bist Anfänger und suchst nach Zimmerpflanzen, die auch ohne grünen Daumen gedeihen? Dann bist du hier genau richtig! In diesem umfassenden Ratgeber zeigen wir dir die **besten pflegeleichten Zimmerpflanzen** – von großen Exemplaren für das Wohnzimmer über blühende Schönheiten bis hin zu robusten Pflanzen für dunkle Ecken.

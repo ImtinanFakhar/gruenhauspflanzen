@@ -3,6 +3,9 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
     title: 'Kontakt',
     description: 'Haben Sie Fragen oder möchten Sie Tipps zur Pflanzenpflege? Kontaktieren Sie uns!',
+    alternates: {
+        canonical: 'https://gruenhauspflanzen.de/kontakt/',
+    },
 };
 
 export default function KontaktPage() {
@@ -33,7 +36,7 @@ export default function KontaktPage() {
                                 Wir freuen uns über Ihre Nachricht und helfen Ihnen gerne weiter.
                             </p>
 
-                            <form className="space-y-6">
+                            <form action="https://formspree.io/f/xdkpvzlr" method="POST" className="space-y-6">
                                 <div className="grid md:grid-cols-2 gap-6">
                                     <div>
                                         <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
@@ -115,7 +118,7 @@ export default function KontaktPage() {
                                 </div>
                                 <h3 className="font-semibold text-lg mb-2">E-Mail</h3>
                                 <p className="text-gray-600">
-                                    Schreiben Sie uns eine E-Mail und wir antworten so schnell wie möglich.
+                                    Schreiben Sie an <a href="mailto:hello@imtinan.dev" className="text-emerald-700 font-medium hover:text-emerald-800">hello@imtinan.dev</a> und wir antworten so schnell wie möglich.
                                 </p>
                             </div>
 

@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getPostBySlug, getPostSlugs, getRecentPosts, formatDate } from '@/lib/posts';
+import { getPostBySlug, getPostSlugs, getRecentPosts, getRelatedPosts, formatDate } from '@/lib/posts';
 import { remark } from 'remark';
 import html from 'remark-html';
 import remarkGfm from 'remark-gfm';
@@ -29,12 +29,16 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
     }
 
     return {
-        title: post.title,
+        title: post.seoTitle || post.title,
         description: post.description,
+        alternates: {
+            canonical: `https://gruenhauspflanzen.de/${post.slug}/`,
+        },
         openGraph: {
             title: post.title,
             description: post.description,
             type: 'article',
+            url: `https://gruenhauspflanzen.de/${post.slug}/`,
             publishedTime: post.date,
             authors: [post.author],
             images: [
@@ -42,7 +46,7 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
                     url: post.image,
                     width: 1200,
                     height: 630,
-                    alt: post.title,
+                    alt: post.imageAlt || post.title,
                 },
             ],
         },
@@ -101,14 +105,8 @@ function extractFAQs(content: string): Array<{ question: string; answer: string 
 }
 
 // Generate Article and FAQ schema
-function generateSchemas(post: {
-    title: string;
-    description: string;
-    date: string;
-    author: string;
-    image: string;
-    slug: string;
-}, faqs: Array<{ question: string; answer: string }>) {
+// Generate Article and FAQ schema
+function generateSchemas(post: any, faqs: Array<{ question: string; answer: string }>) {
     const schemas = [];
 
     // Article Schema
@@ -119,9 +117,9 @@ function generateSchemas(post: {
         "description": post.description,
         "image": post.image,
         "datePublished": post.date,
-        "dateModified": post.date,
+        "dateModified": post.modifiedDate || post.date,
         "author": {
-            "@type": "Person",
+            "@type": "Organization",
             "name": post.author
         },
         "publisher": {
@@ -168,7 +166,7 @@ function generateSchemas(post: {
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Blog",
+                "name": post.category || "Blog",
                 "item": "https://gruenhauspflanzen.de/blog/"
             },
             {
@@ -183,6 +181,16 @@ function generateSchemas(post: {
     return schemas;
 }
 
+function generateTocAndEnhanceHtml(html: string): { toc: Array<{id: string; text: string}>; enhancedHtml: string } {
+    const headings: Array<{id: string; text: string}> = [];
+    const enhancedHtml = html.replace(/<h2>(.*?)<\/h2>/g, (match, text) => {
+        const id = text.toLowerCase().replace(/[^a-z0-9äöüß\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').trim();
+        headings.push({ id, text });
+        return `<h2 id="${id}">${text}</h2>`;
+    });
+    return { toc: headings, enhancedHtml };
+}
+
 export default async function PostPage({ params }: PostPageProps) {
     const resolvedParams = await params;
     const post = getPostBySlug(resolvedParams.slug);
@@ -191,20 +199,27 @@ export default async function PostPage({ params }: PostPageProps) {
         notFound();
     }
 
-    const contentHtml = await markdownToHtml(post.content);
+    const contentHtmlRaw = await markdownToHtml(post.content);
+    let { toc, enhancedHtml } = generateTocAndEnhanceHtml(contentHtmlRaw);
+    const contentHtml = enhancedHtml.replace(/<table>/g, '<div class="table-wrapper"><table>').replace(/<\/table>/g, '</table></div>');
     const recentPosts = getRecentPosts(3).filter((p) => p.slug !== post.slug);
+    const relatedPosts = getRelatedPosts(post.slug, post.relatedSlugs, post.category, 4);
     const faqs = extractFAQs(post.content);
     const schemas = generateSchemas(post, faqs);
+    const showToc = post.showToc !== false;
 
     return (
         <>
             {/* Structured Data */}
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{
-                    __html: JSON.stringify(schemas),
-                }}
-            />
+            {schemas.map((schema, index) => (
+                <script
+                    key={index}
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify(schema),
+                    }}
+                />
+            ))}
             <article>
                 {/* Hero Section */}
                 <section className="hero py-12 md:py-16">
@@ -233,7 +248,7 @@ export default async function PostPage({ params }: PostPageProps) {
                                 <div className="flex items-center gap-2 text-sm text-gray-500">
                                     <span>{post.author}</span>
                                     <span>•</span>
-                                    <time>{formatDate(post.date)}</time>
+                                    <time dateTime={post.date}>{formatDate(post.date)}</time>
                                     {post.readingTime && (
                                         <>
                                             <span>•</span>
@@ -280,6 +295,18 @@ export default async function PostPage({ params }: PostPageProps) {
                             <div className="grid lg:grid-cols-3 gap-12">
                                 {/* Main Content */}
                                 <div className="lg:col-span-2">
+                                    {showToc && toc.length >= 3 && (
+                                        <nav aria-label="Inhaltsverzeichnis" className="toc">
+                                            <h2 className="toc-title">Inhaltsverzeichnis</h2>
+                                            <ol className="toc-list">
+                                                {toc.map((item) => (
+                                                    <li key={item.id}>
+                                                        <a href={`#${item.id}`}>{item.text}</a>
+                                                    </li>
+                                                ))}
+                                            </ol>
+                                        </nav>
+                                    )}
                                     <div
                                         className="prose prose-lg max-w-none"
                                         dangerouslySetInnerHTML={{ __html: contentHtml }}
@@ -319,6 +346,24 @@ export default async function PostPage({ params }: PostPageProps) {
                                             </Link>
                                         </div>
                                     </div>
+                                    
+                                    {relatedPosts.length > 0 && (
+                                        <div className="mt-12 pt-8 border-t border-gray-200">
+                                            <h2 className="text-2xl font-bold mb-6">Ähnliche Artikel</h2>
+                                            <div className="grid sm:grid-cols-2 gap-6">
+                                                {relatedPosts.map((relPost) => (
+                                                    <Link key={relPost.slug} href={`/${relPost.slug}/`} className="card group">
+                                                        <div className="relative h-32 overflow-hidden">
+                                                            <Image src={relPost.image} alt={relPost.imageAlt || relPost.title} fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
+                                                        </div>
+                                                        <div className="card-content">
+                                                            <h3 className="font-semibold text-base group-hover:text-emerald-600 transition-colors line-clamp-2">{relPost.title}</h3>
+                                                        </div>
+                                                    </Link>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    )}
                                 </div>
 
                                 {/* Sidebar */}

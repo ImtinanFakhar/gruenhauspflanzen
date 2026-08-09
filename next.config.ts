@@ -23,6 +23,17 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+
+  // Permanent redirects for URL consolidation
+  async redirects() {
+    return [
+      {
+        source: '/zimmerpflanzen-wenig-licht',
+        destination: '/zimmerpflanzen-fur-schwach-beleuchtete/',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

@@ -3,6 +3,9 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
     title: 'Datenschutzerklärung',
     description: 'Datenschutzerklärung für gruenhauspflanzen.de',
+    alternates: {
+        canonical: 'https://gruenhauspflanzen.de/datenschutz/',
+    },
 };
 
 export default function DatenschutzPage() {

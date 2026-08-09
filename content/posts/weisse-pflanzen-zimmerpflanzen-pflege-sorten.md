@@ -2,10 +2,13 @@
 title: "Weiße Pflanzen & Zimmerpflanzen – Pflege & Sorten"
 slug: "weisse-pflanzen-zimmerpflanzen-pflege-sorten"
 date: "2025-09-19"
-author: "Admin"
+author: "Grüne Hauspflanzen Redaktion"
 description: "Entdecken Sie weiße Zimmerpflanzen & Blumen: Pflege, Sorten & Inspiration für Ihr Zuhause. Elegante Pflanzen für Wohnzimmer, Balkon & Garten."
 image: "https://images.unsplash.com/photo-1545241047-6083a3684587?w=800&q=80"
 category: "Weiße Pflanzen"
+seoTitle: "Weiße Zimmerpflanzen & Blumen – Pflege & Sorten | Grüne Hauspflanzen"
+imageAlt: "Elegante weiße Zimmerpflanzen auf einer hellen Fensterbank"
+relatedSlugs: ["pflegeleichte-zimmerpflanzen", "blumen-fuer-die-fensterbank"]
 ---
 
 ## Weiß blühende Zimmerpflanzen

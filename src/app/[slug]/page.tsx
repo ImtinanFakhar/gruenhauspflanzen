@@ -294,10 +294,10 @@ export default async function PostPage({ params }: PostPageProps) {
                         <div className="max-w-4xl mx-auto">
                             <div className="grid lg:grid-cols-3 gap-12">
                                 {/* Main Content */}
-                                <div className="lg:col-span-2">
+                                <div className="lg:col-span-2 min-w-0">
                                     {showToc && toc.length >= 3 && (
-                                        <nav aria-label="Inhaltsverzeichnis" className="toc">
-                                            <h2 className="toc-title">Inhaltsverzeichnis</h2>
+                                        <details className="toc" open>
+                                            <summary className="toc-title">Inhaltsverzeichnis</summary>
                                             <ol className="toc-list">
                                                 {toc.map((item) => (
                                                     <li key={item.id}>
@@ -305,7 +305,7 @@ export default async function PostPage({ params }: PostPageProps) {
                                                     </li>
                                                 ))}
                                             </ol>
-                                        </nav>
+                                        </details>
                                     )}
                                     <div
                                         className="prose prose-lg max-w-none"

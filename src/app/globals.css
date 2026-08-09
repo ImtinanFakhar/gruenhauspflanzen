@@ -285,9 +285,11 @@ a:hover {
 /* ===== BLOG POST STYLES ===== */
 .prose {
   max-width: 100%;
+  min-width: 0;
   color: var(--foreground-muted);
   font-size: 1.125rem;
   line-height: 1.8;
+  overflow-wrap: anywhere;
 }
 
 .prose > * + * {
@@ -301,6 +303,8 @@ a:hover {
   border-bottom: 3px solid var(--primary-200);
   font-size: 1.875rem;
   position: relative;
+  overflow-wrap: anywhere;
+  hyphens: auto;
 }
 
 .prose h2::before {
@@ -340,6 +344,7 @@ a:hover {
   margin-bottom: 1.5rem;
   text-align: justify;
   text-justify: inter-word;
+  overflow-wrap: anywhere;
 }
 
 .prose ul, .prose ol {
@@ -439,6 +444,7 @@ a:hover {
   font-weight: 500;
   border-bottom: 2px solid var(--primary-200);
   transition: all var(--transition-fast);
+  overflow-wrap: anywhere;
 }
 
 .prose a:hover {
@@ -450,6 +456,8 @@ a:hover {
 /* Tables in prose */
 .prose table {
   width: 100%;
+  min-width: 0;
+  table-layout: fixed;
   margin: 2rem 0;
   border-collapse: collapse;
   border-radius: var(--radius-lg);
@@ -467,12 +475,16 @@ a:hover {
   text-align: left;
   font-weight: 600;
   font-size: 0.9375rem;
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 
 .prose td {
   padding: 1rem 1.25rem;
   border-bottom: 1px solid var(--primary-100);
   font-size: 0.9375rem;
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 
 .prose tbody tr {
@@ -718,12 +730,59 @@ a:hover {
 }
 
 .toc-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
   font-size: 1.125rem;
   font-weight: 600;
   color: var(--foreground);
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--primary-200);
+  cursor: pointer;
+  list-style: none;
+}
+
+.toc-title::-webkit-details-marker {
+  display: none;
+}
+
+.toc-title::after {
+  content: "Ausblenden";
+  flex-shrink: 0;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--primary-700);
+}
+
+.toc-title::before {
+  content: "";
+  width: 0.5rem;
+  height: 0.5rem;
+  border-right: 2px solid var(--primary-700);
+  border-bottom: 2px solid var(--primary-700);
+  transform: rotate(45deg);
+  transition: transform var(--transition-fast);
+  order: 2;
+}
+
+.toc-title::after {
+  order: 1;
+}
+
+.toc:not([open]) .toc-title {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.toc:not([open]) .toc-title::after {
+  content: "Anzeigen";
+}
+
+.toc:not([open]) .toc-title::before {
+  transform: rotate(-45deg);
 }
 
 .toc-list {
@@ -764,6 +823,7 @@ a:hover {
 /* ===== RESPONSIVE TABLE WRAPPER ===== */
 .table-wrapper {
   width: 100%;
+  max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   margin: 2rem 0;
@@ -782,13 +842,30 @@ a:hover {
 
 /* Better mobile table styling */
 @media (max-width: 768px) {
+  .prose {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .prose p {
+    text-align: left;
+  }
+
+  .prose h2 {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
   .prose table {
-    font-size: 0.875rem;
+    min-width: 0;
+    font-size: 0.75rem;
   }
   
   .prose th,
   .prose td {
-    padding: 0.625rem 0.75rem;
+    padding: 0.625rem 0.5rem;
+    font-size: 0.75rem;
+    line-height: 1.45;
   }
   
   .toc {

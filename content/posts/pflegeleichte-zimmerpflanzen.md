@@ -296,11 +296,13 @@ Filtert effektiv Schadstoffe und ist dabei **pflegeleicht**.
 
 Auch wenn diese Pflanzen robust sind, hier einige grundsätzliche Tipps:
 
-1. **Weniger ist mehr beim Gießen** – Die meisten Zimmerpflanzen sterben an Überwässerung, nicht an Trockenheit
+1. **Vor dem Gießen prüfen** – Wie weit die Erde abtrocknen darf, hängt von der Pflanzenart und dem Standort ab
 2. **Staunässe vermeiden** – Überschüssiges Wasser im Untersetzer entfernen
 3. **Regelmäßig abstauben** – Verbessert die Photosynthese
 4. **Im Frühling umtopfen** – Wenn die Wurzeln aus dem Topf wachsen
 5. **Düngen in der Wachstumsphase** – Von März bis September alle 4-6 Wochen
+
+Fliegen kleine dunkle Insekten aus dauerhaft feuchter Blumenerde auf, lies auch, wie du [Trauermücken bei Zimmerpflanzen bekämpfst](/trauermuecken-bekaempfen/).
 
 ---
 

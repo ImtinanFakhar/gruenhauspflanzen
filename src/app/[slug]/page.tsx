@@ -115,7 +115,7 @@ function generateSchemas(post: any, faqs: Array<{ question: string; answer: stri
         "@type": "Article",
         "headline": post.title,
         "description": post.description,
-        "image": post.image,
+        "image": new URL(post.image, 'https://gruenhauspflanzen.de').toString(),
         "datePublished": post.date,
         "dateModified": post.modifiedDate || post.date,
         "author": {
@@ -285,7 +285,7 @@ export default async function PostPage({ params }: PostPageProps) {
                         <div className="relative aspect-video rounded-2xl overflow-hidden">
                             <Image
                                 src={post.image}
-                                alt={post.title}
+                                alt={post.imageAlt || post.title}
                                 fill
                                 className="object-cover"
                                 priority

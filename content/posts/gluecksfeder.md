@@ -73,6 +73,8 @@ Im Sommer kann eine hell stehende Glücksfeder deutlich schneller Wasser verbrau
 
 Wichtig ist außerdem, dass überschüssiges Wasser aus dem Pflanztopf ablaufen kann. Wasser, das dauerhaft im Übertopf steht, erhöht das Risiko für geschädigte Wurzeln und Rhizome.
 
+Bleibt die Erde ständig feucht und steigen kleine Fliegen aus dem Topf auf, hilft unser Ratgeber zum [Bekämpfen von Trauermücken](/trauermuecken-bekaempfen/) bei der Unterscheidung zwischen fliegenden Tieren und Larven im Substrat.
+
 ## 3. Welche Erde braucht eine Glücksfeder?
 
 ![Lockere Erde und Substrat für die Glücksfeder](/images/posts/Gl%C3%BCcksfeder%20Pflege%2C%20Standort%2C%20Gie%C3%9Fen%20%26%20Vermehren/gluecksfeder-erde-substrat.jpg)

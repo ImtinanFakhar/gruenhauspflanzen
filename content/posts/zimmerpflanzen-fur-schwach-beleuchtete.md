@@ -2,200 +2,187 @@
 title: "17 Zimmerpflanzen für wenig Licht: Die besten Pflanzen für dunkle Räume"
 slug: "zimmerpflanzen-fur-schwach-beleuchtete"
 date: "2025-09-16"
+modifiedDate: "2026-09-25"
 author: "Grüne Hauspflanzen Redaktion"
-description: "Entdecke 17 Zimmerpflanzen für wenig Licht – pflegeleichte Pflanzen, die auch in dunklen Räumen gedeihen. Tipps & FAQs für dein grünes Zuhause."
+description: "Welche Zimmerpflanzen vertragen wenig Licht? Entdecke 17 passende Arten für Nordfenster und schattige Räume, mit Standort- und Gießtipps."
 image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&q=80"
 category: "Zimmerpflanzen"
-seoTitle: "17 Zimmerpflanzen für wenig Licht – Pflanzen für dunkle Räume | Grüne Hauspflanzen"
-imageAlt: "Grüne Zimmerpflanzen die wenig Licht benötigen in einem Raum mit indirektem Licht"
-relatedSlugs: ["pflegeleichte-zimmerpflanzen", "badezimmer-pflanzen"]
+seoTitle: "17 Zimmerpflanzen für wenig Licht – Pflanzen für dunkle Räume"
+imageAlt: "Grüne Zimmerpflanzen in einem Raum mit indirektem Tageslicht"
+relatedSlugs: ["gluecksfeder", "pflegeleichte-zimmerpflanzen", "badezimmer-pflanzen"]
 ---
 
-## Einleitung: Grün auch ohne Sonnenlicht
+## Welche Zimmerpflanzen brauchen wenig Licht?
 
-Nicht jede Wohnung ist ein lichtdurchflutetes Paradies mit großen Fenstern. Viele Menschen wohnen in Erdgeschosswohnungen, Altbauwohnungen mit kleinen Fenstern oder haben einfach Räume, die wenig Tageslicht abbekommen – sei es das Badezimmer, der Flur oder das Schlafzimmer. Trotzdem musst du nicht auf lebendige, grüne Pflanzen verzichten.
+Für ein Nordfenster oder einen Platz mit schwachem, indirektem Tageslicht sind vor allem **Glücksfeder, Schusterpalme, Aglaonema, Efeutute und Bogenhanf** gute Kandidaten. Sie tolerieren weniger Licht als viele andere Zimmerpflanzen. Das bedeutet aber nicht, dass sie ohne Licht auskommen: Auch diese Arten brauchen Tageslicht oder eine geeignete Pflanzenlampe.
 
-Zum Glück gibt es zahlreiche Zimmerpflanzen, die mit wenig Licht auskommen. Manche gedeihen sogar in fast schattigen Ecken, wo nur indirektes Licht ankommt. In diesem Artikel stellen wir dir 17 Zimmerpflanzen für wenig Licht vor, die pflegeleicht sind und deinem Zuhause auch in dunklen Ecken ein frisches, natürliches Ambiente verleihen.
+Ein Platz mit wenig Licht ist etwas anderes als ein fensterloser Raum. Als Orientierung beschreibt die [University of Minnesota Extension](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/lighting-for-indoor-plants) schwaches Licht als passend für ein Nordfenster oder eine recht dunkle Ecke, in der noch Tageslicht ankommt. Je weniger Licht eine Pflanze bekommt, desto langsamer wächst sie meist und desto weniger Wasser verbraucht sie.
 
-## Warum spezielle Pflanzen für dunkle Räume wählen?
-
-Nicht jede Pflanze ist gleich: Während sonnenhungrige Arten wie Kakteen oder Sukkulenten viel direktes Licht brauchen, sind andere Arten perfekt an dunklere Bedingungen angepasst.
-
-**Vorteile von schattenliebenden Zimmerpflanzen:**
-
-- Sie gedeihen an Standorten mit wenig oder indirektem Licht
-- Viele sind sehr pflegeleicht und brauchen wenig Wasser
-- Sie verbessern das Raumklima und wirken beruhigend
-- Einige Arten reinigen die Luft und tragen zu einem gesunden Wohnumfeld bei
+| Standort | Gute erste Wahl | Worauf du achten solltest |
+| --- | --- | --- |
+| Nordfenster oder schattiger Platz mit Tageslicht | Glücksfeder, Schusterpalme, Aglaonema | Erde vor dem Gießen prüfen; Wachstum kann langsam sein. |
+| Hellerer Platz ohne direkte Sonne | Efeutute, Einblatt, Grünlilie, Philodendron | Mehr Licht sorgt oft für dichteren Wuchs. |
+| Raum ohne Fenster | Keine Pflanze dauerhaft ohne Zusatzlicht | Eine Pflanzenlampe ist nötig. |
 
 ## Die 17 besten Zimmerpflanzen für wenig Licht
 
-### 1. Bogenhanf (Sansevieria trifasciata)
+### 1. Bogenhanf (Dracaena trifasciata)
 
-Der Klassiker für dunkle Räume. [Bogenhanf](https://en.wikipedia.org/wiki/Sansevieria) ist extrem robust, braucht kaum Pflege und gedeiht auch in schattigen Ecken. Zudem filtert er Schadstoffe aus der Luft.
+Bogenhanf verträgt schwächeres Licht, wächst an einem hellen Platz aber kräftiger. Für schattigere Stellen eignen sich besonders grüne Sorten. Die [RHS](https://www.rhs.org.uk/plants/sansevieria/growing-guide) empfiehlt durchlässige Erde und sparsames Gießen.
 
-**Pflege-Tipps:** Wenig gießen, Staunässe vermeiden.
+**Pflege-Tipp:** Lass das Substrat zwischen den Wassergaben gut abtrocknen. Staunässe verträgt Bogenhanf schlecht.
 
 ### 2. Glücksfeder (Zamioculcas zamiifolia)
 
-Eine der beliebtesten Pflanzen für Büros und dunkle Räume. Die [Glücksfeder](https://en.wikipedia.org/wiki/Zamioculcas) ist nahezu unkaputtbar und übersteht auch längere Trockenperioden.
+Die Glücksfeder ist eine gute Wahl für ein Nordfenster oder einen hellen Flur ohne direkte Sonne. Ihre Rhizome speichern Wasser. Bei wenig Licht wächst sie langsamer, bleibt aber bei passender Pflege lange attraktiv. Mehr zu Standort, Erde und Vermehrung findest du in unserem [Glücksfeder-Ratgeber](/gluecksfeder/).
 
-**Pflege-Tipps:** Ideal für Anfänger. Ein heller Standort fördert zwar das Wachstum, aber auch im Halbschatten fühlt sie sich wohl.
+**Pflege-Tipp:** Gieße erst, wenn die Erde weitgehend trocken ist. Gelbe Blätter können ein Zeichen für zu nasses Substrat sein.
 
 ### 3. Efeutute (Epipremnum aureum)
 
-Eine rankende Schönheit, die perfekt für Regale oder Hängeampeln ist. Sie gedeiht auch bei wenig Licht, sollte aber nicht ganz dunkel stehen.
+Die Efeutute lässt sich auf einem Regal oder in einer Hängeampel platzieren. Sie kommt mit indirektem Licht zurecht; an einem etwas helleren Standort bleibt der Wuchs dichter. Bunt gemusterte Sorten können bei sehr wenig Licht an Zeichnung verlieren.
 
-**Pflege-Tipps:** Mäßig gießen, gelegentlich die Blätter abwischen.
+**Pflege-Tipp:** Prüfe die Erde vor dem Gießen und halte die Pflanze von Haustieren fern.
 
 ### 4. Einblatt (Spathiphyllum)
 
-Auch bekannt als Friedenslilie. Diese Pflanze verträgt Schatten und bringt mit ihren weißen Blüten eine elegante Note ins Zimmer.
+Das Einblatt verträgt einen schattigen Platz, blüht bei ausreichend hellem, indirektem Licht aber zuverlässiger. Es braucht etwas gleichmäßigere Feuchtigkeit als Bogenhanf oder Glücksfeder.
 
-**Pflege-Tipps:** Gleichmäßige Feuchtigkeit, nicht austrocknen lassen.
+**Pflege-Tipp:** Gieße, wenn die obere Erdschicht angetrocknet ist. Eine dauernd nasse Erde ist auch hier ungünstig.
 
 ### 5. Drachenbaum (Dracaena)
 
-![Drachenbaum](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/dracaena.jpg)
+![Drachenbaum mit langen, grünen Blättern](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/dracaena.jpg)
 
-Der Drachenbaum ist eine elegante Pflanze mit langen Blättern, die auch bei wenig Licht auskommt.
+Viele Drachenbäume vertragen weniger Licht. Grünblättrige Sorten sind für schattigere Plätze meist die bessere Wahl als stark panaschierte Sorten.
 
-**Pflege-Tipps:** Wenig gießen, verträgt Trockenheit besser als Staunässe.
+**Pflege-Tipp:** Lass die obere Erdschicht antrocknen und vermeide stehendes Wasser im Übertopf.
 
 ### 6. Grünlilie (Chlorophytum comosum)
 
-![Grünlilie](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/chlorophytum.jpg)
+![Grünlilie mit überhängenden Blättern](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/chlorophytum.jpg)
 
-Eine sehr anpassungsfähige Pflanze, die selbst in schattigen Ecken wächst. Sie produziert viele Ableger, die leicht weitervermehrt werden können.
+Die Grünlilie ist anpassungsfähig und verträgt laut [RHS](https://www.rhs.org.uk/plants/spider-plants/growing-guide) sowohl hellere als auch lichtärmere Innenräume. An einem sehr dunklen Platz bildet sie möglicherweise weniger Ableger.
 
-**Pflege-Tipps:** Regelmäßig, aber mäßig gießen.
+**Pflege-Tipp:** Gieße regelmäßig, aber lass die Erde nicht dauerhaft nass stehen.
 
 ### 7. Schusterpalme (Aspidistra elatior)
 
-![Schusterpalme](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/aspidistra.jpg)
+![Schusterpalme mit breiten, dunkelgrünen Blättern](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/aspidistra.jpg)
 
-Eine altbekannte Zimmerpflanze, die fast alles aushält: wenig Licht, unregelmäßiges Gießen, sogar Zigarettenrauch.
+Die Schusterpalme ist eine der verlässlichsten Pflanzen für schattige Zimmer. Sie wächst langsam und mag keine direkte Mittagssonne.
 
-**Pflege-Tipps:** Perfekt für dunkle Räume mit wenig Pflegeaufwand.
+**Pflege-Tipp:** Gieße erst, wenn die Erde an der Oberfläche trocken ist.
 
-### 8. Nestfarn (Asplenium nidus)
+### 8. Bergpalme (Chamaedorea elegans)
 
-![Nestfarn](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/asplenium.jpg)
+Die kompakte Bergpalme eignet sich für einen Platz mit indirektem Tageslicht. Sie braucht keine pralle Sonne und passt gut auf einen Beistelltisch oder in eine schattigere Ecke nahe dem Fenster.
 
-Mit seinen welligen, grünen Blättern bringt der Nestfarn Dschungel-Feeling ins Zimmer – selbst bei wenig Licht.
+**Pflege-Tipp:** Halte die Erde leicht feucht, aber vermeide Staunässe.
 
-**Pflege-Tipps:** Mag hohe Luftfeuchtigkeit, daher ideal fürs Badezimmer.
+### 9. Kentiapalme (Howea forsteriana)
 
-### 9. Korbmarante (Calathea)
+![Kentiapalme in einem hellen Wohnraum](/images/posts/Gro%C3%9Fe%20Zimmerpflanzen%2015%20beeindruckende%20Pflanzen%20f%C3%BCr%20dein%20Zuhause/07-kentiapalme-grosse-zimmerpflanze.jpg)
 
-![Korbmarante](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/calathea.jpg)
+Die Kentiapalme verträgt indirektes Licht und kann einen Raum auch ohne sonniges Fenster begrünen. Für eine große Pflanze plane genug Platz ein. Weitere Arten für großzügige Räume zeigt unser Überblick über [große Zimmerpflanzen](/grosse-zimmerpflanzen/).
 
-Die Korbmarante ist für ihre schönen, gemusterten Blätter bekannt. Sie mag Schatten, allerdings benötigt sie etwas höhere Luftfeuchtigkeit.
-
-**Pflege-Tipps:** Regelmäßig mit Wasser besprühen.
+**Pflege-Tipp:** Prüfe die Erde vor dem Gießen; große Töpfe trocknen oft langsamer durch.
 
 ### 10. Aglaonema (Kolbenfaden)
 
-![Aglaonema](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/aglaonema.jpg)
+![Aglaonema mit gemusterten Blättern](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/aglaonema.jpg)
 
-Eine dekorative Pflanze mit verschiedenen Blattmustern, die auch bei schwachem Licht gesund bleibt.
+Grünblättrige Aglaonema-Sorten sind eine gute Wahl für schwaches, indirektes Licht. Sorten mit auffällig heller oder roter Blattzeichnung wirken an einem etwas helleren Platz oft kräftiger.
 
-**Pflege-Tipps:** Regelmäßig gießen, Staunässe vermeiden.
+**Pflege-Tipp:** Gieße, wenn die oberste Erdschicht angetrocknet ist.
 
 ### 11. Philodendron
 
-Diese Pflanze gehört zu den Klassikern für Wohnungen. Ob kletternd oder buschig wachsend – Philodendren fühlen sich auch in dunkleren Ecken wohl.
+Kletternde Philodendren können an einem Platz ohne direkte Sonne wachsen. Achte auf die jeweilige Art oder Sorte: Nicht jeder Philodendron hat genau denselben Lichtbedarf.
 
-**Pflege-Tipps:** Mäßig gießen, Blätter gelegentlich abstauben.
+**Pflege-Tipp:** Ein Platz mit indirektem Tageslicht ist besser als eine fensterlose Ecke.
 
-### 12. Glückskastanie (Pachira aquatica)
+### 12. Steckenpalme (Rhapis excelsa)
 
-![Glückskastanie](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/pachira.jpg)
+![Steckenpalme mit fächerförmigen Blättern](/images/posts/Gro%C3%9Fe%20Zimmerpflanzen%2015%20beeindruckende%20Pflanzen%20f%C3%BCr%20dein%20Zuhause/16-steckenpalme-rhapis-excelsa.jpg)
 
-Bekannt für ihren geflochtenen Stamm, eignet sich diese Pflanze ebenfalls für Räume mit wenig Licht.
+Die Steckenpalme bildet dichte, fächerförmige Blätter und verträgt einen Standort mit wenig direkter Sonne. Sie eignet sich für Wohnräume mit schwächerem Tageslicht.
 
-**Pflege-Tipps:** Mäßig gießen, gerne in Gruppen platzieren.
+**Pflege-Tipp:** Lass die obere Erdschicht leicht antrocknen, bevor du erneut gießt.
 
-### 13. Chinesischer Geldbaum (Pilea peperomioides)
+### 13. Dieffenbachia
 
-![Chinesischer Geldbaum](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/pilea.jpg)
+Dieffenbachien vertragen schwächeres, indirektes Licht. Stark gemusterte Sorten stehen besser nicht in der dunkelsten Ecke, damit ihre Blattzeichnung erhalten bleibt.
 
-Beliebt für seine runden Blätter und pflegeleichte Art. Auch bei wenig Licht bleibt er vital, braucht jedoch etwas Geduld beim Wachsen.
+**Pflege-Tipp:** Halte die Erde leicht feucht, aber nicht nass. Die Pflanze ist giftig und gehört außer Reichweite von Kindern und Haustieren.
 
-**Pflege-Tipps:** Erst gießen, wenn die Erde angetrocknet ist.
+### 14. Homalomena
 
-### 14. Ficus elastica (Gummibaum)
+Homalomena ist eine eher ruhige Blattpflanze für indirektes Licht. Sie eignet sich für Plätze, an denen direkte Sonne fehlt, aber noch Tageslicht vorhanden ist.
 
-![Gummibaum](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/ficus.jpg)
+**Pflege-Tipp:** Vermeide Zugluft und prüfe vor dem Gießen, ob die Erde oben angetrocknet ist.
 
-Eine robuste Pflanze, die auch in dunkleren Räumen wächst – allerdings etwas langsamer.
+### 15. Syngonium (Pfeilblatt)
 
-**Pflege-Tipps:** Blätter regelmäßig abstauben für optimale Photosynthese.
+Syngonium wächst bei indirektem Licht und kann klettern oder überhängen. An einem sehr dunklen Standort können stark gemusterte Sorten ihre Blattzeichnung verlieren.
 
-### 15. Syngonium (Pfeilblattpflanze)
-
-Eine Kletterpflanze, die in dunkleren Räumen ebenfalls gedeiht. Ihre Blätter haben oft schöne Musterungen.
-
-**Pflege-Tipps:** Gleichmäßig feucht halten, mag Luftfeuchtigkeit.
+**Pflege-Tipp:** Halte die Erde mäßig feucht und stelle die Pflanze außer Reichweite von Haustieren.
 
 ### 16. Maranta leuconeura (Gebetspflanze)
 
-![Gebetspflanze](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/maranta.gif)
+![Maranta leuconeura mit gemusterten Blättern](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/maranta.gif)
 
-Bekannt dafür, dass sie abends ihre Blätter zusammenfaltet. Sie liebt halbschattige Plätze.
+Die Maranta mag keine direkte Sonne. Für ihre Blattzeichnung und gesunden Wuchs ist **helles, gefiltertes Licht** besser als eine tiefe, dunkle Ecke. Sie gehört damit an den helleren Rand dieser Auswahl.
 
-**Pflege-Tipps:** Hohe Luftfeuchtigkeit bevorzugt, regelmäßig besprühen.
+**Pflege-Tipp:** Halte das Substrat leicht feucht und schütze die Pflanze vor trockener Heizungsluft.
 
-### 17. Zimmerbambus (Pogonatherum paniceum)
+### 17. Efeu (Hedera helix)
 
-![Zimmerbambus](/images/posts/zimmerpflanzen-fur-schwach-beleuchtete/pogonatherum.jpg)
+Efeu kann auch drinnen an einem eher kühlen Platz mit indirektem Licht stehen. Er wächst hängend oder an einer Rankhilfe. Warme, trockene Heizungsluft bekommt ihm weniger gut.
 
-Eine dekorative Pflanze, die auch mit wenig Licht zurechtkommt, solange sie regelmäßig gegossen wird.
+**Pflege-Tipp:** Lass die Erde nicht vollständig austrocknen und kontrolliere die Blätter regelmäßig auf Schädlinge.
 
-**Pflege-Tipps:** Boden gleichmäßig feucht halten.
+## So findest du den richtigen Standort
 
-## Tipps zur Pflege von Zimmerpflanzen für wenig Licht
+Beobachte den Platz über den Tag: Kommt dort überhaupt natürliches Licht an? Ein Nordfenster ist meist deutlich heller als ein fensterloser Flur. Selbst schattentolerante Pflanzen stehen besser so, dass sie Tageslicht erhalten. Anzeichen für zu wenig Licht sind lange, schwache Triebe, blassere Blätter, Blattfall und ausbleibende Blüten.
+
+Wenn dein Badezimmer kein Fenster hat, hilft die Luftfeuchtigkeit allein nicht. Du brauchst eine geeignete Pflanzenlampe oder solltest die Pflanze in einen helleren Raum stellen. Tipps zur Auswahl für verschiedene Bäder findest du bei unseren [Badezimmer-Pflanzen](/badezimmer-pflanzen/).
+
+## Zimmerpflanzen bei wenig Licht richtig pflegen
 
 ### Gießen
 
-Bei weniger Licht verbrauchen Pflanzen auch weniger Wasser. Achte darauf, nicht zu viel zu gießen – Staunässe ist einer der häufigsten Fehler und führt zu Wurzelfäule. Prüfe vor dem Gießen immer mit dem Finger, ob die Erde noch feucht ist.
+Bei wenig Licht verbrauchen viele Pflanzen weniger Wasser. Prüfe vor dem Gießen die Erde und richte dich nach der Art: Eine Glücksfeder darf stärker abtrocknen als ein Einblatt. Lass überschüssiges Wasser aus dem Übertopf ablaufen.
 
-### Standortwahl
+### Düngen
 
-Auch schattentolerante Pflanzen profitieren von etwas indirektem Licht. Platziere sie in der Nähe von Fenstern oder in Räumen mit Tageslicht, auch wenn dieses nicht direkt einfällt.
+Weniger Wachstum bedeutet auch einen geringeren Nährstoffbedarf. Dünge während der Wachstumszeit sparsam und richte dich nach den Angaben für die jeweilige Pflanze. Im Winter ist meist weniger oder kein Dünger nötig.
 
-### Luftfeuchtigkeit
+### Licht verbessern
 
-Viele Tropenpflanzen mögen hohe Luftfeuchtigkeit. Im Winter, wenn die Heizungsluft trocken ist, kann regelmäßiges Besprühen oder ein Luftbefeuchter helfen.
+Rücke die Pflanze näher ans Fenster, wenn sie vergeilt oder Blätter verliert. Wo dauerhaft kein Tageslicht ankommt, kann eine passend platzierte Pflanzenlampe helfen. Auch bei Kunstlicht braucht die Pflanze einen regelmäßigen Hell-Dunkel-Rhythmus.
 
-### Düngung
-
-Da Pflanzen bei wenig Licht langsamer wachsen, benötigen sie auch weniger Dünger. Einmal im Monat während der Wachstumsphase (Frühling/Sommer) reicht meist aus.
-
-## Fazit: Auch dunkle Räume können grün sein
-
-Mit der richtigen Pflanzenauswahl kannst du auch in lichtarmen Räumen ein grünes Paradies schaffen. Von der robusten Glücksfeder über die elegante Friedenslilie bis hin zum dekorativen Philodendron – es gibt für jeden Geschmack und jeden Raum die passende Pflanze.
-
-Beginne mit einer oder zwei pflegeleichten Arten und erweitere deine Sammlung, sobald du mehr Erfahrung gesammelt hast. Deine dunklen Ecken werden es dir danken!
-
-## FAQ: Häufig gestellte Fragen zu Zimmerpflanzen für wenig Licht
+## FAQ: Häufige Fragen zu Zimmerpflanzen für wenig Licht
 
 ### Können Pflanzen komplett ohne Licht überleben?
 
-Nein, alle Pflanzen benötigen zumindest etwas Licht für die Photosynthese. „Wenig Licht" bedeutet indirektes oder schwaches Tageslicht, nicht völlige Dunkelheit. Künstliche Beleuchtung kann bei Bedarf helfen.
+Nein. Für die Photosynthese brauchen Pflanzen Licht. In einem Raum ohne Fenster ist für eine dauerhafte Haltung eine geeignete künstliche Beleuchtung nötig.
 
-### Wie erkenne ich, ob meine Pflanze zu wenig Licht bekommt?
+### Welche Pflanze eignet sich für eine dunklere Ecke?
 
-Typische Anzeichen sind: verlängerte, dünne Triebe (die Pflanze "streckt" sich zum Licht), blassere Blätter, geringeres Wachstum oder Blattfall. In diesem Fall solltest du die Pflanze an einen helleren Standort stellen.
+Wenn die Ecke noch Tageslicht abbekommt, beginne mit Glücksfeder, Schusterpalme oder Aglaonema. Ist die Ecke wirklich lichtlos, stelle dort keine Pflanze ohne Zusatzbeleuchtung auf.
 
-### Welche Pflanzen sind besonders gut fürs Badezimmer geeignet?
+### Welche Pflanzen eignen sich für ein Nordfenster?
 
-Das Badezimmer ist oft dunkel, aber feucht – perfekt für Pflanzen wie den Nestfarn, die Efeutute oder das Einblatt. Sie mögen die erhöhte Luftfeuchtigkeit und kommen mit wenig Licht zurecht.
+Bogenhanf, Glücksfeder, Schusterpalme und Efeutute sind gute Ausgangspunkte. Prüfe zusätzlich, ob ein Vordach, dichter Bewuchs oder ein weiter Abstand zum Fenster den Standort stark abdunkelt.
 
-### Muss ich meine Schattenpflanzen weniger oft gießen?
+### Muss ich Pflanzen bei wenig Licht seltener gießen?
 
-Ja, in der Regel schon. Da die Pflanzen bei weniger Licht langsamer wachsen und weniger Wasser verdunsten, verbrauchen sie auch weniger. Achte darauf, erst zu gießen, wenn die obere Erdschicht abgetrocknet ist.
+Oft ja, weil sie langsamer wachsen und die Erde langsamer trocknet. Ein fester Gießkalender ist aber unzuverlässig: Prüfe das Substrat und beachte den Wasserbedarf der jeweiligen Art.
 
-### Können LED-Pflanzenlampen helfen?
+## Quellen
 
-Ja! Spezielle Pflanzenlampen mit dem richtigen Lichtspektrum können Pflanzen in sehr dunklen Räumen unterstützen. Sie sind besonders im Winter eine gute Ergänzung.
+- [University of Minnesota Extension: Lighting for indoor plants](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/lighting-for-indoor-plants)
+- [Royal Horticultural Society: Sansevieria-Pflege](https://www.rhs.org.uk/plants/sansevieria/growing-guide)
+- [Royal Horticultural Society: Grünlilien-Pflege](https://www.rhs.org.uk/plants/spider-plants/growing-guide)
+- [Royal Horticultural Society: Pflanzen für schattigere Innenräume](https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-shade)

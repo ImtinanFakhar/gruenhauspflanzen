@@ -245,10 +245,16 @@ export default async function PostPage({ params }: PostPageProps) {
                             {/* Post Meta */}
                             <div className="flex flex-wrap items-center gap-4 mb-6">
                                 {post.category && <span className="badge">{post.category}</span>}
-                                <div className="flex items-center gap-2 text-sm text-gray-500">
+                                <div className="flex flex-wrap items-center gap-2 text-sm text-gray-500">
                                     <span>{post.author}</span>
                                     <span>•</span>
                                     <time dateTime={post.date}>{formatDate(post.date)}</time>
+                                    {post.modifiedDate && (
+                                        <>
+                                            <span>•</span>
+                                            <time dateTime={post.modifiedDate}>Aktualisiert am {formatDate(post.modifiedDate)}</time>
+                                        </>
+                                    )}
                                     {post.readingTime && (
                                         <>
                                             <span>•</span>

@@ -177,6 +177,8 @@ Die Monstera mit ihren charakteristischen geschlitzten Blättern ist DIE **moder
 - Gießen: Wenn die obere Erdschicht trocken ist
 - Besonderheit: Entwickelt mit dem Alter größere Löcher in den Blättern
 
+Mehr zu Licht, Gießen und Rankhilfe findest du in unserer [Monstera-Pflegeanleitung](/monstera-pflege/).
+
 ### 14. Pilea peperomioides (Ufopflanze)
 
 Die runden Blätter der Pilea machen sie zur perfekten **grünen zimmerpflanze pflegeleicht** für moderne Einrichtungen.

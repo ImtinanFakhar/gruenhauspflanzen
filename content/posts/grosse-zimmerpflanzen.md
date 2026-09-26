@@ -49,6 +49,8 @@ Am besten bekommt sie einen hellen Standort ohne dauerhaft harte Mittagssonne. E
 
 Wenn dein Wohnzimmer groß genug ist, ist die Monstera eine gute Wahl für eine freie Ecke, einen Platz neben dem Sofa oder einen Bereich nahe einem großen Fenster.
 
+Wie du Standort, Gießen und Kletterhilfe aufeinander abstimmst, erklärt unser Ratgeber zur [Monstera-Pflege](/monstera-pflege/).
+
 ## 2. Strelitzia nicolai
 
 ![Strelitzia nicolai neben einem hellen Fenster](/images/posts/Große%20Zimmerpflanzen%2015%20beeindruckende%20Pflanzen%20für%20dein%20Zuhause/03-strelitzia-nicolai-grosse-zimmerpflanze.jpg)

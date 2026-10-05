@@ -21,7 +21,7 @@ Wer viel unterwegs ist oder einfach keine Zeit für aufwendige Pflege hat, sucht
 
 - **Geranien:** Diese Klassiker gehören zu den pflegeleichtesten Pflanzen. Sie gedeihen bei direkter Sonne, benötigen jedoch auch nur wenig Wasser.
 
-- **Orchideen:** Besonders bekannt für ihre zarten, aber langlebigen Blüten. Orchideen sind ideale Pflanzen für die Fensterbank, da sie im Halbschatten gut gedeihen.
+- **Phalaenopsis-Orchideen:** Ihre Blüten halten oft lange. Eine helle Fensterbank mit gefiltertem Licht passt gut; starke Mittagssonne sollte abgehalten werden. Mehr dazu im Ratgeber zur [Orchideenpflege](/orchideen-pflege/).
 
 - **Usambaraveilchen:** Diese farbenfrohen Pflanzen benötigen wenig Pflege und sind ein echter Hingucker auf jeder Fensterbank.
 

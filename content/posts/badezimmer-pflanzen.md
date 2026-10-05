@@ -76,12 +76,12 @@ Das Einblatt ist eine der beliebtesten **Zimmerpflanzen Badezimmer**. Es blüht 
 
 ![Orchidee](https://images.unsplash.com/photo-1610397648930-477b8c7f0943?w=600&q=80)
 
-Orchideen, besonders Phalaenopsis, sind perfekte **Bad Pflanzen**. Die Luftfeuchtigkeit im Badezimmer entspricht ihren natürlichen Bedingungen.
+Phalaenopsis-Orchideen können im Bad stehen, wenn ein helles Fenster vorhanden ist und der Raum warm bleibt. Die Luftfeuchtigkeit allein gleicht fehlendes Tageslicht nicht aus. Weitere Hinweise findest du in unserem Ratgeber zur [Orchideenpflege](/orchideen-pflege/).
 
 **Pflege-Tipps:**
 - Standort: Hell, Ost- oder Westfenster ideal
-- Gießen: Wurzeln tauchen, dann trocknen lassen
-- Besonderheit: Weniger gießen als man denkt
+- Gießen: Wenn das Rindensubstrat fast trocken ist; danach vollständig abtropfen lassen
+- Besonderheit: Wasser nicht in der Blattrosette stehen lassen
 
 ### 5. Tillandsien (Luftpflanzen)
 

@@ -124,12 +124,12 @@ Nicht jeder hat lichtdurchflutete Räume. Diese **pflegeleichten Zimmerpflanzen 
 
 ![Bogenhanf](https://images.unsplash.com/photo-1593482892540-fb3f8f1c0a6a?w=600&q=80)
 
-Der absolute Champion unter den **zimmerpflanzen pflegeleicht wenig licht**! Er überlebt selbst in dunklen Fluren.
+Bogenhanf toleriert schwächeres Tageslicht, wächst an einem hellen Platz aber besser. In einem fensterlosen Flur braucht er eine geeignete Pflanzenlampe. Mehr zu Standort, Erde und Blattproblemen liest du in unserem [Bogenhanf-Ratgeber](/bogenhanf-pflege/).
 
 **Pflege-Tipps:**
-- Standort: Von dunkel bis sonnig – alles möglich
-- Gießen: Sehr sparsam (alle 2-4 Wochen)
-- Besonderheit: Filtert Schadstoffe aus der Luft
+- Standort: Hell bis lichtschattig, keine starke Sommersonne hinter Glas
+- Gießen: Erst wenn die Erde trocken ist; überschüssiges Wasser entfernen
+- Besonderheit: Für Katzen und Hunde giftig
 
 ### 10. Glücksfeder (Zamioculcas zamiifolia)
 

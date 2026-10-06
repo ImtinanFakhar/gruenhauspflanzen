@@ -28,7 +28,7 @@ Ein Platz mit wenig Licht ist etwas anderes als ein fensterloser Raum. Als Orien
 
 ### 1. Bogenhanf (Dracaena trifasciata)
 
-Bogenhanf verträgt schwächeres Licht, wächst an einem hellen Platz aber kräftiger. Für schattigere Stellen eignen sich besonders grüne Sorten. Die [RHS](https://www.rhs.org.uk/plants/sansevieria/growing-guide) empfiehlt durchlässige Erde und sparsames Gießen.
+Bogenhanf verträgt schwächeres Licht, wächst an einem hellen Platz aber kräftiger. Für schattigere Stellen eignen sich besonders grüne Sorten. Die [RHS](https://www.rhs.org.uk/plants/sansevieria/growing-guide) empfiehlt durchlässige Erde und sparsames Gießen. Ausführliche Hinweise zu Standort, Umtopfen und Problemen findest du im [Bogenhanf-Ratgeber](/bogenhanf-pflege/).
 
 **Pflege-Tipp:** Lass das Substrat zwischen den Wassergaben gut abtrocknen. Staunässe verträgt Bogenhanf schlecht.
 

@@ -27,9 +27,9 @@ Ob Wohnzimmer, Schlafzimmer oder Home-Office – mit weißen Pflanzen holen Sie 
 
 Einige Pflanzenklassiker sind bekannt für ihre schönen weißen Blüten:
 
-- **Friedenslilie (Spathiphyllum):** Sie gehört zu den beliebtesten Zimmerpflanzen überhaupt. Ihre glänzenden grünen Blätter und die eleganten weißen Hochblätter wirken edel und zeitlos. Pflegeleicht und luftreinigend – ideal für Wohnzimmer und Büros.
+- **Einblatt (Spathiphyllum):** Seine glänzenden grünen Blätter und weißen Hochblätter wirken elegant. Für neue Blütenstände braucht es helles, indirektes Licht und bedarfsgerechtes Gießen. Mehr dazu im [Einblatt-Ratgeber](/einblatt-pflege/).
 
-![Friedenslilie](/images/posts/weisse-pflanzen-zimmerpflanzen-pflege-sorten/peace-lily.jpg)
+![Einblatt mit weißen Hochblättern und cremefarbenen Blütenkolben](/images/posts/einblatt-pflege/einblatt-spathiphyllum-weisse-hochblaetter.webp)
 
 - **Gardenie:** Mit ihren stark duftenden Blüten bringt sie mediterranes Flair ins Zuhause. Sie benötigt jedoch etwas Erfahrung in der Pflege, da sie hohe Luftfeuchtigkeit und gleichmäßige Pflege bevorzugt.
 

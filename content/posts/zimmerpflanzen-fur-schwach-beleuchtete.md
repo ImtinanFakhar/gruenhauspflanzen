@@ -46,7 +46,7 @@ Die Efeutute lässt sich auf einem Regal oder in einer Hängeampel platzieren. S
 
 ### 4. Einblatt (Spathiphyllum)
 
-Das Einblatt verträgt einen schattigen Platz, blüht bei ausreichend hellem, indirektem Licht aber zuverlässiger. Es braucht etwas gleichmäßigere Feuchtigkeit als Bogenhanf oder Glücksfeder.
+Das Einblatt verträgt einen schattigen Platz, blüht bei ausreichend hellem, indirektem Licht aber zuverlässiger. Es braucht etwas gleichmäßigere Feuchtigkeit als Bogenhanf oder Glücksfeder. Mehr dazu im [Einblatt-Ratgeber](/einblatt-pflege/).
 
 **Pflege-Tipp:** Gieße, wenn die obere Erdschicht angetrocknet ist. Eine dauernd nasse Erde ist auch hier ungünstig.
 

@@ -65,12 +65,12 @@ Die **Monstera im Badezimmer** ist ein absoluter Trend! Mit ihren charakteristis
 
 ### 3. Einblatt (Spathiphyllum)
 
-Das Einblatt ist eine der beliebtesten **Zimmerpflanzen Badezimmer**. Es blüht auch bei weniger Licht und liebt die hohe Luftfeuchtigkeit.
+Ein Einblatt kann im Badezimmer mit Fenster gut wachsen. Für neue weiße Hochblätter braucht es helles, indirektes Licht; in tieferem Schatten blüht es selten. Mehr zu Standort und Gießen findest du im [Einblatt-Ratgeber](/einblatt-pflege/).
 
 **Pflege-Tipps:**
-- Standort: Halbschattig bis schattig
-- Gießen: Gleichmäßig feucht
-- Besonderheit: Zeigt durch hängende Blätter Wasserbedarf an
+- Standort: Hell und indirekt beleuchtet, ohne starke Sommersonne
+- Gießen: Wenn die oberen Zentimeter Erde trocken sind; Staunässe vermeiden
+- Besonderheit: Bei hängenden Blättern erst die Erde prüfen
 
 ### 4. Orchideen
 

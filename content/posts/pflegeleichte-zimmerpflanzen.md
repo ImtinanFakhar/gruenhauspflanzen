@@ -89,12 +89,12 @@ Die Flamingoblume blüht fast das ganze Jahr über mit leuchtend roten, rosa ode
 
 ### 6. Einblatt (Spathiphyllum)
 
-Das Einblatt ist die perfekte **blühende pflegeleichte Zimmerpflanze** für Anfänger. Die weißen Blüten erscheinen zuverlässig und halten lange.
+Das Einblatt ist eine beliebte weiß blühende Zimmerpflanze. Bei hellem, indirektem Licht kann es neue Hochblätter bilden; im tiefen Schatten blüht es selten. Ausführliche Tipps findest du im [Einblatt-Ratgeber](/einblatt-pflege/).
 
 **Pflege-Tipps:**
-- Standort: Halbschattig bis schattig
-- Gießen: Gleichmäßig feucht halten
-- Besonderheit: Zeigt durch hängende Blätter an, wenn es Wasser braucht
+- Standort: Hell mit indirektem Licht für eine bessere Chance auf Blüten
+- Gießen: Wenn die obere Erdschicht angetrocknet ist; nicht im Wasser stehen lassen
+- Besonderheit: Bei hängenden Blättern zuerst die Erde kontrollieren
 
 ### 7. Weihnachtskaktus (Schlumbergera)
 

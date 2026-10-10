@@ -65,7 +65,7 @@ Für die Vermehrung kannst du beim Umtopfen gut bewurzelte Tochterrosetten abtre
 
 ## Ist Bogenhanf giftig für Katzen und Hunde?
 
-Ja. Die [ASPCA führt Bogenhanf als giftig für Katzen und Hunde](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/snake-plant). Nach dem Fressen können unter anderem Übelkeit, Erbrechen und Durchfall auftreten. Stelle die Pflanze so auf, dass Tiere nicht an die Blätter gelangen. Wenn ein Tier davon gefressen hat, frage eine Tierarztpraxis um Rat. Für Haushalte mit neugierigen Haustieren ist ein anderer Standort oder eine nachweislich ungiftige Pflanzenart die bessere Wahl.
+Ja. Die [ASPCA führt Bogenhanf als giftig für Katzen und Hunde](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/snake-plant). Nach dem Fressen können unter anderem Übelkeit, Erbrechen und Durchfall auftreten. Stelle die Pflanze so auf, dass Tiere nicht an die Blätter gelangen. Wenn ein Tier davon gefressen hat, frage eine Tierarztpraxis um Rat. Für Haushalte mit neugierigen Haustieren ist ein anderer Standort oder eine nachweislich ungiftige Pflanzenart die bessere Wahl. Vier konkret geprüfte Arten findest du bei den [ungiftigen Zimmerpflanzen für Katzen](/ungiftige-zimmerpflanzen-fuer-katzen/).
 
 ## Häufige Fragen zur Bogenhanf-Pflege
 

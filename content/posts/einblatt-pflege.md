@@ -65,7 +65,7 @@ Stelle keine Diagnose nur anhand einer Blattfarbe. Die [RHS beschreibt](https://
 
 ## Ist Einblatt giftig für Katzen und Hunde?
 
-Ja. Die [ASPCA führt Spathiphyllum als giftig für Katzen und Hunde](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/peace-lily). Beim Kauen können unlösliche Calciumoxalate Mundreizungen, Speicheln, Erbrechen und Schluckbeschwerden verursachen. Stelle die Pflanze außer Reichweite auf. Hat ein Tier davon gefressen oder zeigt es Beschwerden, kontaktiere eine Tierarztpraxis. Der Name „Friedenslilie“ bedeutet nicht, dass sie für Haustiere unbedenklich ist.
+Ja. Die [ASPCA führt Spathiphyllum als giftig für Katzen und Hunde](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/peace-lily). Beim Kauen können unlösliche Calciumoxalate Mundreizungen, Speicheln, Erbrechen und Schluckbeschwerden verursachen. Stelle die Pflanze außer Reichweite auf. Hat ein Tier davon gefressen oder zeigt es Beschwerden, kontaktiere eine Tierarztpraxis. Der Name „Friedenslilie“ bedeutet nicht, dass sie für Haustiere unbedenklich ist. Für Katzenhaushalte zeigen wir [vier überprüfte Pflanzenalternativen](/ungiftige-zimmerpflanzen-fuer-katzen/).
 
 ## Häufige Fragen zur Einblatt-Pflege
 

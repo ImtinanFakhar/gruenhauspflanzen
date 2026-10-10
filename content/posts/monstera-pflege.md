@@ -82,7 +82,7 @@ Schneide mit sauberem Werkzeug unterhalb eines geeigneten Knotens. Ein Steckling
 
 ## Ist Monstera für Katzen und Hunde giftig?
 
-Ja. Die [ASPCA führt *Monstera deliciosa*](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/cutleaf-philodendron) als giftig für Katzen und Hunde auf. Unlösliche Calciumoxalate können beim Kauen unter anderem Maulreizungen, starkes Speicheln, Erbrechen und Schluckbeschwerden verursachen. Stelle die Pflanze außerhalb ihrer Reichweite auf. Hat ein Tier Pflanzenteile gefressen oder zeigt Symptome, kontaktiere eine Tierarztpraxis.
+Ja. Die [ASPCA führt *Monstera deliciosa*](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/cutleaf-philodendron) als giftig für Katzen und Hunde auf. Unlösliche Calciumoxalate können beim Kauen unter anderem Maulreizungen, starkes Speicheln, Erbrechen und Schluckbeschwerden verursachen. Stelle die Pflanze außerhalb ihrer Reichweite auf. Hat ein Tier Pflanzenteile gefressen oder zeigt Symptome, kontaktiere eine Tierarztpraxis. Unser Überblick über [ungiftige Zimmerpflanzen für Katzen](/ungiftige-zimmerpflanzen-fuer-katzen/) bietet Alternativen mit genau benannten Arten.
 
 ## Häufige Fragen zur Monstera-Pflege
 

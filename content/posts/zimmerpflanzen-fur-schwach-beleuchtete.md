@@ -16,6 +16,8 @@ relatedSlugs: ["gluecksfeder", "pflegeleichte-zimmerpflanzen", "badezimmer-pflan
 
 Für ein Nordfenster oder einen Platz mit schwachem, indirektem Tageslicht sind vor allem **Glücksfeder, Schusterpalme, Aglaonema, Efeutute und Bogenhanf** gute Kandidaten. Sie tolerieren weniger Licht als viele andere Zimmerpflanzen. Das bedeutet aber nicht, dass sie ohne Licht auskommen: Auch diese Arten brauchen Tageslicht oder eine geeignete Pflanzenlampe.
 
+Für Regale und Pflanzenampeln vergleicht unser eigener Ratgeber [Hängepflanzen für wenig Licht](/haengepflanzen-wenig-licht/) Wuchsform, Standort und Pflege von vier passenden Arten.
+
 Ein Platz mit wenig Licht ist etwas anderes als ein fensterloser Raum. Als Orientierung beschreibt die [University of Minnesota Extension](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/lighting-for-indoor-plants) schwaches Licht als passend für ein Nordfenster oder eine recht dunkle Ecke, in der noch Tageslicht ankommt. Je weniger Licht eine Pflanze bekommt, desto langsamer wächst sie meist und desto weniger Wasser verbraucht sie.
 
 | Standort | Gute erste Wahl | Worauf du achten solltest |

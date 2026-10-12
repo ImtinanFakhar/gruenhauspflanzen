@@ -2,6 +2,7 @@
 title: "Glücksfeder: Pflege, Standort, Gießen & Vermehren"
 slug: "gluecksfeder"
 date: "2026-08-11"
+modifiedDate: "2026-10-12"
 author: "Grüne Hauspflanzen Redaktion"
 description: "So pflegst du deine Glücksfeder richtig: Standort, Gießen, Erde, Düngen, Umtopfen, Vermehren, Blüte und Hilfe bei gelben Blättern."
 image: "/images/posts/Gl%C3%BCcksfeder%20Pflege%2C%20Standort%2C%20Gie%C3%9Fen%20%26%20Vermehren/gluecksfeder-zamioculcas-zimmerpflanze.jpg"
@@ -153,20 +154,19 @@ Wenn deine Pflanze nicht blüht, bedeutet das deshalb nicht automatisch, dass si
 
 ![Glücksfeder mit einem gelb werdenden älteren Trieb](/images/posts/Gl%C3%BCcksfeder%20Pflege%2C%20Standort%2C%20Gie%C3%9Fen%20%26%20Vermehren/gelbe-blaetter.jpg)
 
-Ein einzelnes älteres Blatt, das gelb wird, ist nicht automatisch ein Problem. Pflanzen ersetzen mit der Zeit ältere Pflanzenteile.
+**Werden mehrere Blätter oder ganze Stiele gelb, prüfe zuerst die Erde und den Topfboden.** Gelb allein ist keine Diagnose: Sowohl zu viel als auch zu wenig Wasser kann Blätter verfärben. Ein einzelner alter Stiel, der langsam vergilbt, während der Rest gesund bleibt, ist dagegen meist kein Notfall.
 
-Werden allerdings mehrere Triebe gleichzeitig gelb, solltest du die Bedingungen überprüfen.
+### Erde nass, Stiele weich: Was tun?
 
-Eine häufige Ursache kann dauerhaft zu feuchte Erde sein. Besonders kritisch wird es, wenn gleichzeitig:
+Fühlt sich die Erde auch einige Tage nach dem Gießen noch nass an, steht Wasser im Übertopf oder riecht das Substrat muffig, gieße nicht erneut. Nimm die Pflanze vorsichtig aus dem Topf und sieh dir Wurzeln und Rhizome an. Dunkle, matschige Wurzeln und weiche Rhizome sprechen für Fäulnis; feste, intakte Teile sollten erhalten bleiben. Dauerhaft nasses, schlecht belüftetes Substrat begünstigt bei der Glücksfeder Wurzelfäule, wie die [University of Florida IFAS Extension](https://ask.ifas.ufl.edu/publication/EP480/pdf) beschreibt.
 
-- das Substrat lange nass bleibt
-- die Stiele weich werden
-- unangenehmer Geruch aus der Erde kommt
-- Rhizome weich oder dunkel werden
+Entferne deutlich faulige Teile mit sauberem Werkzeug und setze die noch gesunden Rhizome in frisches, lockeres Substrat und einen Topf mit Abzugslöchern. Lass kein Wasser im Übertopf stehen. Ist fast das gesamte Rhizom weich, kann sich die Pflanze möglicherweise nicht mehr erholen. Der [Pflanzenschutzdienst Hessen](https://pflanzenschutzdienst.rp-giessen.de/pflanzenschutzinfothek/zimmerpflanzen/krankheiten-an-zimmer-und-kuebelpflanzen/wurzelfaeule/) nennt ständige Vernässung als Hauptursache von Wurzelfäulen bei Zimmerpflanzen; zusätzliches Gießen oder Düngen behebt geschädigte Wurzeln nicht.
 
-Dann solltest du die Pflanze aus dem Topf nehmen und Wurzeln sowie Rhizome kontrollieren.
+### Erde trocken, Stiele fest: Was tun?
 
-Auch Standortwechsel, sehr wenig Licht oder andere Stressfaktoren können das Erscheinungsbild beeinflussen. Deshalb sollte nicht jede gelbe Stelle automatisch mit mehr Wasser oder Dünger behandelt werden.
+Ist die Erde bis in die Tiefe trocken, der Topf auffällig leicht und die Pflanze lange nicht gegossen worden, kann Wassermangel mitspielen. Gieße dann gründlich und lass überschüssiges Wasser ablaufen. Prüfe die Erde künftig vor jeder Wassergabe, statt nach Kalender zu gießen. Die Glücksfeder speichert Wasser und verträgt Trockenphasen besser als dauerhaft nasse Erde; bei längerer Dürre können laut [IFAS Extension](https://ask.ifas.ufl.edu/publication/EP480/pdf) Fiederblättchen abfallen.
+
+Bleibt die Erde weder lange nass noch dauerhaft trocken, überprüfe Licht und Temperatur. Sehr schwaches Licht kann ältere Blätter vergilben lassen, starke direkte Sonne kann Blattflächen schädigen. Die [Royal Horticultural Society](https://www.rhs.org.uk/plants/types/houseplants/how-to-help-a-poorly-houseplant) empfiehlt deshalb, zuerst Standort, Substrat und Wurzeln gemeinsam zu prüfen. Bereits gelbe Blätter werden nicht wieder grün; achte stattdessen darauf, ob weitere Triebe betroffen sind und ob gesunde neue Triebe nachwachsen.
 
 ## 9. Warum bekommt die Glücksfeder braune Blattspitzen?
 

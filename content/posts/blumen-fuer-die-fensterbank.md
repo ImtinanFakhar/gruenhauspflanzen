@@ -128,7 +128,7 @@ Die Auswahl an Blumen für die Fensterbank ist riesig und bietet für jeden Gesc
 
 Achte bei der Auswahl auf die Lichtverhältnisse und deinen persönlichen Pflegeaufwand, den du investieren möchtest. Mit unseren Tipps findest du garantiert die perfekten Blumen für deine Fensterbank!
 
-## Häufig gestellte Fragen (FAQ)
+## FAQ: Häufige Fragen zu Blumen für die Fensterbank
 
 ### Welche Blumen eignen sich für eine schattige Fensterbank?
 
@@ -141,3 +141,15 @@ Das hängt von der Pflanzenart und der Jahreszeit ab. Als Faustregel gilt: Die o
 ### Können Fensterbankpflanzen die Luftqualität verbessern?
 
 Ja! Viele Zimmerpflanzen wie Einblatt, Grünlilie und Efeutute sind bekannt dafür, Schadstoffe aus der Luft zu filtern und so das Raumklima zu verbessern.
+
+### Welche Blumen vertragen eine Fensterbank an der Südseite?
+
+Volle Sonne vertragen vor allem Geranien, Petunien, Kakteen und Sukkulenten. An sehr heißen Sommertagen solltest du aber ausreichend gießen und empfindlichere Arten mittags leicht schattieren, damit die Blätter hinter dem Glas nicht verbrennen.
+
+### Welche Blumen blühen auf der Fensterbank auch im Winter?
+
+Für die dunkle Jahreszeit eignen sich Weihnachtsstern, Alpenveilchen, Amaryllis und die Orchidee (Phalaenopsis), die bei guter Pflege monatelang blüht. Stelle die Pflanzen hell, aber nicht direkt über die Heizung.
+
+### Kann ich Blumen auch außen auf die Fensterbank stellen?
+
+Ja, in einem Blumenkasten fühlen sich außen zum Beispiel Geranien und Petunien wohl. Frostempfindliche Arten stellst du aber erst nach den Eisheiligen Mitte Mai nach draußen und holst sie vor dem ersten Frost wieder herein.

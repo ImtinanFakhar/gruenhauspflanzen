@@ -6,7 +6,7 @@ author: "Grüne Hauspflanzen Redaktion"
 description: "Entdecken Sie die schönsten Blumen für die Fensterbank – pflegeleicht, dekorativ und perfekt für drinnen & draußen. Tipps für jede Jahreszeit."
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
 category: "Zimmerpflanzen"
-seoTitle: "Blumen für die Fensterbank – Die schönsten Pflanzen | Grüne Hauspflanzen"
+seoTitle: "Blumen für die Fensterbank – Die schönsten Pflanzen"
 imageAlt: "Bunte Blumen und Pflanzen auf einer sonnigen Fensterbank"
 relatedSlugs: ["pflegeleichte-zimmerpflanzen", "weisse-pflanzen-zimmerpflanzen-pflege-sorten"]
 ---

@@ -58,7 +58,7 @@ Kontrolliere die Erde mit dem Finger statt nach einem starren Wochenplan zu gie�
 
 Bei Haustieren ist eine hohe Ampel **kein verlässlicher Schutz**: Katzen klettern, und Ranken wachsen nach unten. Unser Ratgeber zu [ungiftigen Zimmerpflanzen für Katzen](/ungiftige-zimmerpflanzen-fuer-katzen/) bietet genau bestimmte Alternativen. Auch dort gilt: „ungiftig“ bedeutet nicht, dass die Pflanze als Futter gedacht ist.
 
-## Häufige Fragen
+## FAQ: Häufige Fragen zu Hängepflanzen bei wenig Licht
 
 ### Gibt es eine Hängepflanze für ein Zimmer ohne Fenster?
 

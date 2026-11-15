@@ -67,7 +67,7 @@ Pflege die Pflanze nach der Blüte weiter: hell stellen, das Substrat vor dem Gi
 
 Die [ASPCA führt Phalaenopsis als ungiftig für Katzen und Hunde](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/phalaenopsis-orchid). Das macht die Pflanze nicht zu Futter: Stelle sie standsicher auf und halte Dünger sowie Pflanzenschutzmittel von Tieren fern. Bei einer anderen Orchideengattung prüfe ihren botanischen Namen gesondert. Weitere Optionen findest du bei unseren [ungiftigen Zimmerpflanzen für Katzen](/ungiftige-zimmerpflanzen-fuer-katzen/).
 
-## Häufige Fragen zur Orchideenpflege
+## FAQ: Häufige Fragen zur Orchideenpflege
 
 ### Muss ich meine Orchidee jede Woche gießen?
 

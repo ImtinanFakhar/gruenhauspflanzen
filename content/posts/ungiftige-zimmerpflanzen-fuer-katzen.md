@@ -9,7 +9,7 @@ imageAlt: "Bergpalme Chamaedorea elegans im Terrakottatopf; eine Katze sitzt mit
 category: "Pflanzenauswahl"
 seoTitle: "Ungiftige Zimmerpflanzen für Katzen: 4 geprüfte Arten"
 excerpt: "Bergpalme, Zwergpfeffer, Bostonfarn oder Phalaenopsis? Vier konkret benannte Pflanzen, die laut ASPCA für Katzen ungiftig sind, mit Standort- und Pflegetipps."
-relatedSlugs: ["orchideen-pflege"]
+relatedSlugs: ["ungiftige-zimmerpflanzen-fuer-hunde", "orchideen-pflege"]
 showToc: true
 ---
 
@@ -58,7 +58,7 @@ Einblatt, Monstera und Bogenhanf sind dagegen **keine katzenfreundlichen Alterna
 
 Hat deine Katze eine **unbekannte oder möglicherweise giftige Pflanze** gefressen, oder zeigt sie Symptome, kontaktiere umgehend eine Tierarztpraxis. Bei Verdacht auf Kontakt mit einer echten Lilie oder Taglilie warte nicht auf Symptome. Nimm nach Möglichkeit das Pflanzenetikett oder ein Foto zur Bestimmung mit.
 
-## Häufige Fragen
+## FAQ: Häufige Fragen zu ungiftigen Zimmerpflanzen für Katzen
 
 ### Sind alle Orchideen für Katzen ungiftig?
 

@@ -9,7 +9,7 @@ image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&q=80"
 category: "Zimmerpflanzen"
 seoTitle: "17 Zimmerpflanzen für wenig Licht – Pflanzen für dunkle Räume"
 imageAlt: "Grüne Zimmerpflanzen in einem Raum mit indirektem Tageslicht"
-relatedSlugs: ["gluecksfeder", "pflegeleichte-zimmerpflanzen", "badezimmer-pflanzen"]
+relatedSlugs: ["zimmerpflanzen", "gluecksfeder", "pflegeleichte-zimmerpflanzen", "badezimmer-pflanzen"]
 ---
 
 ## Welche Zimmerpflanzen brauchen wenig Licht?

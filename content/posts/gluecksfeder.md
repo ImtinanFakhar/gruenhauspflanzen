@@ -278,6 +278,32 @@ Auch robuste Pflanzen profitieren von möglichst stabilen Bedingungen.
 
 "Jeden Sonntag gießen" ignoriert, wie stark sich der Wasserbedarf zwischen Sommer, Winter, hellen und dunkleren Standorten unterscheiden kann.
 
+## FAQ: Häufige Fragen zur Glücksfeder
+
+### Wie oft muss man eine Glücksfeder gießen?
+
+Die Glücksfeder speichert Wasser in ihren Rhizomen und braucht nur wenig Wasser. Im Sommer reicht es meist, alle zwei bis drei Wochen zu gießen, im Winter noch seltener. Die Erde sollte zwischen den Wassergaben deutlich antrocknen – Staunässe ist der häufigste Pflegefehler und führt zu Wurzelfäule.
+
+### Warum bekommt meine Glücksfeder gelbe Blätter?
+
+Gelbe Blätter sind fast immer ein Zeichen für zu viel Wasser. Prüfe, ob die Erde dauerhaft feucht ist oder Wasser im Übertopf steht, und lasse das Substrat vor dem nächsten Gießen gut abtrocknen. Einzelne alte Blätter am Rand der Pflanze dürfen dagegen normal absterben und können abgeschnitten werden.
+
+### Kann die Glücksfeder blühen?
+
+Ja, ältere und gut eingewachsene Glücksfedern können blühen. Die Blüte ähnelt der des Einblatts, mit einem weißen Hüllblatt und einem gelblichen Kolben. Sie erscheint eher selten und meist an Pflanzen, die schon mehrere Jahre am selben Standort stehen.
+
+### Ist die Glücksfeder giftig für Katzen und Hunde?
+
+Ja, die Glücksfeder enthält Calciumoxalat-Kristalle und gilt für Hunde und Katzen als giftig. Stelle sie deshalb außerhalb der Reichweite deiner Haustiere auf oder wähle eine sichere Alternative aus unserem Ratgeber zu [ungiftigen Zimmerpflanzen für Katzen](/ungiftige-zimmerpflanzen-fuer-katzen/).
+
+### Wie lässt sich die Glücksfeder vermehren?
+
+Am einfachsten vermehrst du die Glücksfeder beim Umtopfen durch Teilen der Rhizome: Ziehe die Pflanze aus dem Topf, trenne ein Teilstück mit mindestens zwei bis drei Trieben ab und setze es in frische Erde. Auch Blattstecklinge sind möglich, brauchen aber viele Monate, bis sie ein Rhizom bilden.
+
+### Welcher Standort ist für die Glücksfeder ideal?
+
+Die Glücksfeder ist beim Licht sehr flexibel: Sie wächst an hellen Plätzen am schnellsten, bleibt aber auch im Halbschatten und in dunkleren Ecken gesund. Nur direkte Mittagssonne verträgt sie schlecht, weil ihre Blätter dann ausbleichen können. Normale Zimmertemperaturen zwischen 18 und 24 Grad sind ideal.
+
 ## Fazit: Die Glücksfeder ist robust, wenn du sie nicht zu nass hältst
 
 Die Glücksfeder ist eine der interessantesten Zimmerpflanzen für alle, die viel Grün möchten, aber keine besonders komplizierte Pflege suchen.

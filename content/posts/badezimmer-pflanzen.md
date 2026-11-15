@@ -6,9 +6,9 @@ author: "Grüne Hauspflanzen Redaktion"
 description: "Entdecke die besten Badezimmer Pflanzen für jede Lichtsituation. Pflanzen fürs Bad ohne Fenster, hängende Badpflanzen & moderne Ideen für dein Wellness-Bad."
 image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&q=80"
 category: "Zimmerpflanzen"
-seoTitle: "20 Badezimmer Pflanzen – Die besten Pflanzen fürs Bad | Grüne Hauspflanzen"
+seoTitle: "20 Badezimmer Pflanzen – Die besten Pflanzen fürs Bad"
 imageAlt: "Tropische Pflanzen im Badezimmer neben einer Badewanne"
-relatedSlugs: ["zimmerpflanzen-fur-schwach-beleuchtete", "pflegeleichte-zimmerpflanzen"]
+relatedSlugs: ["zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "pflegeleichte-zimmerpflanzen"]
 ---
 
 Das Badezimmer ist der perfekte Ort für tropische Zimmerpflanzen! Die hohe Luftfeuchtigkeit, die beim Duschen entsteht, erinnert viele Pflanzen an ihre natürliche Heimat im Regenwald. In diesem umfassenden Ratgeber zeigen wir dir die **besten Badezimmer Pflanzen** – von robusten Arten für dunkle Bäder ohne Fenster bis hin zu stylischen Hängepflanzen für moderne Wellness-Oasen.

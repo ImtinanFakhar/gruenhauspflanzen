@@ -9,13 +9,13 @@ category: "Zimmerpflanzen"
 seoTitle: "15 große Zimmerpflanzen für dein Zuhause"
 imageAlt: "Große Zimmerpflanzen wie Monstera, Strelitzia und Kentiapalme in einem hellen Wohnzimmer"
 excerpt: "Große Zimmerpflanzen bringen Höhe, Struktur und viel Grün in Wohnräume. Entdecke 15 schöne Arten und finde heraus, welche zu deinem Standort passt."
-relatedSlugs: ["pflegeleichte-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "weisse-pflanzen-zimmerpflanzen-pflege-sorten"]
+relatedSlugs: ["zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "weisse-pflanzen-zimmerpflanzen-pflege-sorten"]
 showToc: true
 ---
 
 Große Zimmerpflanzen können einen Raum sofort verändern. Eine einzelne stattliche Pflanze neben dem Sofa, in einer freien Ecke oder vor einer ruhigen Wand wirkt oft stärker als viele kleine Töpfe. Sie bringt Höhe in den Raum, schafft einen natürlichen Blickfang und lässt die Einrichtung lebendiger wirken.
 
-Bei der Auswahl solltest du allerdings nicht nur auf die Größe achten. Einige große Zimmerpflanzen brauchen sehr viel Tageslicht, während andere auch mit einem etwas weniger hellen Standort zurechtkommen. Dazu kommen Unterschiede bei Wasserbedarf, Wachstum und Platzbedarf.
+Einen Überblick über alle beliebten Arten – von klein bis groß – findest du in unserem großen Ratgeber zu [Zimmerpflanzen](/zimmerpflanzen/). Bei der Auswahl solltest du allerdings nicht nur auf die Größe achten. Einige große Zimmerpflanzen brauchen sehr viel Tageslicht, während andere auch mit einem etwas weniger hellen Standort zurechtkommen. Dazu kommen Unterschiede bei Wasserbedarf, Wachstum und Platzbedarf.
 
 Wenn du dir eine große Zimmerpflanze aussuchst, solltest du deshalb zuerst überlegen, wie hell der Standort wirklich ist und wie viel Platz die Pflanze langfristig bekommen kann. Gerade junge Pflanzen können nach einigen Jahren deutlich größer und breiter werden als beim Kauf.
 
@@ -238,6 +238,32 @@ Eine große Pflanze braucht häufig gar nicht viel zusätzliche Dekoration. Beso
 Ein schlichter Keramiktopf, Holz, Leinen und ruhige Farben lassen das Grün stärker wirken. Gleichzeitig sollte die Pflanze nicht nur nach Design-Gesichtspunkten aufgestellt werden. Der passende Standort kommt immer zuerst.
 
 Gerade große Zimmerpflanzen können einen Raum strukturieren, eine leere Ecke füllen oder einen Übergang zwischen Wohn- und Essbereich natürlicher wirken lassen.
+
+## FAQ: Häufige Fragen zu großen Zimmerpflanzen
+
+### Welche große Zimmerpflanze ist am pflegeleichtesten?
+
+Zu den pflegeleichtesten großen Zimmerpflanzen gehören der Drachenbaum, der Bogenhanf und die Glücksfeder. Sie verzeihen unregelmäßiges Gießen, kommen mit normaler Raumluft zurecht und brauchen nur alle paar Jahre einen größeren Topf. Wer ganz neu anfängt, ist mit diesen Arten auf der sicheren Seite.
+
+### Wie viel Licht brauchen große Zimmerpflanzen?
+
+Die meisten großen Zimmerpflanzen wachsen am besten an einem hellen Standort ohne direkte Mittagssonne, etwa in der Nähe eines Ost- oder Westfensters. Arten wie Bogenhanf und Glücksfeder kommen auch mit weniger Licht zurecht, wachsen dann aber langsamer. Direkte Sonne hinter Glas kann dagegen die Blätter verbrennen.
+
+### Welche große Zimmerpflanze passt in eine dunkle Ecke?
+
+Für dunklere Ecken eignen sich Glücksfeder, Bogenhanf und Schusterpalme am besten. Sie bleiben auch bei wenig Licht gesund, bilden aber kaum neue Blätter. Ein heller Platz ein paar Meter vom Fenster entfernt ist für fast alle Arten der bessere Kompromiss.
+
+### Wie oft muss man große Zimmerpflanzen umtopfen?
+
+Junge, schnell wachsende Pflanzen wie die Monstera brauchen etwa alle ein bis zwei Jahre einen größeren Topf. Langsam wachsende Arten wie der Drachenbaum kommen drei bis vier Jahre mit demselben Topf aus. Der richtige Zeitpunkt ist gekommen, wenn Wurzeln aus dem Abzugsloch wachsen oder die Erde sehr schnell austrocknet.
+
+### Sind große Zimmerpflanzen giftig für Haustiere?
+
+Einige beliebte Arten wie Monstera, Dieffenbachia und Gummibaum sind für Hunde und Katzen giftig. Ungiftige große Alternativen sind zum Beispiel die Kentiapalme, die Arekapalme und die Bergpalme. In unserem Ratgeber zu [ungiftigen Zimmerpflanzen für Hunde](/ungiftige-zimmerpflanzen-fuer-hunde/) findest du alle sicheren Arten im Überblick.
+
+### Wie hoch werden Monstera und Strelitzia in der Wohnung?
+
+Eine Monstera erreicht in der Wohnung meist 1,5 bis 2,5 Meter, wenn sie eine Rankhilfe bekommt. Die Strelitzia wird 1,5 bis 2 Meter hoch und braucht vor allem in der Breite Platz für ihre großen Blätter. Plane beim Kauf also nicht nur die Höhe, sondern auch den Durchmesser der Pflanze mit ein.
 
 ## Fazit: Große Zimmerpflanzen bringen sofort mehr Grün in dein Zuhause
 

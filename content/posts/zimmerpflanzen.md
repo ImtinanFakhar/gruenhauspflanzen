@@ -6,7 +6,7 @@ modifiedDate: "2026-11-15"
 author: "Grüne Hauspflanzen Redaktion"
 description: "Die 25 beliebtesten Zimmerpflanzen im Überblick: Arten für helle, halbschattige und dunkle Standorte, fürs Bad und für Anfänger – mit Pflegefakten."
 excerpt: "Von der Monstera bis zur Glücksfeder: Diese 25 Zimmerpflanzen passen zu jedem Standort – sortiert nach Licht, Raum und Pflegeaufwand, mit den wichtigsten Fakten zu Licht und Wasser."
-image: "/images/posts/zimmerpflanzen/zimmerpflanzen-01.webp"
+image: "/images/posts/zimmerpflanzen/zimmerpflanzen-wohnzimmer.webp"
 category: "Zimmerpflanzen"
 seoTitle: "Zimmerpflanzen: 25 beliebte Arten für jeden Standort"
 imageAlt: "Helles Wohnzimmer voller grüner Zimmerpflanzen in verschiedenen Größen an einem großen Fenster"
@@ -16,7 +16,7 @@ showToc: true
 
 ## Welche Zimmerpflanze passt zu dir?
 
-![Helles Wohnzimmer voller grüner Zimmerpflanzen](/images/posts/zimmerpflanzen/zimmerpflanzen-01.webp)
+![Helles Wohnzimmer voller grüner Zimmerpflanzen](/images/posts/zimmerpflanzen/zimmerpflanzen-wohnzimmer.webp)
 
 Die beliebteste Zimmerpflanze nützt wenig, wenn sie am falschen Platz steht. Entscheidend sind drei Fragen: **Wie viel Licht bekommt der Standort? Wie viel Platz steht zur Verfügung? Und wie viel Pflege möchtest du übernehmen?** Wer diese Fragen ehrlich beantwortet, findet fast immer eine Pflanze, die zuverlässig wächst, statt nach wenigen Monaten einzugehen.
 
@@ -38,7 +38,7 @@ Um deinen Standort einzuschätzen, hilft ein einfacher Test: Wirft die Pflanze a
 
 Ein heller Standort bedeutet: mehrere Stunden direktes oder sehr helles indirektes Licht, etwa an einem Süd- oder Westfenster. Hier fühlen sich die großen, schnell wachsenden Arten wohl, die in unserer Auswahl [großer Zimmerpflanzen](/grosse-zimmerpflanzen/) noch ausführlicher beschrieben sind.
 
-![Große Zimmerpflanzen an einem sonnigen Fenster](/images/posts/zimmerpflanzen/zimmerpflanzen-02.webp)
+![Große Zimmerpflanzen an einem sonnigen Fenster](/images/posts/zimmerpflanzen/zimmerpflanzen-helle-standorte.webp)
 
 ### 1. Monstera (Monstera deliciosa)
 
@@ -74,7 +74,7 @@ Die Yucca, oft als Yucca-Palme verkauft, speichert Wasser in ihrem dicken Stamm 
 
 Halbschatten heißt: helles, indirektes Licht ohne direkte Sonneneinstrahlung, zum Beispiel ein bis zwei Meter hinter einem Fenster oder an einem Ostfenster. Viele beliebte Blattpflanzen stammen aus dem Unterwuchs tropischer Wälder und sind genau an diese Bedingungen angepasst. Einige von ihnen verbessern ganz nebenbei das Raumklima – mehr dazu in unserer Auswahl [luftreinigender Zimmerpflanzen](/luftreinigende-zimmerpflanzen/). Der Halbschatten ist der unkomplizierteste Standort im Haus: Die Erde trocknet langsamer aus als in der Sonne, die Blätter verbrennen nicht, und die Auswahl an geeigneten Arten ist groß. Wer unsicher ist, ob der eigene Platz hell oder halbschattig ist, fährt mit den Pflanzen dieser Gruppe fast immer richtig.
 
-![Blattpflanzen und Hängepflanzen im Halbschatten auf einem Regal](/images/posts/zimmerpflanzen/zimmerpflanzen-03.webp)
+![Blattpflanzen und Hängepflanzen im Halbschatten auf einem Regal](/images/posts/zimmerpflanzen/zimmerpflanzen-halbschatten.webp)
 
 ### 6. Efeutute (Epipremnum aureum)
 
@@ -110,7 +110,7 @@ Das Einblatt zeigt mit hängenden Blättern deutlich an, wenn es Wasser braucht,
 
 Wenig Licht bedeutet nicht Dunkelheit: Auch diese Arten brauchen Tageslicht, etwa an einem Nordfenster oder in einer helleren Zimmerecke. Ganz ohne Fenster geht es dauerhaft nur mit einer Pflanzenlampe. Alle folgenden Arten werden in unserem Spezial-Ratgeber zu [Zimmerpflanzen für schwach beleuchtete Räume](/zimmerpflanzen-fur-schwach-beleuchtete/) noch einmal ausführlich verglichen.
 
-![Schattentolerante Zimmerpflanzen in einem Raum mit wenig Licht](/images/posts/zimmerpflanzen/zimmerpflanzen-04.webp)
+![Schattentolerante Zimmerpflanzen in einem Raum mit wenig Licht](/images/posts/zimmerpflanzen/zimmerpflanzen-wenig-licht.webp)
 
 ### 11. Glücksfeder (Zamioculcas zamiifolia)
 
@@ -146,7 +146,7 @@ Efeu wächst hängend oder kletternd und begrünt auch kühlere, lichtärmere Pl
 
 Im Badezimmer ist die Luftfeuchtigkeit hoch – ein Vorteil für Pflanzen aus tropischen Regenwäldern, die in trockener Heizungsluft leiden. Voraussetzung bleibt ein Fenster mit Tageslicht; fensterlose Bäder brauchen eine Pflanzenlampe. Weitere Arten und Kombinationen findest du bei unseren [Badezimmer-Pflanzen](/badezimmer-pflanzen/).
 
-![Farne, Calathea und Orchidee in einem hellen Badezimmer](/images/posts/zimmerpflanzen/zimmerpflanzen-05.webp)
+![Farne, Calathea und Orchidee in einem hellen Badezimmer](/images/posts/zimmerpflanzen/zimmerpflanzen-badezimmer.webp)
 
 ### 16. Nestfarn (Asplenium nidus)
 
@@ -176,7 +176,7 @@ Die Bergpalme bleibt kompakt, wächst langsam und kommt mit der feuchten Luft un
 
 Wer neu anfängt oder wenig Zeit hat, sollte mit Arten starten, die Trockenheit verzeihen und keine besonderen Ansprüche an Luftfeuchtigkeit oder Wasserqualität stellen. Alle sechs folgenden Pflanzen gehören auch zu unserer Auswahl [pflegeleichter Zimmerpflanzen](/pflegeleichte-zimmerpflanzen/) – der häufigste Fehler bei ihnen ist nicht zu wenig, sondern zu viel Wasser.
 
-![Kleine pflegeleichte Sukkulenten und Anfängerpflanzen auf einer Fensterbank](/images/posts/zimmerpflanzen/zimmerpflanzen-06.webp)
+![Kleine pflegeleichte Sukkulenten und Anfängerpflanzen auf einer Fensterbank](/images/posts/zimmerpflanzen/zimmerpflanzen-pflegeleicht.webp)
 
 ### 20. Echeveria (Echeveria elegans)
 
@@ -216,7 +216,7 @@ Die Haworthia, auch Zebra-Haworthie genannt, ist eine kleine Sukkulente mit wei�
 
 ## Zimmerpflanzen richtig pflegen
 
-![Zimmerpflanze wird mit einer kleinen Gießkanne gegossen](/images/posts/zimmerpflanzen/zimmerpflanzen-07.webp)
+![Zimmerpflanze wird mit einer kleinen Gießkanne gegossen](/images/posts/zimmerpflanzen/zimmerpflanzen-giessen.webp)
 
 ### Gießen
 
@@ -236,7 +236,19 @@ Fast alle Probleme gehen auf drei Ursachen zurück: zu viel Wasser, zu wenig Lic
 
 ## FAQ: Häufige Fragen zu Zimmerpflanzen
 
-### Welche Zimmerpflanze ist die pflegeleichteste?
+### Welche Zimmerpflanzen sind am beliebtesten?
+
+Die beliebtesten Zimmerpflanzen in Deutschland sind Monstera, Efeutute, Orchidee (Phalaenopsis), Glücksfeder, Bogenhanf, Grünlilie und Geigenfeige. In der Liste oben findest du 25 Arten mit Standort- und Pflegeangaben – sortiert nach Lichtbedarf, damit du die passende für deinen Raum findest.
+
+### Welche Zimmerpflanze ist gut für das Wohnzimmer?
+
+Für das Wohnzimmer eignen sich besonders größere Arten mit dekorativen Blättern: Monstera, Strelitzie, Geigenfeige, Kentiapalme und Gummibaum. Welche Höhe und welcher Lichtbedarf zu deinem Raum passen, zeigt der Überblick über [große Zimmerpflanzen](/grosse-zimmerpflanzen/).
+
+### Welche 10 Zimmerpflanzen sind die schönsten?
+
+Das ist Geschmackssache – zu den dekorativsten Arten zählen die Monstera mit ihren geschlitzten Blättern, die Strelitzie, die Calathea mit ihren Blattmustern, die blühende Orchidee und die Geigenfeige. Alle stellen wir oben mit Bildern und Pflegeangaben vor.
+
+### Welche Zimmerpflanze ist besonders pflegeleicht?
 
 Glücksfeder, Bogenhanf und Geldbaum gehören zu den pflegeleichtesten Arten. Sie speichern Wasser, verzeihen vergessene Gießrunden und kommen mit unterschiedlichen Lichtverhältnissen zurecht. Wichtig ist nur, sie nicht zu häufig zu gießen.
 

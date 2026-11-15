@@ -34,6 +34,12 @@ const features = [
 
 const categories = [
   {
+    title: 'Zimmerpflanzen',
+    description: 'Alle beliebten Arten im Überblick – nach Standort, Licht und Pflege sortiert.',
+    image: '/images/posts/zimmerpflanzen/zimmerpflanzen-wohnzimmer.webp',
+    href: '/zimmerpflanzen/',
+  },
+  {
     title: 'Wenig Licht',
     description: 'Die besten Zimmerpflanzen für dunkle Räume und schattige Ecken.',
     image: 'https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=400&q=80',

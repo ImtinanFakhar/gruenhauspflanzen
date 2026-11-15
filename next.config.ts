@@ -1,13 +1,17 @@
 import type { NextConfig } from "next";
 
+const isPagesExport = process.env.CF_PAGES_EXPORT === '1';
+
 const nextConfig: NextConfig = {
   reactCompiler: true,
+  ...(isPagesExport ? { output: 'export' as const } : {}),
 
   // Enable trailing slashes to match WordPress URL structure
   trailingSlash: true,
 
   // Configure external images (Unsplash, Wikipedia)
   images: {
+    unoptimized: isPagesExport,
     remotePatterns: [
       {
         protocol: 'https',
@@ -25,7 +29,7 @@ const nextConfig: NextConfig = {
   },
 
   // Permanent redirects for URL consolidation
-  async redirects() {
+  redirects: isPagesExport ? undefined : async () => {
     return [
       {
         source: '/zimmerpflanzen-wenig-licht',

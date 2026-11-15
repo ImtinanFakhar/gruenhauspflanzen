@@ -1,6 +1,6 @@
 # 🌿 Grüne Hauspflanzen - Next.js Blog
 
-Ein moderner Zimmerpflanzen-Blog, gebaut mit Next.js 14 und Markdown.
+Ein moderner Zimmerpflanzen-Blog, gebaut mit Next.js 16 und Markdown.
 
 ## 🚀 Schnellstart
 
@@ -110,24 +110,32 @@ image: "/images/mein-bild.jpg"
 ## 🚀 Deployment auf Vercel
 
 ### Schritt 1: GitHub Repository
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/DEIN-USERNAME/gruenhauspflanzen.git
-git push -u origin main
-```
+Das bestehende Repository auf dem Branch `master` verwenden und Änderungen dorthin pushen.
 
 ### Schritt 2: Vercel verbinden
 1. Gehe zu [vercel.com](https://vercel.com)
 2. "New Project" → GitHub Repository auswählen
-3. "Deploy" klicken
-4. Fertig! 🎉
+3. `master` als Produktionsbranch wählen; der Build-Befehl ist `npm run build`
+4. "Deploy" klicken
+5. Fertig! 🎉
 
 ### Schritt 3: Domain konfigurieren
 1. In Vercel: Settings → Domains
 2. `gruenhauspflanzen.de` hinzufügen
 3. DNS bei deinem Domain-Provider anpassen
+
+## Deployment auf Cloudflare Pages
+
+Die Website kann als statische Next.js-Export-Version auf Cloudflare Pages laufen. Der normale `npm run build` bleibt für Vercel erhalten.
+
+1. Das GitHub-Repository als Pages-Projekt importieren, das Preset `Next.js (Static HTML Export)` auswählen und `master` als Produktionsbranch wählen.
+2. Build command: `npm run build:pages`
+3. Build output directory: `out`
+4. Node.js 22 verwenden (bei Bedarf `NODE_VERSION=22` in den Pages-Umgebungsvariablen setzen).
+
+Lokal kann der Pages-Build mit `npm run build:pages` geprüft werden. Er erzeugt `out/` mit HTML, Assets, Sitemap, `robots.txt` und `_redirects`. Der alte Pfad `/zimmerpflanzen-wenig-licht/` wird auf Pages über `public/_redirects` dauerhaft umgeleitet; bei Vercel bleibt die Weiterleitung in `next.config.ts` aktiv. Der Kontakt läuft in beiden Umgebungen über Formspree. Vor einer DNS-Umstellung die Pages-Vorschau einschließlich Artikelbildern, Weiterleitung und Kontaktformular prüfen. Die kanonischen URLs bleiben auf `https://gruenhauspflanzen.de/`.
+
+Der Build-Befehl korrigiert auf Windows außerdem die [bekannten Next.js-16-Pfade für statische Navigationsdaten](https://github.com/vercel/next.js/issues/85374); beim Cloudflare-Build unter Linux ist diese Korrektur nicht nötig.
 
 ---
 
@@ -181,11 +189,7 @@ const navLinks = [
 
 ## 📧 Kontakt-Formular
 
-Das Kontaktformular ist aktuell nur Frontend. Für echte Funktionalität:
-
-1. **Formspree** (einfach): [formspree.io](https://formspree.io)
-2. **Vercel Serverless Function** (fortgeschritten)
-3. **EmailJS** (kostenlos): [emailjs.com](https://www.emailjs.com)
+Das Kontaktformular sendet direkt an Formspree und benötigt keine Vercel- oder Cloudflare-Serverfunktion.
 
 ---
 

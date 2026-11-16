@@ -9,7 +9,7 @@ imageAlt: "Einblatt Spathiphyllum mit glänzenden grünen Blättern und weißen 
 category: "Pflanzenpflege"
 seoTitle: "Einblatt pflegen: Gießen, Standort & gelbe Blätter"
 excerpt: "Helles, indirektes Licht und Wasser nach Prüfung der Erde: So pflegst du dein Einblatt und findest die Ursache für hängende oder gelbe Blätter."
-relatedSlugs: ["zimmerpflanzen-fur-schwach-beleuchtete", "badezimmer-pflanzen", "weisse-pflanzen-zimmerpflanzen-pflege-sorten"]
+relatedSlugs: ["zimmerpflanzen-fur-schwach-beleuchtete", "badezimmer-pflanzen", "weisse-pflanzen-zimmerpflanzen-pflege-sorten", "bluehende-zimmerpflanzen"]
 showToc: true
 ---
 

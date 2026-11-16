@@ -9,7 +9,7 @@ imageAlt: "Blühende Phalaenopsis-Orchidee mit weißen und rosafarbenen Blüten,
 category: "Pflanzenpflege"
 seoTitle: "Orchideen pflegen: Phalaenopsis richtig gießen & pflegen"
 excerpt: "Helles, gefiltertes Licht, luftiges Rindensubstrat und gründliches Gießen mit anschließendem Abtropfen: So pflegst du deine Phalaenopsis im Alltag."
-relatedSlugs: ["blumen-fuer-die-fensterbank", "badezimmer-pflanzen", "pflegeleichte-zimmerpflanzen"]
+relatedSlugs: ["blumen-fuer-die-fensterbank", "badezimmer-pflanzen", "pflegeleichte-zimmerpflanzen", "bluehende-zimmerpflanzen"]
 showToc: true
 ---
 

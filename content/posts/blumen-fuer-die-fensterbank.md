@@ -8,7 +8,7 @@ image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
 category: "Zimmerpflanzen"
 seoTitle: "Blumen für die Fensterbank – Die schönsten Pflanzen"
 imageAlt: "Bunte Blumen und Pflanzen auf einer sonnigen Fensterbank"
-relatedSlugs: ["pflegeleichte-zimmerpflanzen", "weisse-pflanzen-zimmerpflanzen-pflege-sorten"]
+relatedSlugs: ["pflegeleichte-zimmerpflanzen", "weisse-pflanzen-zimmerpflanzen-pflege-sorten", "bluehende-zimmerpflanzen"]
 ---
 
 Blumen auf der Fensterbank verschönern nicht nur das Zuhause, sondern verbessern auch das Raumklima. Ob für die sonnige oder schattige Seite des Hauses, für den Winter oder das ganze Jahr – die Auswahl ist riesig. In diesem Artikel zeigen wir dir, welche Blumen sich perfekt für die Fensterbank eignen, egal ob drinnen oder draußen, und welche Pflege sie benötigen. Entdecke pflegeleichte, robuste Sorten sowie besondere Pflanzen, die deine Fensterbank in ein wahres Blumenparadies verwandeln!
@@ -124,7 +124,7 @@ Für kreative Köpfe ist das Häkeln von Blumen eine wunderbare DIY-Option:
 
 ## Fazit
 
-Die Auswahl an Blumen für die Fensterbank ist riesig und bietet für jeden Geschmack und jede Lichtsituation die passende Lösung. Ob pflegeleichte Klassiker wie Geranien und Orchideen, sonnenhungrige Kakteen oder winterharte Weihnachtssterne – mit der richtigen Pflanzenwahl wird deine Fensterbank zum grünen Paradies.
+Die Auswahl an Blumen für die Fensterbank ist riesig und bietet für jeden Geschmack und jede Lichtsituation die passende Lösung. Ob pflegeleichte Klassiker wie Geranien und Orchideen, sonnenhungrige Kakteen oder winterharte Weihnachtssterne – mit der richtigen Pflanzenwahl wird deine Fensterbank zum grünen Paradies. Eine Übersicht blühender Arten für das ganze Jahr findest du in unserem Ratgeber zu [blühenden Zimmerpflanzen](/bluehende-zimmerpflanzen/).
 
 Achte bei der Auswahl auf die Lichtverhältnisse und deinen persönlichen Pflegeaufwand, den du investieren möchtest. Mit unseren Tipps findest du garantiert die perfekten Blumen für deine Fensterbank!
 

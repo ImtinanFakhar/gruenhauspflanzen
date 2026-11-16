@@ -9,7 +9,7 @@ category: "Zimmerpflanzen"
 seoTitle: "15 große Zimmerpflanzen für dein Zuhause"
 imageAlt: "Große Zimmerpflanzen wie Monstera, Strelitzia und Kentiapalme in einem hellen Wohnzimmer"
 excerpt: "Große Zimmerpflanzen bringen Höhe, Struktur und viel Grün in Wohnräume. Entdecke 15 schöne Arten und finde heraus, welche zu deinem Standort passt."
-relatedSlugs: ["zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "weisse-pflanzen-zimmerpflanzen-pflege-sorten"]
+relatedSlugs: ["zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "weisse-pflanzen-zimmerpflanzen-pflege-sorten", "drachenbaum-pflege", "gummibaum-pflege"]
 showToc: true
 ---
 
@@ -79,7 +79,7 @@ Der Gummibaum gehört zu den klassischen großen Zimmerpflanzen und passt besond
 
 Mit der Zeit kann ein Gummibaum deutlich an Höhe gewinnen. Durch einen passenden Rückschnitt lässt sich beeinflussen, ob er eher schlank wächst oder sich stärker verzweigt. Ein heller Standort unterstützt kräftiges Wachstum und eine schöne Blattentwicklung.
 
-Wenn du eine relativ unkomplizierte große Zimmerpflanze suchst, ist der Gummibaum oft eine gute Wahl. Weitere robuste Arten findest du auch in unserem Ratgeber zu [pflegeleichten Zimmerpflanzen](/pflegeleichte-zimmerpflanzen/).
+Wenn du eine relativ unkomplizierte große Zimmerpflanze suchst, ist der Gummibaum oft eine gute Wahl. Weitere robuste Arten findest du auch in unserem Ratgeber zu [pflegeleichten Zimmerpflanzen](/pflegeleichte-zimmerpflanzen/). Die ausführliche Pflegeanleitung findest du in unserem [Gummibaum-Ratgeber](/gummibaum-pflege/).
 
 ## 5. Drachenbaum
 
@@ -89,7 +89,7 @@ Ein Drachenbaum ist besonders interessant, wenn du eine große Zimmerpflanze suc
 
 Dadurch wirkt ein größerer Drachenbaum schlanker als eine breite Monstera oder Palme. Er passt gut in schmale Ecken, neben Sideboards oder in ein Homeoffice.
 
-Drachenbäume kommen häufig auch mit etwas weniger Licht zurecht als sehr sonnenliebende Großpflanzen. Trotzdem bedeutet das nicht, dass sie ohne Tageslicht auskommen. Für schwierigere Standorte findest du weitere Möglichkeiten in unserem Ratgeber zu [Zimmerpflanzen für wenig Licht](/zimmerpflanzen-fur-schwach-beleuchtete/).
+Drachenbäume kommen häufig auch mit etwas weniger Licht zurecht als sehr sonnenliebende Großpflanzen. Trotzdem bedeutet das nicht, dass sie ohne Tageslicht auskommen. Für schwierigere Standorte findest du weitere Möglichkeiten in unserem Ratgeber zu [Zimmerpflanzen für wenig Licht](/zimmerpflanzen-fur-schwach-beleuchtete/). Alles zur Pflege im Detail: unser [Drachenbaum-Ratgeber](/drachenbaum-pflege/).
 
 ## 6. Kentiapalme
 

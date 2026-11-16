@@ -10,7 +10,7 @@ image: "/images/posts/zimmerpflanzen/zimmerpflanzen-wohnzimmer.webp"
 category: "Zimmerpflanzen"
 seoTitle: "Zimmerpflanzen: 25 beliebte Arten für jeden Standort"
 imageAlt: "Helles Wohnzimmer voller grüner Zimmerpflanzen in verschiedenen Größen an einem großen Fenster"
-relatedSlugs: ["grosse-zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete"]
+relatedSlugs: ["grosse-zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "calathea-pflege", "ufopflanze-pflege", "bluehende-zimmerpflanzen"]
 showToc: true
 ---
 
@@ -60,7 +60,7 @@ Die Geigenfeige trägt große, geigenförmige Blätter an einem aufrechten Stamm
 
 ### 4. Gummibaum (Ficus elastica)
 
-Der Gummibaum ist ein Klassiker mit dicken, glänzenden Blättern. Er wächst an einem hellen Standort zügig in die Höhe und lässt sich durch Schnitt kompakt halten. Sorten mit panaschierten Blättern brauchen mehr Licht als die rein grüne Form.
+Der Gummibaum ist ein Klassiker mit dicken, glänzenden Blättern. Er wächst an einem hellen Standort zügig in die Höhe und lässt sich durch Schnitt kompakt halten. Sorten mit panaschierten Blättern brauchen mehr Licht als die rein grüne Form. Wie du ihn richtig pflegst, schneidest und zum Verzweigen bringst, zeigt unser [Gummibaum-Ratgeber](/gummibaum-pflege/).
 
 **Licht:** hell bis halbschattig. **Wasser:** erst gießen, wenn die Erde oben abgetrocknet ist.
 
@@ -90,7 +90,7 @@ Der Herzblatt-Philodendron bildet lange Triebe mit herzförmigen Blättern und w
 
 ### 8. Drachenbaum (Dracaena marginata)
 
-Der Drachenbaum wächst schlank in die Höhe und passt deshalb auch in schmale Ecken mit indirektem Licht. Er ist genügsam, reagiert aber empfindlich auf zu viel Wasser und auf fluoridhaltiges Leitungswasser, das braune Blattspitzen verursachen kann. Abgestandenes oder gefiltertes Wasser ist die bessere Wahl.
+Der Drachenbaum wächst schlank in die Höhe und passt deshalb auch in schmale Ecken mit indirektem Licht. Er ist genügsam, reagiert aber empfindlich auf zu viel Wasser und auf fluoridhaltiges Leitungswasser, das braune Blattspitzen verursachen kann. Abgestandenes oder gefiltertes Wasser ist die bessere Wahl. Alle Pflegeschritte im Detail findest du in unserem [Drachenbaum-Ratgeber](/drachenbaum-pflege/).
 
 **Licht:** halbschattig bis hell. **Wasser:** sparsam; obere Erdschicht gut antrocknen lassen.
 
@@ -156,7 +156,7 @@ Der Nestfarn bildet eine Rosette aus glänzenden, welligen Blättern und liebt d
 
 ### 17. Calathea (Calathea orbifolia und andere)
 
-Calatheas sind für ihre gemusterten Blätter bekannt, die sich abends zusammenfalten und morgens wieder öffnen. Sie brauchen hohe Luftfeuchtigkeit, Wärme und weiches Wasser, sonst bekommen die Blattränder braune Stellen. Im Badezimmer finden sie die besten Bedingungen im Haus. Wer kein Bad mit Fenster hat, kann die Luftfeuchtigkeit mit einer Schale Wasser auf der Heizung oder regelmäßigem Besprühen erhöhen – ganz ohne diese Maßnahmen bleiben Calatheas anspruchsvoller als die meisten anderen Pflanzen dieser Liste.
+Calatheas sind für ihre gemusterten Blätter bekannt, die sich abends zusammenfalten und morgens wieder öffnen. Sie brauchen hohe Luftfeuchtigkeit, Wärme und weiches Wasser, sonst bekommen die Blattränder braune Stellen. Im Badezimmer finden sie die besten Bedingungen im Haus. Wer kein Bad mit Fenster hat, kann die Luftfeuchtigkeit mit einer Schale Wasser auf der Heizung oder regelmäßigem Besprühen erhöhen – ganz ohne diese Maßnahmen bleiben Calatheas anspruchsvoller als die meisten anderen Pflanzen dieser Liste. Die komplette Pflegeanleitung steht in unserem [Calathea-Ratgeber](/calathea-pflege/).
 
 **Licht:** halbschattig, helles indirektes Licht. **Wasser:** stets leicht feucht, am besten mit Regen- oder gefiltertem Wasser.
 
@@ -198,7 +198,7 @@ Aloe vera speichert Wasser in ihren fleischigen Blättern und ist entsprechend g
 
 ### 23. Ufopflanze (Pilea peperomioides)
 
-Die Ufopflanze trägt runde, münzenförmige Blätter an langen Stielen und bildet laufend kleine Ableger, die sich leicht verschenken lassen. Sie wächst zügig, wenn sie hell steht und regelmäßig gedreht wird, damit sie nicht einseitig zum Licht wächst. Für Haustiere gilt sie als unbedenklich.
+Die Ufopflanze trägt runde, münzenförmige Blätter an langen Stielen und bildet laufend kleine Ableger, die sich leicht verschenken lassen. Sie wächst zügig, wenn sie hell steht und regelmäßig gedreht wird, damit sie nicht einseitig zum Licht wächst. Für Haustiere gilt sie als unbedenklich. Wie Pflege und Vermehrung über Ableger funktionieren, erklärt unser [Ufopflanzen-Ratgeber](/ufopflanze-pflege/).
 
 **Licht:** hell, ohne pralle Mittagssonne. **Wasser:** gießen, wenn die obere Schicht angetrocknet ist.
 
@@ -280,4 +280,4 @@ Das reicht von wenigen Zentimetern bei Haworthia und Echeveria bis zu über zwei
 
 ## Fazit
 
-Die richtige Zimmerpflanze ist die, die zu deinem Licht, deinem Platz und deinem Alltag passt. Für sonnige Fenster sind Monstera, Strelitzia und Geigenfeige die erste Wahl, im Halbschatten punkten Efeutute, Philodendron und Einblatt, und für dunklere Ecken bleiben Glücksfeder, Bogenhanf und Schusterpalme die verlässlichsten Arten. Anfänger machen mit Geldbaum, Aloe vera oder Ufopflanze kaum etwas falsch. Starte mit zwei oder drei Pflanzen, beobachte, wie sie an ihrem Platz wachsen, und erweitere deine Sammlung Schritt für Schritt – so entsteht nach und nach ein Zuhause, das zu jeder Jahreszeit grün ist. Und wenn eine Pflanze einmal nicht gedeiht, liegt es fast nie an dir, sondern an einem Standort, der nicht zu ihr passt: Umstellen hilft häufiger als jede Pflegemaßnahme.
+Die richtige Zimmerpflanze ist die, die zu deinem Licht, deinem Platz und deinem Alltag passt. Für sonnige Fenster sind Monstera, Strelitzia und Geigenfeige die erste Wahl, im Halbschatten punkten Efeutute, Philodendron und Einblatt, und für dunklere Ecken bleiben Glücksfeder, Bogenhanf und Schusterpalme die verlässlichsten Arten. Anfänger machen mit Geldbaum, Aloe vera oder Ufopflanze kaum etwas falsch. Starte mit zwei oder drei Pflanzen, beobachte, wie sie an ihrem Platz wachsen, und erweitere deine Sammlung Schritt für Schritt – so entsteht nach und nach ein Zuhause, das zu jeder Jahreszeit grün ist. Wer Blüten statt nur Blattgrün möchte, findet in unserem Ratgeber zu [blühenden Zimmerpflanzen](/bluehende-zimmerpflanzen/) zwölf Arten, deren Blütezeiten sich über das Jahr verteilen. Und wenn eine Pflanze einmal nicht gedeiht, liegt es fast nie an dir, sondern an einem Standort, der nicht zu ihr passt: Umstellen hilft häufiger als jede Pflegemaßnahme.

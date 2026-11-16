@@ -234,7 +234,7 @@ Diese **Badezimmer Pflanzen wenig Licht** kommen auch mit schwierigen Lichtverh�
 
 ![Calathea](https://images.unsplash.com/photo-1637967907817-bbbc2f1a08ab?w=600&q=80)
 
-Calatheas mit ihren gemusterten Blättern lieben die hohe Luftfeuchtigkeit im Bad und brauchen wenig Licht.
+Calatheas mit ihren gemusterten Blättern lieben die hohe Luftfeuchtigkeit im Bad und brauchen wenig Licht. Mehr dazu in unserem [Calathea-Ratgeber](/calathea-pflege/).
 
 **Pflege-Tipps:**
 - Keine direkte Sonne

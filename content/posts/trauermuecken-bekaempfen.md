@@ -9,7 +9,7 @@ imageAlt: "Gelbtafel in der Erde einer Zimmerpflanze zum Fangen erwachsener Trau
 category: "Pflanzenpflege"
 seoTitle: "Trauermücken bekämpfen: Fliegen und Larven loswerden"
 excerpt: "Kleine schwarze Fliegen steigen aus der Blumenerde auf? Entscheidend ist, die feuchte Erde und die Larven im Topf zu behandeln, nicht nur die fliegenden Tiere."
-relatedSlugs: ["pflegeleichte-zimmerpflanzen", "gluecksfeder", "zimmerpflanzen-fur-schwach-beleuchtete"]
+relatedSlugs: ["pflegeleichte-zimmerpflanzen", "gluecksfeder", "zimmerpflanzen-fur-schwach-beleuchtete", "spinnmilben-bekaempfen", "blattlaeuse-bekaempfen", "gelbe-blaetter-zimmerpflanzen"]
 showToc: true
 ---
 
@@ -92,6 +92,10 @@ Gelbe Blätter oder schlappe Triebe sind deshalb **kein Beweis** für Larvenscha
 Kontrolliere neue Pflanzen und Erde, bevor du sie zu deiner Sammlung stellst. Entferne abgestorbene Pflanzenteile von der Erdoberfläche, lagere Substrat verschlossen, verwende passende Töpfe mit Wasserabzug und gieße nach dem tatsächlichen Bedarf der Pflanze statt nach einem starren Wochenplan. Prüfe bei wiederkehrendem Befall alle nahen Töpfe, nicht nur den mit den meisten Fliegen.
 
 Ein kühler, dunkler Standort verlängert außerdem oft die Zeit, in der Erde feucht bleibt. Das bedeutet nicht, dass du jede Pflanze in direkte Sonne stellen solltest. Wähle einen artgerechten Platz; unser Ratgeber zu [Zimmerpflanzen für wenig Licht](/zimmerpflanzen-fur-schwach-beleuchtete/) erklärt, wo weniger Tageslicht noch ausreicht.
+
+## Wenn es keine Trauermücken sind
+
+Nicht jedes Pflanzenproblem sind Trauermücken. Feine Gespinste und helle Sprenkel an den Blattunterseiten deuten auf [Spinnmilben](/spinnmilben-bekaempfen/) hin, klebrige Blätter und Läuse-Kolonien an den Triebspitzen auf [Blattläuse](/blattlaeuse-bekaempfen/). Und wenn Blätter gelb werden, hilft unser Diagnose-Ratgeber [Gelbe Blätter an Zimmerpflanzen](/gelbe-blaetter-zimmerpflanzen/) dabei, die Ursache Schritt für Schritt einzugrenzen.
 
 ## FAQ: Häufige Fragen zu Trauermücken
 

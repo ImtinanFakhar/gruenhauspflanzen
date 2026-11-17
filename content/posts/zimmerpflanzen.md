@@ -186,7 +186,7 @@ Die Echeveria bildet symmetrische Blattrosetten in Blaugrün und braucht vor all
 
 ### 21. Geldbaum (Crassula ovata)
 
-Der Geldbaum ist ein kleiner Sukkulenten-Baum mit dicken, glänzenden Blättern und wird bei guter Pflege Jahrzehnte alt. Er wächst langsam, verträgt Schnitt und lässt sich aus einzelnen Blättern vermehren. Ein heller Platz und ein durchlässiges Substrat sind die wichtigsten Voraussetzungen.
+Der Geldbaum ist ein kleiner Sukkulenten-Baum mit dicken, glänzenden Blättern und wird bei guter Pflege Jahrzehnte alt. Er wächst langsam, verträgt Schnitt und lässt sich aus einzelnen Blättern vermehren. Ein heller Platz und ein durchlässiges Substrat sind die wichtigsten Voraussetzungen. Alles zu Gießen, Schneiden und Überwintern steht in unserem [Geldbaum-Ratgeber](/geldbaum-pflege/).
 
 **Licht:** hell bis sonnig. **Wasser:** erst gießen, wenn die Erde durchgetrocknet ist.
 

@@ -10,7 +10,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Ufopflanze & Pilea pflegen: Standort, Gießen, Vermehren"
 imageAlt: "Gesunde Ufopflanze (Pilea peperomioides) mit runden, münzförmigen Blättern in einem hellen Wohnzimmer"
 excerpt: "Die Ufopflanze (Pilea peperomioides) ist pflegeleicht, wächst schnell und lässt sich kinderleicht über Ableger vermehren. So bleibt deine Pilea gesund und formschön."
-relatedSlugs: ["zimmerpflanzen", "ungiftige-zimmerpflanzen-fuer-katzen", "ungiftige-zimmerpflanzen-fuer-hunde", "pflegeleichte-zimmerpflanzen"]
+relatedSlugs: ["zimmerpflanzen", "ungiftige-zimmerpflanzen-fuer-katzen", "ungiftige-zimmerpflanzen-fuer-hunde", "pflegeleichte-zimmerpflanzen", "geldbaum-pflege"]
 showToc: true
 ---
 

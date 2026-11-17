@@ -10,7 +10,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Efeutute pflegen: Standort, Gießen & Vermehren"
 imageAlt: "Efeutute mit langen Ranken, die von einem Holzregal herabhängen"
 excerpt: "Die Efeutute ist eine der dankbarsten Rankpflanzen für die Wohnung. Erfahre, welcher Standort passt, wie du richtig gießt und wie sie sich über Stecklinge vermehren lässt."
-relatedSlugs: ["haengepflanzen-wenig-licht", "luftreinigende-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete"]
+relatedSlugs: ["haengepflanzen-wenig-licht", "luftreinigende-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "efeutute-vermehren"]
 showToc: true
 ---
 
@@ -151,7 +151,7 @@ Die Efeutute gehört zu den am einfachsten zu vermehrenden Zimmerpflanzen überh
 
 Alternativ kannst du Stecklinge sofort in Erde setzen. Stecke den Knoten in leicht feuchtes, lockeres Substrat und halte die Erde konstant mäßig feucht, ohne sie zu durchnässen. Eine durchsichtige Abdeckung oder ein Mini-Gewächshaus erhöht die Luftfeuchtigkeit und erleichtert das Anwachsen. Sobald neue Blätter erscheinen, ist der Steckling angewachsen.
 
-Mehrere Stecklinge in einem Topf ergeben von Anfang an eine dichte, buschige Pflanze – so werden auch die Pflanzen im Handel produziert.
+Mehrere Stecklinge in einem Topf ergeben von Anfang an eine dichte, buschige Pflanze – so werden auch die Pflanzen im Handel produziert. Die ausführliche Anleitung mit allen Methoden, den häufigsten Fehlern und genauen Zeitangaben findest du in unserem Ratgeber [Efeutute vermehren](/efeutute-vermehren/).
 
 ## 9. Die schönsten Efeutute-Sorten
 

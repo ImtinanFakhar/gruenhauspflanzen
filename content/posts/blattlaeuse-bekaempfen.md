@@ -9,7 +9,7 @@ imageAlt: "Kolonie grüner Blattläuse an der Triebspitze einer Zimmerpflanze"
 category: "Zimmerpflanzen"
 seoTitle: "Blattläuse bekämpfen: Hausmittel gegen Läuse an Zimmerpflanzen"
 excerpt: "Kleben die Blätter und sitzen grüne Läuse an den Triebspitzen? Entscheidend ist die Kombination: Läuse mechanisch entfernen, mit Hausmitteln behandeln und die Behandlung wiederholen."
-relatedSlugs: ["trauermuecken-bekaempfen", "spinnmilben-bekaempfen", "gelbe-blaetter-zimmerpflanzen"]
+relatedSlugs: ["trauermuecken-bekaempfen", "spinnmilben-bekaempfen", "wolllaeuse-bekaempfen", "schildlaeuse-bekaempfen", "zimmerpflanzen-schaedlinge", "gelbe-blaetter-zimmerpflanzen"]
 showToc: true
 ---
 

@@ -9,7 +9,7 @@ imageAlt: "Blattunterseite einer Zimmerpflanze mit feinem Spinnmilben-Gespinst i
 category: "Zimmerpflanzen"
 seoTitle: "Spinnmilben bekämpfen: Hausmittel, Neemöl & Raubmilben"
 excerpt: "Feine Gespinste an den Blattunterseiten und helle Sprenkel auf den Blättern? So erkennst du Spinnmilben sicher, duschst sie ab und hältst sie mit Neemöl, Raubmilben und feuchter Luft dauerhaft fern."
-relatedSlugs: ["trauermuecken-bekaempfen", "blattlaeuse-bekaempfen", "gelbe-blaetter-zimmerpflanzen"]
+relatedSlugs: ["trauermuecken-bekaempfen", "blattlaeuse-bekaempfen", "wolllaeuse-bekaempfen", "schildlaeuse-bekaempfen", "zimmerpflanzen-schaedlinge", "gelbe-blaetter-zimmerpflanzen"]
 showToc: true
 ---
 

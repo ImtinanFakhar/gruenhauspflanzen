@@ -9,7 +9,7 @@ imageAlt: "Zimmerpflanze mit mehreren gelben Blättern zwischen gesundem grünem
 category: "Zimmerpflanzen"
 seoTitle: "Gelbe Blätter an Zimmerpflanzen: Ursachen & Hilfe"
 excerpt: "Ein gelbes Blatt ist kein Grund zur Panik – aber ein Signal. Welche Blätter gelb werden und wie das Gelb aussieht, verrät dir fast immer die Ursache."
-relatedSlugs: ["zimmerpflanzen", "trauermuecken-bekaempfen", "spinnmilben-bekaempfen"]
+relatedSlugs: ["zimmerpflanzen", "trauermuecken-bekaempfen", "spinnmilben-bekaempfen", "zimmerpflanzen-schaedlinge"]
 showToc: true
 ---
 

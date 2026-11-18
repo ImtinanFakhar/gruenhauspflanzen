@@ -55,7 +55,7 @@ Wie du Standort, Gießen und Kletterhilfe aufeinander abstimmst, erklärt unser 
 
 ![Strelitzia nicolai neben einem hellen Fenster](/images/posts/Große%20Zimmerpflanzen%2015%20beeindruckende%20Pflanzen%20für%20dein%20Zuhause/03-strelitzia-nicolai-grosse-zimmerpflanze.jpg)
 
-Die Strelitzia nicolai ist ideal, wenn du eine große Zimmerpflanze mit tropischer Wirkung suchst. Ihre langen Blattstiele und großen, bananenähnlichen Blätter lassen sie fast wie einen kleinen Indoor-Baum wirken.
+Die Strelitzia nicolai ist ideal, wenn du eine große Zimmerpflanze mit tropischer Wirkung suchst. Alles zu Standort, Gießen und Blüte steht in unserer [Strelitzie-Pflegeanleitung](/strelitzie-pflege/). Ihre langen Blattstiele und großen, bananenähnlichen Blätter lassen sie fast wie einen kleinen Indoor-Baum wirken.
 
 Sie gehört allerdings zu den Pflanzen, die einen wirklich hellen Standort brauchen. Ein Platz nahe einem großen Fenster ist deshalb besser als eine dunkle Ecke tief im Wohnzimmer. Mit zunehmendem Alter wächst die Strelitzia nicht nur nach oben, sondern benötigt auch seitlich viel Platz.
 

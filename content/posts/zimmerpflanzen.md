@@ -48,7 +48,7 @@ Die Monstera ist die wohl bekannteste Zimmerpflanze überhaupt. Ihre großen, ge
 
 ### 2. Strelitzia (Strelitzia nicolai)
 
-Die Strelitzia erinnert mit ihren bananenähnlichen Blättern an eine Palme und wird mit den Jahren richtig groß. Sie liebt einen sonnigen Platz und verträgt auch direkte Sonne, wenn sie langsam daran gewöhnt wird. Im Winter steht sie gern etwas kühler.
+Die Strelitzia erinnert mit ihren bananenähnlichen Blättern an eine Palme und wird mit den Jahren richtig groß. Sie liebt einen sonnigen Platz und verträgt auch direkte Sonne, wenn sie langsam daran gewöhnt wird. Im Winter steht sie gern etwas kühler. Details findest du in unserer [Strelitzie-Pflegeanleitung](/strelitzie-pflege/).
 
 **Licht:** sehr hell bis sonnig. **Wasser:** im Sommer gleichmäßig feucht halten, im Winter sparsamer gießen.
 
@@ -192,7 +192,7 @@ Der Geldbaum ist ein kleiner Sukkulenten-Baum mit dicken, glänzenden Blättern 
 
 ### 22. Aloe vera (Aloe barbadensis)
 
-Aloe vera speichert Wasser in ihren fleischigen Blättern und ist entsprechend genügsam. Sie steht gern sonnig und warm und braucht einen Topf mit Abzugsloch, damit überschüssiges Wasser ablaufen kann. Das Gel der Blätter wird traditionell zur Hautpflege genutzt; für Haustiere ist die Pflanze dagegen giftig.
+Aloe vera speichert Wasser in ihren fleischigen Blättern und ist entsprechend genügsam. Sie steht gern sonnig und warm und braucht einen Topf mit Abzugsloch, damit überschüssiges Wasser ablaufen kann. Das Gel der Blätter wird traditionell zur Hautpflege genutzt; für Haustiere ist die Pflanze dagegen giftig. Wie du sie pflegst und das Gel erntest, zeigt unsere [Aloe-vera-Pflegeanleitung](/aloe-vera-pflege/).
 
 **Licht:** sonnig bis hell. **Wasser:** sparsam, Erde zwischen den Gaben austrocknen lassen.
 

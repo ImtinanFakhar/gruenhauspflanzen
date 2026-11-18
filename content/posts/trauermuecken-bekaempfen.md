@@ -9,7 +9,7 @@ imageAlt: "Gelbtafel in der Erde einer Zimmerpflanze zum Fangen erwachsener Trau
 category: "Pflanzenpflege"
 seoTitle: "Trauermücken bekämpfen: Fliegen und Larven loswerden"
 excerpt: "Kleine schwarze Fliegen steigen aus der Blumenerde auf? Entscheidend ist, die feuchte Erde und die Larven im Topf zu behandeln, nicht nur die fliegenden Tiere."
-relatedSlugs: ["pflegeleichte-zimmerpflanzen", "gluecksfeder", "zimmerpflanzen-fur-schwach-beleuchtete", "spinnmilben-bekaempfen", "blattlaeuse-bekaempfen", "gelbe-blaetter-zimmerpflanzen"]
+relatedSlugs: ["spinnmilben-bekaempfen", "blattlaeuse-bekaempfen", "wolllaeuse-bekaempfen", "schildlaeuse-bekaempfen", "zimmerpflanzen-schaedlinge", "gelbe-blaetter-zimmerpflanzen"]
 showToc: true
 ---
 
@@ -95,7 +95,7 @@ Ein kühler, dunkler Standort verlängert außerdem oft die Zeit, in der Erde fe
 
 ## Wenn es keine Trauermücken sind
 
-Nicht jedes Pflanzenproblem sind Trauermücken. Feine Gespinste und helle Sprenkel an den Blattunterseiten deuten auf [Spinnmilben](/spinnmilben-bekaempfen/) hin, klebrige Blätter und Läuse-Kolonien an den Triebspitzen auf [Blattläuse](/blattlaeuse-bekaempfen/). Und wenn Blätter gelb werden, hilft unser Diagnose-Ratgeber [Gelbe Blätter an Zimmerpflanzen](/gelbe-blaetter-zimmerpflanzen/) dabei, die Ursache Schritt für Schritt einzugrenzen.
+Nicht jedes Pflanzenproblem sind Trauermücken. Feine Gespinste und helle Sprenkel an den Blattunterseiten deuten auf [Spinnmilben](/spinnmilben-bekaempfen/) hin, klebrige Blätter und Läuse-Kolonien an den Triebspitzen auf [Blattläuse](/blattlaeuse-bekaempfen/), weiße Wattegespinste in den Blattachseln auf [Wollläuse](/wolllaeuse-bekaempfen/) und feste braune Höcker an den Stängeln auf [Schildläuse](/schildlaeuse-bekaempfen/). Einen Überblick über alle häufigen Arten gibt unser Ratgeber [Schädlinge an Zimmerpflanzen erkennen & bekämpfen](/zimmerpflanzen-schaedlinge/). Und wenn Blätter gelb werden, hilft unser Diagnose-Ratgeber [Gelbe Blätter an Zimmerpflanzen](/gelbe-blaetter-zimmerpflanzen/) dabei, die Ursache Schritt für Schritt einzugrenzen.
 
 ## FAQ: Häufige Fragen zu Trauermücken
 

@@ -13,7 +13,7 @@ relatedSlugs: ["ungiftige-zimmerpflanzen-fuer-katzen", "pflegeleichte-zimmerpfla
 showToc: true
 ---
 
-**Ungiftige Zimmerpflanzen für Hunde** sind unter anderem Calathea, Grünlilie (*Chlorophytum comosum*), Arekapalme (*Dypsis lutescens*) und die Glückskastanie (*Pachira aquatica*). Alle 15 Pflanzen in diesem Ratgeber stehen in der Pflanzendatenbank der [ASPCA](https://www.aspca.org/pet-care/animal-poison-control/dogs-plant-list) als ungiftig für Hunde. **Ungiftig bedeutet aber nicht essbar:** Auch Pflanzen ohne bekannte Giftstoffe können in größeren Mengen den Magen deines Hundes reizen. Eine ungiftige Pflanze ist keine Futterpflanze – sie ist die Pflanze, bei der ein versehentliches Knabbern kein Notfall ist.
+**Ungiftige Zimmerpflanzen für Hunde** sind unter anderem Calathea, [Grünlilie](/gruenlilie-pflege/) (*Chlorophytum comosum*), Arekapalme (*Dypsis lutescens*) und die Glückskastanie (*Pachira aquatica*). Alle 15 Pflanzen in diesem Ratgeber stehen in der Pflanzendatenbank der [ASPCA](https://www.aspca.org/pet-care/animal-poison-control/dogs-plant-list) als ungiftig für Hunde. **Ungiftig bedeutet aber nicht essbar:** Auch Pflanzen ohne bekannte Giftstoffe können in größeren Mengen den Magen deines Hundes reizen. Eine ungiftige Pflanze ist keine Futterpflanze – sie ist die Pflanze, bei der ein versehentliches Knabbern kein Notfall ist.
 
 Kaufe immer nach dem **botanischen Namen auf dem Etikett**. Alltagsnamen wie „Palme“, „Geldbaum“ oder „Farn“ bezeichnen oft ganz verschiedene Pflanzen – und nicht alle davon sind hundefreundlich. Warum das beim Geldbaum besonders wichtig ist, liest du weiter unten bei der Glückskastanie.
 

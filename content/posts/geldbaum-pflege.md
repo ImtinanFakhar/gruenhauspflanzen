@@ -9,7 +9,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Geldbaum Pflege: Crassula gesund & kompakt halten"
 imageAlt: "Gesunder Geldbaum (Crassula ovata) mit dicken, glänzenden Blättern auf einer hellen Fensterbank"
 excerpt: "Der Geldbaum speichert Wasser in seinen dicken Blättern und verzeiht vergessene Wassergaben. Erfahre, wie er mit viel Licht, wenig Wasser und dem richtigen Substrat kompakt und gesund bleibt."
-relatedSlugs: ["zimmerpflanzen", "ufopflanze-pflege", "pflegeleichte-zimmerpflanzen", "aloe-vera-pflege"]
+relatedSlugs: ["zimmerpflanzen", "ufopflanze-pflege", "pflegeleichte-zimmerpflanzen", "aloe-vera-pflege", "sukkulenten-pflege"]
 showToc: true
 ---
 

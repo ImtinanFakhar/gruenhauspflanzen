@@ -9,7 +9,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Aloe vera Pflege: Standort, Gießen & Gel ernten"
 imageAlt: "Gesunde Aloe vera mit kräftiger, aufrechter Blattrosette auf einer sonnigen Fensterbank"
 excerpt: "Die Aloe vera speichert Wasser in ihren dicken Blättern und will vor allem eines: viel Licht und sehr wenig Wasser. Erfahre, wie die Rosette kompakt bleibt, wie du das Gel richtig erntest und Kindel sicher abtrennst."
-relatedSlugs: ["geldbaum-pflege", "zimmerpflanzen", "ungiftige-zimmerpflanzen-fuer-katzen"]
+relatedSlugs: ["geldbaum-pflege", "zimmerpflanzen", "ungiftige-zimmerpflanzen-fuer-katzen", "sukkulenten-pflege"]
 showToc: true
 ---
 

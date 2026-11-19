@@ -10,7 +10,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Efeutute vermehren: Stecklinge in Wasser oder Erde ziehen"
 imageAlt: "Efeutute-Steckling in einem Wasserglas mit kräftigen weißen Wurzeln auf der Fensterbank"
 excerpt: "Aus einer Efeutute werden im Handumdrehen viele: Schneide die Stecklinge am Knoten, bewurzele sie in Wasser oder Erde und ziehe daraus neue, buschige Pflanzen – so geht es Schritt für Schritt."
-relatedSlugs: ["efeutute-pflege", "zimmerpflanzen", "haengepflanzen-wenig-licht"]
+relatedSlugs: ["efeutute-pflege", "zimmerpflanzen", "haengepflanzen-wenig-licht", "monstera-vermehren"]
 showToc: true
 ---
 

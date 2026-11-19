@@ -10,7 +10,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Drachenbaum pflegen: Standort, Gießen & Schneiden"
 imageAlt: "Großer Drachenbaum (Dracaena marginata) mit mehreren Stämmen und rot gerandeten Blättern in einer hellen Wohnzimmerecke"
 excerpt: "Der Drachenbaum ist eine der pflegeleichtesten großen Zimmerpflanzen überhaupt. Mit dem richtigen Standort, maßvollem Gießen und einem Rückschnitt zur rechten Zeit bleibt er über viele Jahre dekorativ."
-relatedSlugs: ["grosse-zimmerpflanzen", "zimmerpflanzen", "luftreinigende-zimmerpflanzen", "pflegeleichte-zimmerpflanzen"]
+relatedSlugs: ["grosse-zimmerpflanzen", "zimmerpflanzen", "luftreinigende-zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "yucca-palme-pflege"]
 showToc: true
 ---
 

@@ -54,7 +54,7 @@ Die Strelitzia erinnert mit ihren bananenähnlichen Blättern an eine Palme und 
 
 ### 3. Geigenfeige (Ficus lyrata)
 
-Die Geigenfeige trägt große, geigenförmige Blätter an einem aufrechten Stamm und ist ein Blickfang in hellen Wohnräumen. Sie reagiert empfindlich auf Standortwechsel und Zugluft: Ein einmal gewählter, heller Platz sollte möglichst bleiben. Drehe den Topf gelegentlich, damit die Krone gleichmäßig wächst.
+Die Geigenfeige trägt große, geigenförmige Blätter an einem aufrechten Stamm und ist ein Blickfang in hellen Wohnräumen. Sie reagiert empfindlich auf Standortwechsel und Zugluft: Ein einmal gewählter, heller Platz sollte möglichst bleiben. Drehe den Topf gelegentlich, damit die Krone gleichmäßig wächst. Wie du sie im Detail versorgst, zeigt unsere Anleitung zur [Geigenfeige Pflege](/geigenfeige-pflege/).
 
 **Licht:** hell, gern mit etwas Morgensonne. **Wasser:** mäßig gießen und Staunässe unbedingt vermeiden.
 
@@ -66,7 +66,7 @@ Der Gummibaum ist ein Klassiker mit dicken, glänzenden Blättern. Er wächst an
 
 ### 5. Yucca (Yucca elephantipes)
 
-Die Yucca, oft als Yucca-Palme verkauft, speichert Wasser in ihrem dicken Stamm und verzeiht vergessene Gießrunden. Sie steht am liebsten sonnig und kommt mit trockener Raumluft gut zurecht. Zu viel Wasser ist ihr größter Feind, weil der Stamm dann faulen kann.
+Die Yucca, oft als Yucca-Palme verkauft, speichert Wasser in ihrem dicken Stamm und verzeiht vergessene Gießrunden. Sie steht am liebsten sonnig und kommt mit trockener Raumluft gut zurecht. Zu viel Wasser ist ihr größter Feind, weil der Stamm dann faulen kann. Alles Weitere steht in unserer Anleitung zur [Yucca Palme Pflege](/yucca-palme-pflege/).
 
 **Licht:** sonnig bis hell. **Wasser:** sparsam; Erde zwischen den Gaben deutlich abtrocknen lassen.
 
@@ -96,7 +96,7 @@ Der Drachenbaum wächst schlank in die Höhe und passt deshalb auch in schmale E
 
 ### 9. Grünlilie (Chlorophytum comosum)
 
-Die Grünlilie ist fast unkaputtbar und bildet an langen Ausläufern kleine Tochterpflanzen, die sich leicht eintopfen lassen. Sie gilt als unbedenklich für Haushalte mit Katzen und Hunden. An einem halbschattigen Platz wächst sie dicht und bildet viele Ableger.
+Die Grünlilie ist fast unkaputtbar und bildet an langen Ausläufern kleine Tochterpflanzen, die sich leicht eintopfen lassen. Sie gilt als unbedenklich für Haushalte mit Katzen und Hunden. An einem halbschattigen Platz wächst sie dicht und bildet viele Ableger. Mehr dazu in unserer Anleitung zur [Grünlilie Pflege](/gruenlilie-pflege/).
 
 **Licht:** halbschattig bis hell. **Wasser:** regelmäßig gießen, kurze Trockenheit wird verziehen.
 

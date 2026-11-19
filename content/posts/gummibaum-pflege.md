@@ -10,7 +10,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Gummibaum pflegen: Standort, Gießen & Schneiden"
 imageAlt: "Großer Gummibaum mit glänzenden dunkelgrünen Blättern in einem hellen Wohnzimmer"
 excerpt: "Der Gummibaum ist ein robuster Klassiker für Wohnzimmer und Büro. Mit dem richtigen Standort, maßvollem Gießen und einem gelegentlichen Schnitt bleibt er über Jahre gesund und formschön."
-relatedSlugs: ["grosse-zimmerpflanzen", "zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "bogenhanf-pflege"]
+relatedSlugs: ["grosse-zimmerpflanzen", "zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "bogenhanf-pflege", "geigenfeige-pflege"]
 showToc: true
 ---
 

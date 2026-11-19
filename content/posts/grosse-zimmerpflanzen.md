@@ -69,7 +69,7 @@ Die Geigenfeige, auch Ficus lyrata genannt, gehört zu den auffälligsten große
 
 Besonders gut funktioniert sie in hellen Wohnräumen, in denen genügend Tageslicht vorhanden ist. Sie sollte nicht dauerhaft zu nass stehen. Gerade bei großen Töpfen ist es sinnvoll, vor dem Gießen zu prüfen, ob das Substrat im oberen Bereich bereits abgetrocknet ist.
 
-Die Geigenfeige eignet sich gut, wenn du eine große Pflanze möchtest, die eher nach oben wächst und nicht so stark rankt oder auslädt wie eine Monstera.
+Die Geigenfeige eignet sich gut, wenn du eine große Pflanze möchtest, die eher nach oben wächst und nicht so stark rankt oder auslädt wie eine Monstera. Die ausführliche Pflege erklärt unsere Anleitung zur [Geigenfeige Pflege](/geigenfeige-pflege/).
 
 ## 4. Gummibaum
 
@@ -119,7 +119,7 @@ Die Yucca ist eine der klassischsten großen Zimmerpflanzen. Ihr kräftiger Stam
 
 Sie eignet sich besonders gut für helle Räume. Weil die Krone vergleichsweise kompakt bleibt, passt eine größere Yucca auch dort, wo für eine breite Palme oder Monstera nicht genügend Platz vorhanden ist.
 
-Ein weiterer Vorteil ist der relativ unkomplizierte Charakter. Wer eine große Pflanze sucht, aber nicht ständig mit empfindlichen Tropenpflanzen kämpfen möchte, kann mit einer Yucca gut starten.
+Ein weiterer Vorteil ist der relativ unkomplizierte Charakter. Wer eine große Pflanze sucht, aber nicht ständig mit empfindlichen Tropenpflanzen kämpfen möchte, kann mit einer Yucca gut starten. Details stehen in unserer Anleitung zur [Yucca Palme Pflege](/yucca-palme-pflege/).
 
 ## 9. Strahlenaralie
 

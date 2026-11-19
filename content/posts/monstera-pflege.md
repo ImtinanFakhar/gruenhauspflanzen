@@ -9,7 +9,7 @@ imageAlt: "Monstera deliciosa mit geschlitzten Blättern und Kletterhilfe neben 
 category: "Pflanzenpflege"
 seoTitle: "Monstera pflegen: Standort, Gießen und Blattprobleme"
 excerpt: "Eine Monstera braucht Tageslicht, einen Topf mit Wasserabzug und Platz zum Klettern. So stimmst du die Pflege auf deine Wohnung und die Jahreszeit ab."
-relatedSlugs: ["grosse-zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "trauermuecken-bekaempfen"]
+relatedSlugs: ["grosse-zimmerpflanzen", "pflegeleichte-zimmerpflanzen", "trauermuecken-bekaempfen", "monstera-vermehren"]
 showToc: true
 ---
 
@@ -75,6 +75,8 @@ Ein verfärbtes Blatt ist **keine eindeutige Diagnose**. Prüfe zuerst, ob nur e
 Gieße nicht reflexartig mehr, nur weil Blätter hängen. Prüfe den Ballen zuerst. Wenn Flecken schnell zunehmen oder die Ursache unklar bleibt, kann eine örtliche Gartenberatung bei der Diagnose helfen.
 
 ## Monstera vermehren: Ein Blatt allein reicht nicht
+
+Die komplette Schritt-für-Schritt-Anleitung mit Wasser-, Erd- und Moos-Methode findest du in unserem Ratgeber [Monstera vermehren](/monstera-vermehren/).
 
 Ein Steckling braucht einen **Stängelknoten mit Knospe**. Ein einzelnes Blatt mit Blattstiel ohne Knoten bildet keine neue Monstera-Pflanze. Diesen Unterschied erklärt die [University of Minnesota Extension](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/propagating-monstera-deliciosa).
 

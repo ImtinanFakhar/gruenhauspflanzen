@@ -9,7 +9,7 @@ image: "/images/posts/zimmerpflanzen-schaedlinge/zimmerpflanzen-schaedlinge-01.w
 category: "Zimmerpflanzen"
 seoTitle: "Schädlinge an Zimmerpflanzen erkennen & bekämpfen"
 imageAlt: "Zimmerpflanze wird mit einer Lupe auf Schädlinge an den Blättern untersucht"
-relatedSlugs: ["trauermuecken-bekaempfen", "spinnmilben-bekaempfen", "blattlaeuse-bekaempfen", "wolllaeuse-bekaempfen", "schildlaeuse-bekaempfen", "gelbe-blaetter-zimmerpflanzen"]
+relatedSlugs: ["trauermuecken-bekaempfen", "spinnmilben-bekaempfen", "blattlaeuse-bekaempfen", "wolllaeuse-bekaempfen", "schildlaeuse-bekaempfen", "thripse-bekaempfen"]
 showToc: true
 ---
 
@@ -17,7 +17,7 @@ Etwas stimmt nicht mit deiner Pflanze: Die Blätter sind klebrig, an den Unterse
 
 ![Zimmerpflanze wird mit einer Lupe auf Schädlinge untersucht](/images/posts/zimmerpflanzen-schaedlinge/zimmerpflanzen-schaedlinge-01.webp)
 
-Dieser Überblick führt dich durch die sechs häufigsten Schädlinge an Zimmerpflanzen – Trauermücken, Spinnmilben, Blattläuse, Wollläuse, Schildläuse und Thripse. Du erfährst, woran du jeden einzelnen erkennst, warum er kommt und welche erste Maßnahme wirklich zählt. Für die fünf wichtigsten Schädlinge gibt es eigene, ausführliche Ratgeber auf dieser Seite; dieser Artikel verlinkt dich jeweils direkt dorthin, sobald du weißt, womit du es zu tun hast.
+Dieser Überblick führt dich durch die sechs häufigsten Schädlinge an Zimmerpflanzen – Trauermücken, Spinnmilben, Blattläuse, Wollläuse, Schildläuse und Thripse. Du erfährst, woran du jeden einzelnen erkennst, warum er kommt und welche erste Maßnahme wirklich zählt. Für alle sechs Schädlinge gibt es eigene, ausführliche Ratgeber auf dieser Seite; dieser Artikel verlinkt dich jeweils direkt dorthin, sobald du weißt, womit du es zu tun hast.
 
 ## Die 30-Sekunden-Diagnose: Welcher Schädling ist es?
 
@@ -88,7 +88,7 @@ Wichtig: Ein einzelnes Insekt macht noch keinen Befall. Entscheidend ist, ob du 
 
 **Warum sie kommen:** Thripse werden mit neuen Pflanzen oder Schnittblumen eingeschleppt und mögen es warm und trocken. Sie raspeln die Blattoberfläche an und saugen den austretenden Zellsaft – daher die silbrigen, luftgefüllten Flecken.
 
-**Die wichtigste Maßnahme:** Die Pflanze abduschen, stark befallene Blätter entfernen und Blautafeln aufhängen, auf denen sich fliegende Thripse fangen und der Befall kontrollieren lässt. Für Thripse gibt es auf dieser Seite noch keinen eigenen Ratgeber; die Grundregeln im übernächsten Abschnitt gelten aber auch hier. Geduld ist bei Thripsen besonders wichtig: Ihre Eier sitzen geschützt im Blattgewebe, und die Puppen verbringen einige Tage in der Erde – eine einzige Behandlung erwischt deshalb fast nie alle Stadien. Plane auch hier mehrere Wiederholungen im Wochenabstand ein, und halte die Luftfeuchtigkeit möglichst hoch, denn Thripse mögen es trocken. Bei hartnäckigem Befall, der nach drei bis vier Behandlungen nicht zurückgeht, sind Nützlinge wie Raubmilben die wirksamste Option.
+**Die wichtigste Maßnahme:** Die Pflanze abduschen, stark befallene Blätter entfernen und Blautafeln aufhängen, auf denen sich fliegende Thripse fangen und der Befall kontrollieren lässt. Den ausführlichen Ratgeber dazu findest du hier: [Thripse bekämpfen](/thripse-bekaempfen/) – die Grundregeln im übernächsten Abschnitt gelten zusätzlich. Geduld ist bei Thripsen besonders wichtig: Ihre Eier sitzen geschützt im Blattgewebe, und die Puppen verbringen einige Tage in der Erde – eine einzige Behandlung erwischt deshalb fast nie alle Stadien. Plane auch hier mehrere Wiederholungen im Wochenabstand ein, und halte die Luftfeuchtigkeit möglichst hoch, denn Thripse mögen es trocken. Bei hartnäckigem Befall, der nach drei bis vier Behandlungen nicht zurückgeht, sind Nützlinge wie Raubmilben die wirksamste Option.
 
 ## Erst prüfen: Ist es überhaupt ein Schädling?
 

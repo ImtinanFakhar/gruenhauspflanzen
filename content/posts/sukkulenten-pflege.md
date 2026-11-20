@@ -9,7 +9,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Sukkulenten Pflege: Licht, Substrat & richtig gießen"
 imageAlt: "Sammlung verschiedener Sukkulenten in Terrakotta- und Keramiktöpfen auf einer sonnigen Fensterbank"
 excerpt: "Sukkulenten speichern Wasser in Blättern und Stämmen – und genau daraus folgt ihre ganze Pflege: sehr viel Licht, mineralische Erde und Wasser nach dem Prinzip durchtränken und trocknen lassen. So bleiben sie kompakt statt zu vergeilen."
-relatedSlugs: ["geldbaum-pflege", "aloe-vera-pflege", "pflegeleichte-zimmerpflanzen"]
+relatedSlugs: ["geldbaum-pflege", "aloe-vera-pflege", "pflegeleichte-zimmerpflanzen", "kakteen-pflege"]
 showToc: true
 ---
 

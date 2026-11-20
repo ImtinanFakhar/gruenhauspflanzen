@@ -94,6 +94,8 @@ Die **Zierbanane (*Musa acuminata*)** ist laut ASPCA für Hunde ungiftig und bri
 - **Wasser:** hoher Bedarf – im Sommer fast täglich prüfen; die großen Blätter verdunsten viel.
 - **Pflege:** in der Wachstumszeit regelmäßig düngen; sie wächst schnell und braucht bald einen großen Topf.
 
+Die ausführliche Pflegeanleitung findest du hier: [Bananenpflanze pflegen](/bananenpflanze-pflege/).
+
 **Hundetipp:** Die weichen, raschelnden Blätter sind für viele Hunde unwiderstehlich und reißen leicht ein. Das ist ungefährlich, aber ärgerlich. Stelle die Banane so, dass dein Hund nicht ständig daran vorbeistreift, und rechne mit gelegentlichem „Blattverlust“ durch neugierige Welpen.
 
 ## 7. Haworthia

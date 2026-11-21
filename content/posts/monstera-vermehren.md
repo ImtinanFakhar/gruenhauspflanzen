@@ -10,7 +10,7 @@ category: "Zimmerpflanzen"
 seoTitle: "Monstera vermehren: Stecklinge mit Knoten richtig ziehen"
 imageAlt: "Hand hält einen Monstera-Steckling mit sichtbarem Stängelknoten und brauner Luftwurzel vor einem geschlitzten Blatt"
 excerpt: "Eine Monstera lässt sich zuverlässig vermehren – wenn der Steckling einen Knoten hat. Wo du schneiden musst, wie Wasser, Erde und Moos im Vergleich abschneiden, wie lange die Bewurzelung wirklich dauert und warum junge Blätter noch keine Löcher haben."
-relatedSlugs: ["monstera-pflege", "efeutute-vermehren", "zimmerpflanzen"]
+relatedSlugs: ["monstera-pflege", "efeutute-vermehren", "zimmerpflanzen", "avocado-pflanze-ziehen"]
 showToc: true
 ---
 

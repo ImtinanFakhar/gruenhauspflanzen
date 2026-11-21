@@ -10,7 +10,7 @@ image: "/images/posts/luftreinigende-zimmerpflanzen/luftreinigende-zimmerpflanze
 category: "Zimmerpflanzen"
 seoTitle: "Luftreinigende Zimmerpflanzen: 12 Arten für bessere Raumluft"
 imageAlt: "Helles Wohnzimmer mit Einblatt, Bogenhanf und Efeutute in frischer, grüner Atmosphäre"
-relatedSlugs: ["einblatt-pflege", "bogenhanf-pflege", "efeutute-pflege"]
+relatedSlugs: ["einblatt-pflege", "bogenhanf-pflege", "efeutute-pflege", "zimmerpflanzen-schlafzimmer"]
 showToc: true
 ---
 

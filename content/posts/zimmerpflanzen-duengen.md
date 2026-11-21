@@ -10,7 +10,7 @@ image: "/images/posts/zimmerpflanzen-duengen/zimmerpflanzen-duengen-01.webp"
 category: "Zimmerpflanzen"
 seoTitle: "Zimmerpflanzen düngen: NPK, Düngerarten & Jahresplan"
 imageAlt: "Flüssigdünger wird mit einer Dosierkappe in eine Gießkanne gegeben, daneben eine Monstera auf der Fensterbank"
-relatedSlugs: ["zimmerpflanzen", "gelbe-blaetter-zimmerpflanzen", "sukkulenten-pflege", "monstera-pflege"]
+relatedSlugs: ["zimmerpflanzen", "gelbe-blaetter-zimmerpflanzen", "sukkulenten-pflege", "zimmerpflanzen-umtopfen"]
 showToc: true
 ---
 

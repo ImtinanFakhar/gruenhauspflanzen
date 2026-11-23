@@ -182,6 +182,10 @@ Bogenhanf, Glücksfeder, Schusterpalme und Efeutute sind gute Ausgangspunkte. Pr
 
 Oft ja, weil sie langsamer wachsen und die Erde langsamer trocknet. Ein fester Gießkalender ist aber unzuverlässig: Prüfe das Substrat und beachte den Wasserbedarf der jeweiligen Art.
 
+## Wenn der Raum gar kein Fenster hat
+
+Dieser Ratgeber gilt für Räume mit wenig Tageslicht – aber immerhin einem Fenster. Für Flure, innenliegende Bäder oder Arbeitszimmer ganz ohne Fenster gelten strengere Regeln: Dort überleben nur die tolerantesten Arten, und selbst die brauchen eine Strategie wie den regelmäßigen Wechsel an einen hellen Platz oder eine Pflanzenlampe. Was dort wirklich funktioniert, erklärt unser Ratgeber [Pflanzen für dunkle Räume](/pflanzen-fuer-dunkle-raeume/).
+
 ## Quellen
 
 - [University of Minnesota Extension: Lighting for indoor plants](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/lighting-for-indoor-plants)

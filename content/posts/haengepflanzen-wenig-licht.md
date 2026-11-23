@@ -9,7 +9,7 @@ imageAlt: "Efeutute Epipremnum aureum mit grün-gelb gemusterten Blättern und l
 category: "Zimmerpflanzen"
 seoTitle: "Hängepflanzen für wenig Licht: 4 Arten im Vergleich"
 excerpt: "Efeu und Grünlilie vertragen weniger Licht; Efeutute und Herzblatt-Philodendron brauchen den helleren Platz. So findest du den richtigen Standort für deine Hängeampel."
-relatedSlugs: ["zimmerpflanzen-fur-schwach-beleuchtete", "ungiftige-zimmerpflanzen-fuer-katzen", "pflegeleichte-zimmerpflanzen"]
+relatedSlugs: ["zimmerpflanzen-fur-schwach-beleuchtete", "ungiftige-zimmerpflanzen-fuer-katzen", "pflegeleichte-zimmerpflanzen", "haengepflanzen-zimmer"]
 showToc: true
 ---
 

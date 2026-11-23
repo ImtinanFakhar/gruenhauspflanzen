@@ -31,7 +31,7 @@ Um deinen Standort einzuschätzen, hilft ein einfacher Test: Wirft die Pflanze a
 | Heller Platz mit Sonne | Monstera, Strelitzia, Geigenfeige | Genug Platz einplanen; große Arten wachsen schnell. |
 | Halbschatten ohne direkte Sonne | Efeutute, Philodendron, Einblatt | Erde vor dem Gießen prüfen; Wuchs bleibt kompakter. |
 | Wenig Licht, Nordfenster | Glücksfeder, Bogenhanf, Schusterpalme | Sparsam gießen; Wachstum ist langsamer. |
-| Badezimmer mit hoher Luftfeuchtigkeit | Farne, Calathea, Orchidee | Luftfeuchtigkeit nutzen; auf Tageslicht achten. |
+| Badezimmer mit hoher Luftfeuchtigkeit | [Farne](/farn-pflege/), Calathea, Orchidee | Luftfeuchtigkeit nutzen; auf Tageslicht achten. |
 | Für Anfänger und Vielbeschäftigte | Geldbaum, Aloe vera, Ufopflanze | Lieber zu wenig als zu viel gießen. |
 
 ## Zimmerpflanzen für einen hellen Standort
@@ -78,7 +78,7 @@ Halbschatten heißt: helles, indirektes Licht ohne direkte Sonneneinstrahlung, z
 
 ### 6. Efeutute (Epipremnum aureum)
 
-Die Efeutute ist eine der vielseitigsten Zimmerpflanzen: Sie klettert an Rankhilfen, hängt aus Ampeln oder wächst über Regale. Im Halbschatten bleibt ihre Blattzeichnung gut erhalten, und sie verzeiht auch einmal eine trockene Woche. Klettert sie an einem Moosstab empor, werden ihre Blätter mit der Zeit deutlich größer als an hängenden Trieben. Lange, blattlose Triebe kannst du jederzeit einkürzen und die Stecklinge im Wasserglas bewurzeln. Ausführliche Pflegeschritte findest du im [Efeututen-Ratgeber](/efeutute-pflege/). Für Regale und Ampeln lohnt auch ein Blick in unsere Liste der [Hängepflanzen für wenig Licht](/haengepflanzen-wenig-licht/).
+Die Efeutute ist eine der vielseitigsten Zimmerpflanzen: Sie klettert an Rankhilfen, hängt aus Ampeln oder wächst über Regale. Im Halbschatten bleibt ihre Blattzeichnung gut erhalten, und sie verzeiht auch einmal eine trockene Woche. Klettert sie an einem Moosstab empor, werden ihre Blätter mit der Zeit deutlich größer als an hängenden Trieben. Lange, blattlose Triebe kannst du jederzeit einkürzen und die Stecklinge im Wasserglas bewurzeln. Ausführliche Pflegeschritte findest du im [Efeututen-Ratgeber](/efeutute-pflege/). Für Regale und Ampeln lohnt auch ein Blick in unsere Liste der [Hängepflanzen für wenig Licht](/haengepflanzen-wenig-licht/). Einen Überblick über alle Ampel- und Rankpflanzen – auch für helle Plätze – gibt unser Ratgeber [Hängepflanzen fürs Zimmer](/haengepflanzen-zimmer/).
 
 **Licht:** halbschattig bis hell, ohne direkte Sonne. **Wasser:** Erde leicht feucht halten, aber nicht nass.
 

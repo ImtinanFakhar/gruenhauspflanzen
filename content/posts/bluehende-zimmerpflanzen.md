@@ -48,7 +48,7 @@ Das Einblatt bildet elegante weiße Hochblätter, die wie Blüten wirken und woc
 
 ### 3. Anthurie (Flamingoblume)
 
-Die Anthurie trägt glänzende, herzförmige Hochblätter in Rot, Rosa oder Weiß, die mehrere Wochen frisch aussehen. Bei Wärme und hoher Luftfeuchtigkeit blüht sie praktisch das ganze Jahr über. Sie steht am liebsten hell, aber ohne direkte Sonne, und mag eine gleichmäßig leicht feuchte Erde. Kalkarmes Wasser – Regenwasser oder abgestandenes Leitungswasser – verhindert unschöne Blattränder. Schwierigkeit: mittel, vor allem wegen der Ansprüche an die Luftfeuchtigkeit. Tipp: Stelle den Topf auf ein Tablett mit feuchtem Blähton oder gruppiere die Anthurie mit anderen Pflanzen, das erhöht die Luftfeuchtigkeit in ihrer Umgebung spürbar.
+Die Anthurie trägt glänzende, herzförmige Hochblätter in Rot, Rosa oder Weiß, die mehrere Wochen frisch aussehen. Bei Wärme und hoher Luftfeuchtigkeit blüht sie praktisch das ganze Jahr über. Sie steht am liebsten hell, aber ohne direkte Sonne, und mag eine gleichmäßig leicht feuchte Erde. Kalkarmes Wasser – Regenwasser oder abgestandenes Leitungswasser – verhindert unschöne Blattränder. Schwierigkeit: mittel, vor allem wegen der Ansprüche an die Luftfeuchtigkeit. Tipp: Stelle den Topf auf ein Tablett mit feuchtem Blähton oder gruppiere die Anthurie mit anderen Pflanzen, das erhöht die Luftfeuchtigkeit in ihrer Umgebung spürbar. Die komplette Pflege von Standort bis Blütenförderung erklärt unser [Anthurien-Ratgeber](/anthurie-pflege/).
 
 ![Rote Anthurie mit glänzenden herzförmigen Blüten in einem hellen Raum](/images/posts/bluehende-zimmerpflanzen/bluehende-zimmerpflanzen-04.webp)
 
@@ -60,7 +60,7 @@ Das Usambaraveilchen blüht in Violett, Rosa, Weiß oder zweifarbig und gehört 
 
 ### 5. Bromelie (Guzmania, Aechmea)
 
-Bromelien fallen durch ihren farbigen Blütenstand auf, der aus einem Trichter aus Blättern herauswächst und drei bis sechs Monate lang dekorativ bleibt – länger als fast jede echte Blüte. Verkauft werden sie meist bereits in Blüte, die Blütezeit hängt daher vom Kaufzeitpunkt ab. Sie brauchen einen hellen Standort und werden nicht nur über die Erde, sondern direkt in ihren Blatttrichter gegossen, in dem immer etwas Wasser stehen sollte. Schwierigkeit: leicht bis mittel. Wichtig zu wissen: Jede Rosette blüht nur ein einziges Mal und stirbt danach langsam ab, bildet aber vorher Kindel an der Basis. Tipp: Lasse diese Tochterrosetten wachsen und topfe sie ab einer Größe von etwa einem Drittel der Mutterpflanze separat ein.
+Bromelien fallen durch ihren farbigen Blütenstand auf, der aus einem Trichter aus Blättern herauswächst und drei bis sechs Monate lang dekorativ bleibt – länger als fast jede echte Blüte. Verkauft werden sie meist bereits in Blüte, die Blütezeit hängt daher vom Kaufzeitpunkt ab. Sie brauchen einen hellen Standort und werden nicht nur über die Erde, sondern direkt in ihren Blatttrichter gegossen, in dem immer etwas Wasser stehen sollte. Schwierigkeit: leicht bis mittel. Wichtig zu wissen: Jede Rosette blüht nur ein einziges Mal und stirbt danach langsam ab, bildet aber vorher Kindel an der Basis. Tipp: Lasse diese Tochterrosetten wachsen und topfe sie ab einer Größe von etwa einem Drittel der Mutterpflanze separat ein. Wie du Bromelien richtig über den Trichter gießt und Kindel Schritt für Schritt weiterziehst, zeigt unser [Bromelien-Ratgeber](/bromelie-pflege/).
 
 ### 6. Kalanchoe (Flammendes Käthchen)
 

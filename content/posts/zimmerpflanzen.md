@@ -60,7 +60,7 @@ Die Geigenfeige trägt große, geigenförmige Blätter an einem aufrechten Stamm
 
 ### 4. Gummibaum (Ficus elastica)
 
-Der Gummibaum ist ein Klassiker mit dicken, glänzenden Blättern. Er wächst an einem hellen Standort zügig in die Höhe und lässt sich durch Schnitt kompakt halten. Sorten mit panaschierten Blättern brauchen mehr Licht als die rein grüne Form. Wie du ihn richtig pflegst, schneidest und zum Verzweigen bringst, zeigt unser [Gummibaum-Ratgeber](/gummibaum-pflege/).
+Der Gummibaum ist ein Klassiker mit dicken, glänzenden Blättern. Er wächst an einem hellen Standort zügig in die Höhe und lässt sich durch Schnitt kompakt halten. Sorten mit panaschierten Blättern brauchen mehr Licht als die rein grüne Form. Wie du ihn richtig pflegst, schneidest und zum Verzweigen bringst, zeigt unser [Gummibaum-Ratgeber](/gummibaum-pflege/). Der dritte Ficus im Trio ist der beliebteste Zimmerbaum überhaupt: Der [Ficus Benjamini](/ficus-benjamini-pflege/) braucht denselben hellen, zugfreien Standort – und bestraft jeden Wechsel mit Blattwurf.
 
 **Licht:** hell bis halbschattig. **Wasser:** erst gießen, wenn die Erde oben abgetrocknet ist.
 
@@ -232,7 +232,7 @@ Wenn Wurzeln aus dem Abzugsloch wachsen oder die Erde sehr schnell austrocknet, 
 
 ### Die häufigsten Pflegefehler
 
-Fast alle Probleme gehen auf drei Ursachen zurück: zu viel Wasser, zu wenig Licht und trockene Heizungsluft. Gelbe Blätter deuten meist auf Staunässe hin, lange dünne Triebe mit großen Blattabständen auf Lichtmangel. Braune Blattspitzen entstehen häufig durch zu trockene Luft oder unregelmäßiges Gießen. Wer den Standort an die Pflanze anpasst statt umgekehrt und vor dem Gießen die Erde prüft, vermeidet den größten Teil aller Schäden, ohne dass aufwendige Pflegeroutinen nötig wären.
+Fast alle Probleme gehen auf drei Ursachen zurück: zu viel Wasser, zu wenig Licht und trockene Heizungsluft. Gelbe Blätter deuten meist auf Staunässe hin, lange dünne Triebe mit großen Blattabständen auf Lichtmangel. Braune Blattspitzen entstehen häufig durch zu trockene Luft oder unregelmäßiges Gießen. Wer den Standort an die Pflanze anpasst statt umgekehrt und vor dem Gießen die Erde prüft, vermeidet den größten Teil aller Schäden, ohne dass aufwendige Pflegeroutinen nötig wären. Ein eigenes Kapitel ist der weiße Belag auf der Erde: In unserem Ratgeber zu [Schimmel auf der Blumenerde](/schimmel-auf-blumenerde/) unterscheiden wir Schimmel von harmlosen Kalkablagerungen und zeigen die Soforthilfe.
 
 ## FAQ: Häufige Fragen zu Zimmerpflanzen
 
@@ -242,7 +242,7 @@ Die beliebtesten Zimmerpflanzen in Deutschland sind Monstera, Efeutute, Orchidee
 
 ### Welche Zimmerpflanze ist gut für das Wohnzimmer?
 
-Für das Wohnzimmer eignen sich besonders größere Arten mit dekorativen Blättern: Monstera, Strelitzie, Geigenfeige, Kentiapalme und Gummibaum. Welche Höhe und welcher Lichtbedarf zu deinem Raum passen, zeigt der Überblick über [große Zimmerpflanzen](/grosse-zimmerpflanzen/).
+Für das Wohnzimmer eignen sich besonders größere Arten mit dekorativen Blättern: Monstera, Strelitzie, Geigenfeige, [Kentia-Palme](/kentia-palme-pflege/) und Gummibaum. Welche Höhe und welcher Lichtbedarf zu deinem Raum passen, zeigt der Überblick über [große Zimmerpflanzen](/grosse-zimmerpflanzen/).
 
 ### Welche 10 Zimmerpflanzen sind die schönsten?
 

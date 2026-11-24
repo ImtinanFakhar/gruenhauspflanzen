@@ -8,7 +8,7 @@ image: "/images/posts/anthurie-pflege/anthurie-pflege-01.webp"
 imageAlt: "Anthurie mit roten Hochblättern und glänzend grünen Herzblättern im hellen Wohnzimmer"
 category: "Zimmerpflanzen"
 seoTitle: "Anthurie Pflege: So blüht die Flamingoblume monatelang"
-excerpt: "Die Anthurie ist eine der dankbarsten Blühpflanzen fürs Zimmer – wenn Licht, Wasser und Luftfeuchtigkeit stimmen. Dieser Ratgeber erklärt, warum das rote „Blatt" gar keine Blüte ist, wie du mit kalkarmem Wasser und lockerem Substrat monatelange Blüte bekommst und was grüne Hochblätter und braune Ränder dir sagen wollen."
+excerpt: "Die Anthurie ist eine der dankbarsten Blühpflanzen fürs Zimmer – wenn Licht, Wasser und Luftfeuchtigkeit stimmen. Dieser Ratgeber erklärt, warum das rote „Blatt“ gar keine Blüte ist, wie du mit kalkarmem Wasser und lockerem Substrat monatelange Blüte bekommst und was grüne Hochblätter und braune Ränder dir sagen wollen."
 relatedSlugs: ["bluehende-zimmerpflanzen", "orchideen-pflege", "zimmerpflanzen-giessen", "gelbe-blaetter-zimmerpflanzen", "badezimmer-pflanzen"]
 showToc: true
 ---

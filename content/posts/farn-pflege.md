@@ -3,11 +3,11 @@ title: "Farn pflegen: So bleiben Bostonfarn & Co. üppig grün"
 slug: "farn-pflege"
 date: "2026-11-23"
 author: "Grüne Hauspflanzen Redaktion"
-description: "Farn pflegen ohne Frust: Bostonfarn, Frauenhaarfarn & Co. brauchen 50–70 % Luftfeuchtigkeit, einen nie ganz trockenen Ballen und kalkarmes Wasser – plus Diagnose für braune Spitzen."
+description: "Farn pflegen ohne Frust: Bostonfarn und Frauenhaarfarn brauchen 50 bis 70 Prozent Luftfeuchtigkeit, einen nie ganz trockenen Ballen und kalkarmes Wasser."
 image: "/images/posts/farn-pflege/farn-pflege-01.webp"
 imageAlt: "Üppiger Bostonfarn mit langen, überhängenden Wedeln auf einem Holzregal im hellen Badezimmer"
 category: "Zimmerpflanzen"
-seoTitle: "Farn Pflege: So bleiben Bostonfarn & Co. üppig grün"
+seoTitle: "Farn Pflege: Bostonfarn üppig grün"
 excerpt: "Farne scheitern im Zimmer fast nie am Licht, sondern an trockener Heizungsluft und falschem Gießen. Dieser Ratgeber zeigt, wie Bostonfarn, Frauenhaarfarn, Geweihfarn und Nestfarn bei 50–70 % Luftfeuchtigkeit dauerhaft üppig bleiben – inklusive ehrlicher Einordnung zum Besprühen und Diagnose für braune Spitzen."
 relatedSlugs: ["badezimmer-pflanzen", "haengepflanzen-zimmer", "zimmerpflanzen-giessen", "ungiftige-zimmerpflanzen-fuer-katzen", "gelbe-blaetter-zimmerpflanzen"]
 showToc: true

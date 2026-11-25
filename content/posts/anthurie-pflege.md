@@ -3,11 +3,11 @@ title: "Anthurie pflegen: So blüht die Flamingoblume monatelang"
 slug: "anthurie-pflege"
 date: "2026-11-24"
 author: "Grüne Hauspflanzen Redaktion"
-description: "Anthurie pflegen leicht gemacht: hell ohne Prallsonne, nie ganz trocken, 50–60 % Luftfeuchtigkeit und lockeres Substrat – plus Hilfe, wenn sie nicht blüht."
+description: "Anthurie pflegen: hell ohne Prallsonne, nie ganz trocken, 50 bis 60 Prozent Luftfeuchtigkeit und lockeres Substrat, plus Hilfe, wenn sie nicht blüht."
 image: "/images/posts/anthurie-pflege/anthurie-pflege-01.webp"
 imageAlt: "Anthurie mit roten Hochblättern und glänzend grünen Herzblättern im hellen Wohnzimmer"
 category: "Zimmerpflanzen"
-seoTitle: "Anthurie Pflege: So blüht die Flamingoblume monatelang"
+seoTitle: "Anthurie Pflege: Flamingoblume blüht"
 excerpt: "Die Anthurie ist eine der dankbarsten Blühpflanzen fürs Zimmer – wenn Licht, Wasser und Luftfeuchtigkeit stimmen. Dieser Ratgeber erklärt, warum das rote „Blatt“ gar keine Blüte ist, wie du mit kalkarmem Wasser und lockerem Substrat monatelange Blüte bekommst und was grüne Hochblätter und braune Ränder dir sagen wollen."
 relatedSlugs: ["bluehende-zimmerpflanzen", "orchideen-pflege", "zimmerpflanzen-giessen", "gelbe-blaetter-zimmerpflanzen", "badezimmer-pflanzen"]
 showToc: true

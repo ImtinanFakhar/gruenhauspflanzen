@@ -7,7 +7,7 @@ description: 'Zimmerpflanzen vermehren: Stecklinge schneiden, in Wasser oder Erd
 image: /images/posts/zimmerpflanzen-vermehren/01-zimmerpflanzen-vermehren.jpg
 imageAlt: Stecklinge von Zimmerpflanzen bewurzeln in Wassergläsern auf einem Holztisch
 category: Pflanzenpflege
-seoTitle: 'Zimmerpflanzen vermehren: Die 4 Methoden, die wirklich funktionieren'
+seoTitle: "Zimmerpflanzen vermehren: 4 Methoden"
 excerpt: 'Aus einer Zimmerpflanze werden mehrere: Stecklinge in Wasser oder Erde, Ableger abnehmen und Pflanzen beim Umtopfen teilen. Welche Methode zu welcher Pflanze passt.'
 relatedSlugs:
 - monstera-vermehren
@@ -17,7 +17,7 @@ relatedSlugs:
 showToc: true
 ---
 
-# Zimmerpflanzen vermehren: Aus einer Pflanze werden mehrere
+## Zimmerpflanzen vermehren: Aus einer Pflanze werden mehrere
 
 Aus einer Pflanze zwei oder drei zu machen, gelingt bei den meisten Zimmerpflanzen ohne viel Aufwand. Du brauchst kein Gewächshaus und keine teure Ausrüstung, ein sauberes, scharfes Messer, ein Glas Wasser oder ein Topf mit Anzuchterde reichen für den Anfang. Die beste Zeit ist das Frühjahr bis zum Spätsommer, wenn die Pflanzen aktiv wachsen.
 

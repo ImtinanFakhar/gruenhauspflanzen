@@ -3,11 +3,11 @@ title: "Hängepflanzen fürs Zimmer: 12 Rank- und Ampelpflanzen für Regal, Wand
 slug: "haengepflanzen-zimmer"
 date: "2026-11-23"
 author: "Grüne Hauspflanzen Redaktion"
-description: "Hängepflanzen fürs Zimmer im Überblick: 12 Rank- und Ampelpflanzen für Regal, Wand und Fenster – mit ehrlichen Lichtangaben, Haustier-Hinweisen und der Gieß-Anleitung für Ampeln."
+description: "Hängepflanzen fürs Zimmer im Überblick: 12 Rank- und Ampelpflanzen für Regal, Wand und Fenster, mit ehrlichen Lichtangaben und Haustier-Hinweisen."
 image: "/images/posts/haengepflanzen-zimmer/haengepflanzen-zimmer-01.webp"
 imageAlt: "Mehrere Ampelpflanzen mit langen grünen Ranken hängen in unterschiedlicher Höhe vor einem hellen Wohnzimmerfenster"
 category: "Zimmerpflanzen"
-seoTitle: "Hängepflanzen fürs Zimmer: 12 Ampelpflanzen für Regal, Wand & Fenster"
+seoTitle: "Hängepflanzen fürs Zimmer: 12 Arten"
 excerpt: "Zwölf Hängepflanzen für jedes Zimmer – von der Efeutute auf dem Regal bis zur Erbsenpflanze am sonnigen Fenster. Mit ehrlichen Lichtangaben, Haustier-Hinweisen und der praktischen Antwort auf die Frage, wie man eine Ampel überhaupt gießt."
 relatedSlugs: ["haengepflanzen-wenig-licht", "efeutute-pflege", "gruenlilie-pflege", "farn-pflege", "zimmerpflanzen"]
 showToc: true

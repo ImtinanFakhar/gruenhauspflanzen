@@ -3,11 +3,11 @@ title: "Ficus Benjamini pflegen: So bleibt der Zimmerbaum dicht und grün"
 slug: "ficus-benjamini-pflege"
 date: "2026-11-24"
 author: "Grüne Hauspflanzen Redaktion"
-description: "Ficus Benjamini pflegen ohne Blattwurf-Frust: Standort, Gießen, Schnitt und Sorten erklärt – plus ehrliche Hilfe, wenn der Zimmerbaum trotzdem Blätter wirft."
+description: "Ficus Benjamini pflegen ohne Blattwurf-Frust: Standort, Gießen, Schnitt und Sorten erklärt, plus ehrliche Hilfe, wenn der Zimmerbaum trotzdem Blätter wirft."
 image: "/images/posts/ficus-benjamini-pflege/ficus-benjamini-pflege-01.webp"
 imageAlt: "Ficus benjamini mit dichten grünen Blättern am Fenster"
 category: "Zimmerpflanzen"
-seoTitle: "Ficus Benjamini Pflege: Blattwurf stoppen & richtig pflegen"
+seoTitle: "Ficus Benjamini: Blattwurf stoppen"
 excerpt: "Der Ficus Benjamini ist der beliebteste Zimmerbaum – und berüchtigt dafür, bei jeder Veränderung beleidigt die Blätter zu werfen. Dieser Ratgeber erklärt ehrlich, warum das passiert, welcher Standort ihn ruhig hält, wie du richtig gießt und schneidest und was bei Blattwurf wirklich hilft (und was ihn schlimmer macht)."
 relatedSlugs: ["gummibaum-pflege", "geigenfeige-pflege", "gelbe-blaetter-zimmerpflanzen", "grosse-zimmerpflanzen", "zimmerpflanzen-giessen"]
 showToc: true

@@ -7,7 +7,7 @@ description: "Kentia Palme pflegen: Die Howea forsteriana ist langsam, schattenv
 image: "/images/posts/kentia-palme-pflege/kentia-palme-pflege-01.webp"
 imageAlt: "Kentia-Palme mit eleganten, dunkelgrünen Wedeln in einem hellen Wohnzimmer neben einem Sessel"
 category: "Zimmerpflanzen"
-seoTitle: "Kentia Palme Pflege: Standort, Gießen & braune Spitzen"
+seoTitle: "Kentia Palme Pflege: Standort & Gießen"
 excerpt: "Die Kentia ist die teuerste Zimmerpalme – und die einzige, die dunkle Ecken, Heizungsluft und Vernachlässigung über Jahre klaglos wegsteckt. Warum sie ihren Preis wert ist, wie du sie von der Areca unterscheidest und woran braune Blattspitzen wirklich liegen."
 relatedSlugs: ["grosse-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "yucca-palme-pflege", "pflegeleichte-zimmerpflanzen", "zimmerpflanzen-giessen"]
 showToc: true

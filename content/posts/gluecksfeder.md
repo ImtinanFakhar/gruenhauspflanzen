@@ -2,12 +2,12 @@
 title: "Glücksfeder: Pflege, Standort, Gießen & Vermehren"
 slug: "gluecksfeder"
 date: "2026-08-11"
-modifiedDate: "2026-10-12"
+modifiedDate: "2026-11-25"
 author: "Grüne Hauspflanzen Redaktion"
-description: "So pflegst du deine Glücksfeder richtig: Standort, Gießen, Erde, Düngen, Umtopfen, Vermehren, Blüte und Hilfe bei gelben Blättern."
+description: "So pflegst du deine Glücksfeder richtig: Standort, Gießen, Erde, Düngen, Umtopfen und Vermehren – auch fürs Schlafzimmer geeignet."
 image: "/images/posts/Gl%C3%BCcksfeder%20Pflege%2C%20Standort%2C%20Gie%C3%9Fen%20%26%20Vermehren/gluecksfeder-zamioculcas-zimmerpflanze.jpg"
 category: "Zimmerpflanzen"
-seoTitle: "Glücksfeder: Pflege, Standort & Gießen einfach erklärt"
+seoTitle: "Glücksfeder Pflege: Standort, Gießen & Schlafzimmer-Tipps"
 imageAlt: "Große Glücksfeder Zamioculcas zamiifolia in einem hellen Wohnzimmer"
 excerpt: "Die Glücksfeder gilt als robuste Zimmerpflanze. Erfahre, welcher Standort passt, wie du richtig gießt und wie sich Zamioculcas vermehren lässt."
 relatedSlugs: ["pflegeleichte-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "grosse-zimmerpflanzen"]
@@ -222,13 +222,17 @@ Wenn du generell robuste Pflanzen suchst, findest du weitere Arten in unserem Ra
 
 ## Glücksfeder im Schlafzimmer
 
-Eine Glücksfeder kann auch im Schlafzimmer stehen, solange dort ausreichend Tageslicht vorhanden ist.
+Die Glücksfeder gehört zu den Pflanzen, die im Schlafzimmer besonders gut funktionieren – und das aus praktischen Gründen, nicht wegen der Versprechen, die man ihr oft andichtet.
 
-Durch ihren aufrechten Wuchs nimmt sie vergleichsweise wenig Bodenfläche ein und passt deshalb gut neben eine Kommode, einen Schrank oder in eine freie Ecke.
+![Glücksfeder auf einer Kommode im Schlafzimmer neben dem Bett](/images/posts/gluecksfeder/gluecksfeder-schlafzimmer.webp)
 
-Vermeide allerdings einen Platz direkt an einer kalten Zugluftquelle oder in einer dauerhaft sehr dunklen Ecke.
+Zum einen toleriert sie weniger Licht als viele andere Zimmerpflanzen. Viele Schlafzimmer liegen nach Norden oder bekommen nur morgens Sonne; dort wächst die Glücksfeder langsamer, bleibt aber gesund und grün. Zum anderen verzeiht sie unregelmäßiges Gießen: Ihre wasserspeichernden Rhizome überbrücken problemlos zwei bis drei Wochen ohne Wasser – praktisch, wenn der Alltag oder ein Urlaub den Gießrhythmus durcheinanderbringt. Dazu kommt ihr aufrechter, ruhiger Wuchs: Sie nimmt wenig Bodenfläche ein, passt auf eine Kommode oder neben das Bett und wirkt weder unruhig noch ausladend.
 
-Auch hier gilt: Der Standort sollte zuerst nach den Bedürfnissen der Pflanze und erst danach nach der Einrichtung ausgewählt werden.
+Ein Mythos gehört allerdings ehrlich eingeordnet: Die Glücksfeder produziert nachts keinen zusätzlichen Sauerstoff. Das können nur CAM-Pflanzen wie der Bogenhanf, die ihre Spaltöffnungen erst in der Nacht öffnen – die Zamioculcas gehört nicht dazu. Wer eine Pflanze gezielt wegen dieses Effekts sucht, findet sie in unserem Ratgeber zum [Bogenhanf](/bogenhanf-pflege/). Für die Glücksfeder spricht im Schlafzimmer schlicht ihre Robustheit.
+
+Beim Aufstellen gilt: Nicht in die dunkelste Ecke stellen – ein Platz mit etwas Tageslicht, etwa auf einer Kommode ein bis zwei Meter vom Fenster entfernt, ist ideal. Auch Zugluft und Heizungsnähe mag sie nicht. Kühlere Schlafzimmer im Winter verträgt sie gut, solange die Temperatur nicht dauerhaft unter etwa 15 Grad fällt. Wische die Blätter gelegentlich feucht ab: Auf den glänzenden Blättern sieht man Staub schnell, und eine saubere Blattfläche kann das wenige Licht besser nutzen.
+
+Weitere geeignete Arten findest du in der Übersicht [alle Schlafzimmer-Pflanzen im Überblick](/zimmerpflanzen-schlafzimmer/).
 
 ## Glücksfeder im Büro
 
@@ -288,9 +292,9 @@ Die Glücksfeder speichert Wasser in ihren Rhizomen und braucht nur wenig Wasser
 
 Gelbe Blätter sind fast immer ein Zeichen für zu viel Wasser. Prüfe, ob die Erde dauerhaft feucht ist oder Wasser im Übertopf steht, und lasse das Substrat vor dem nächsten Gießen gut abtrocknen. Einzelne alte Blätter am Rand der Pflanze dürfen dagegen normal absterben und können abgeschnitten werden.
 
-### Kann die Glücksfeder blühen?
+### Ist die Glücksfeder gut fürs Schlafzimmer?
 
-Ja, ältere und gut eingewachsene Glücksfedern können blühen. Die Blüte ähnelt der des Einblatts, mit einem weißen Hüllblatt und einem gelblichen Kolben. Sie erscheint eher selten und meist an Pflanzen, die schon mehrere Jahre am selben Standort stehen.
+Ja, sie gehört zu den besten Schlafzimmer-Pflanzen: Sie toleriert wenig Licht, verzeiht dank ihrer wasserspeichernden Rhizome auch mal vergessenes Gießen und wächst ruhig und aufrecht. Nur eines stimmt nicht: Sie produziert nachts keinen zusätzlichen Sauerstoff – das ist eine Eigenschaft von CAM-Pflanzen wie dem Bogenhanf, zu denen die Zamioculcas nicht zählt.
 
 ### Ist die Glücksfeder giftig für Katzen und Hunde?
 

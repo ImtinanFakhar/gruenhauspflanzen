@@ -7,7 +7,7 @@ description: 'Zimmerpflanzen richtig gießen: Fingerprobe, Wassermenge, Wasserar
 image: /images/posts/zimmerpflanzen-giessen/01-zimmerpflanzen-giessen.jpg
 imageAlt: Hände gießen eine Zimmerpflanze mit einer Gießkanne am hellen Fenster
 category: Pflanzenpflege
-seoTitle: 'Zimmerpflanzen gießen: Wie oft, wie viel Wasser und die häufigsten Fehler'
+seoTitle: "Zimmerpflanzen richtig gießen"
 excerpt: 'Zimmerpflanzen richtig gießen heißt: erst prüfen, dann gießen. Fingerprobe, Wassermenge und die Unterschiede zwischen Sommer und Winter, dazu die Anzeichen für zu viel und zu wenig Wasser.'
 relatedSlugs:
 - gelbe-blaetter-zimmerpflanzen
@@ -17,7 +17,7 @@ relatedSlugs:
 showToc: true
 ---
 
-# Zimmerpflanzen richtig gießen: So viel Wasser brauchen deine Pflanzen wirklich
+## Zimmerpflanzen richtig gießen: So viel Wasser brauchen deine Pflanzen wirklich
 
 Die meisten Zimmerpflanzen sterben nicht an zu wenig Licht und nicht an fehlendem Dünger. Sie sterben, weil sie falsch gegossen werden. Und zwar fast immer, weil sie zu viel Wasser bekommen. Staunässe und Wurzelfäule sind die häufigsten Todesursachen bei Zimmerpflanzen, weit vor allen Schädlingen und Krankheiten. Das Tückische daran: Eine übergossene Pflanze sieht von oben oft lange gesund aus, während ihre Wurzeln unten im Topf schon faulen.
 

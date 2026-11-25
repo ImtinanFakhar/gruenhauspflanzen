@@ -7,7 +7,7 @@ description: "Weißer Belag auf der Blumenerde? So unterscheidest du Schimmel vo
 image: "/images/posts/schimmel-auf-blumenerde/schimmel-auf-blumenerde-01.webp"
 imageAlt: "Weißer, flaumiger Schimmelbelag auf der Oberfläche der Blumenerde einer Zimmerpflanze"
 category: "Pflanzenpflege"
-seoTitle: "Schimmel auf Blumenerde: Entfernen & vorbeugen"
+seoTitle: "Schimmel auf Blumenerde entfernen"
 excerpt: "Ein weißer, flaumiger Belag auf der Topferde ist fast immer ein Gieß- und Luftproblem – kein Grund zur Panik, aber ein klares Signal. Dieser Ratgeber zeigt, wie du Schimmel von Kalk unterscheidest, ihn sauber entfernst und dauerhaft verhinderst."
 relatedSlugs: ["zimmerpflanzen-giessen", "zimmerpflanzen-umtopfen", "zimmerpflanzen-schaedlinge", "gelbe-blaetter-zimmerpflanzen", "trauermuecken-bekaempfen"]
 showToc: true

@@ -7,7 +7,7 @@ description: "Bromelie pflegen ohne Fäulnis: Guzmania, Aechmea & Vriesea über 
 image: "/images/posts/bromelie-pflege/bromelie-pflege-01.webp"
 imageAlt: "Guzmania mit leuchtend rotem Blütenstand und glänzend grünen Blättern im hellen Wohnzimmer"
 category: "Zimmerpflanzen"
-seoTitle: "Bromelie Pflege: Guzmania & Co. über den Trichter gießen"
+seoTitle: "Bromelie pflegen: Trichter gießen"
 excerpt: "Bromelien werden anders gegossen als fast alle Zimmerpflanzen: Das Wasser gehört in den Blatttrichter, nicht nur in die Erde – und es muss regelmäßig erneuert werden, sonst fault die Rosette. Dieser Ratgeber zeigt die Pflege von Guzmania, Aechmea und Vriesea, ordnet ehrlich ein, warum jede Rosette nur einmal blüht, und erklärt Schritt für Schritt, wie du aus den Kindeln neue Pflanzen ziehst."
 relatedSlugs: ["bluehende-zimmerpflanzen", "anthurie-pflege", "orchideen-pflege", "badezimmer-pflanzen", "zimmerpflanzen-giessen"]
 showToc: true

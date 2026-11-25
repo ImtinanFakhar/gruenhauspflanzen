@@ -3,11 +3,11 @@ title: "Pflanzen für dunkle Räume: Was ohne Fenster wirklich überlebt"
 slug: "pflanzen-fuer-dunkle-raeume"
 date: "2026-11-23"
 author: "Grüne Hauspflanzen Redaktion"
-description: "Pflanzen für dunkle Räume ehrlich erklärt: Warum ohne Fenster fast nichts dauerhaft wächst – und welche Strategien funktionieren: ultra-tolerante Arten, Rotationsprinzip und Pflanzenlampe."
+description: "Pflanzen für dunkle Räume ehrlich erklärt: Warum ohne Fenster fast nichts wächst, und welche Strategien mit toleranten Arten funktionieren."
 image: "/images/posts/pflanzen-fuer-dunkle-raeume/pflanzen-fuer-dunkle-raeume-01.webp"
 imageAlt: "Bogenhanf in einem dunklen Flur ohne Fenster, nur schwaches Licht fällt durch eine angelehnte Tür"
 category: "Zimmerpflanzen"
-seoTitle: "Pflanzen für dunkle Räume: Was ohne Fenster wirklich überlebt"
+seoTitle: "Pflanzen für dunkle Räume"
 excerpt: "Flur ohne Fenster, innenliegendes Bad, dunkles Nordzimmer: Dieser Ratgeber sagt ehrlich, warum keine Pflanze in echter Dunkelheit gedeiht – und zeigt die vier Strategien, mit denen Grün in dunklen Räumen trotzdem funktioniert: tolerante Arten, das Rotationsprinzip, Pflanzenlampen und, als letzte Option, gute Kunstpflanzen."
 relatedSlugs: ["zimmerpflanzen-fur-schwach-beleuchtete", "zimmerpflanzen-schlafzimmer", "bogenhanf-pflege", "gluecksfeder", "badezimmer-pflanzen"]
 showToc: true

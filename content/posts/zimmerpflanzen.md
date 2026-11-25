@@ -186,7 +186,7 @@ Die Echeveria bildet symmetrische Blattrosetten in Blaugrün und braucht vor all
 
 ### 21. Geldbaum (Crassula ovata)
 
-Der Geldbaum ist ein kleiner Sukkulenten-Baum mit dicken, glänzenden Blättern und wird bei guter Pflege Jahrzehnte alt. Er wächst langsam, verträgt Schnitt und lässt sich aus einzelnen Blättern vermehren. Ein heller Platz und ein durchlässiges Substrat sind die wichtigsten Voraussetzungen. Alles zu Gießen, Schneiden und Überwintern steht in unserem [Geldbaum-Ratgeber](/geldbaum-pflege/).
+Der Geldbaum ist ein kleiner Sukkulenten-Baum mit dicken, glänzenden Blättern und wird bei guter Pflege Jahrzehnte alt. Er wächst langsam, verträgt Schnitt und lässt sich aus einzelnen Blättern vermehren. Ein heller Platz und ein durchlässiges Substrat sind die wichtigsten Voraussetzungen. Alles zu Gießen, Schneiden und Überwintern steht in unserem [Geldbaum-Ratgeber](/geldbaum-pflege/). Ein zweiter Wasserspeicher-Künstler ist der [Elefantenfuß](/elefantenfuss-pflege/): Er lagert Wasser in seinem verdickten Stamm ein und verzeiht lange Gießpausen – braucht dafür aber deutlich mehr Sonne als der Geldbaum.
 
 **Licht:** hell bis sonnig. **Wasser:** erst gießen, wenn die Erde durchgetrocknet ist.
 
@@ -232,7 +232,7 @@ Wenn Wurzeln aus dem Abzugsloch wachsen oder die Erde sehr schnell austrocknet, 
 
 ### Die häufigsten Pflegefehler
 
-Fast alle Probleme gehen auf drei Ursachen zurück: zu viel Wasser, zu wenig Licht und trockene Heizungsluft. Gelbe Blätter deuten meist auf Staunässe hin, lange dünne Triebe mit großen Blattabständen auf Lichtmangel. Braune Blattspitzen entstehen häufig durch zu trockene Luft oder unregelmäßiges Gießen. Wer den Standort an die Pflanze anpasst statt umgekehrt und vor dem Gießen die Erde prüft, vermeidet den größten Teil aller Schäden, ohne dass aufwendige Pflegeroutinen nötig wären. Ein eigenes Kapitel ist der weiße Belag auf der Erde: In unserem Ratgeber zu [Schimmel auf der Blumenerde](/schimmel-auf-blumenerde/) unterscheiden wir Schimmel von harmlosen Kalkablagerungen und zeigen die Soforthilfe.
+Fast alle Probleme gehen auf drei Ursachen zurück: zu viel Wasser, zu wenig Licht und trockene Heizungsluft. Gelbe Blätter deuten meist auf Staunässe hin, lange dünne Triebe mit großen Blattabständen auf Lichtmangel. Braune Blattspitzen entstehen häufig durch zu trockene Luft oder unregelmäßiges Gießen. Wer den Standort an die Pflanze anpasst statt umgekehrt und vor dem Gießen die Erde prüft, vermeidet den größten Teil aller Schäden, ohne dass aufwendige Pflegeroutinen nötig wären. Ein eigenes Kapitel ist der weiße Belag auf der Erde: In unserem Ratgeber zu [Schimmel auf der Blumenerde](/schimmel-auf-blumenerde/) unterscheiden wir Schimmel von harmlosen Kalkablagerungen und zeigen die Soforthilfe. Wenn Flecken, Beläge oder Fäulnis auftreten, hilft unser Überblick über [Krankheiten an Zimmerpflanzen](/zimmerpflanzen-krankheiten/) bei der Diagnose – denn vieles, was nach Krankheit aussieht, ist in Wahrheit ein Pflegefehler. Und wer das Gießen radikal vereinfachen will, findet in unserem Ratgeber zur [Hydrokultur](/hydrokultur-zimmerpflanzen/) das System mit Blähton und Wasserstandsanzeiger erklärt.
 
 ## FAQ: Häufige Fragen zu Zimmerpflanzen
 

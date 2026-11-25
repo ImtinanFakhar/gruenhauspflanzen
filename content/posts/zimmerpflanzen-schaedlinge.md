@@ -98,7 +98,7 @@ Nicht jedes Problem ist ein Tier. Bevor du behandelst, schließe die drei häufi
 
 **Gelbe Blätter** entstehen viel häufiger durch zu viel Wasser, zu wenig Licht oder Nährstoffmangel als durch Schädlinge. Findest du keine Tiere, keine Gespinste und keinen Honigtau, ist fast sicher die Pflege die Ursache. Unser Diagnose-Ratgeber [Gelbe Blätter an Zimmerpflanzen](/gelbe-blaetter-zimmerpflanzen/) führt dich Schritt für Schritt durch die möglichen Ursachen.
 
-**Braune Flecken und Pilzbeläge** deuten auf Pilzkrankheiten, die feuchte Blätter und schlechte Luftzirkulation lieben. Ein weißer, abwischbarer Belag auf der Blattoberseite kann Echter Mehltau sein – kein Insekt. Hier helfen Abstand zwischen den Pflanzen und das Entfernen befallener Blätter, keine Schädlingsmittel.
+**Braune Flecken und Pilzbeläge** deuten auf Pilzkrankheiten, die feuchte Blätter und schlechte Luftzirkulation lieben. Ein weißer, abwischbarer Belag auf der Blattoberseite kann Echter Mehltau sein – kein Insekt. Hier helfen Abstand zwischen den Pflanzen und das Entfernen befallener Blätter, keine Schädlingsmittel. Alle Pilz- und Bakterienkrankheiten – von Mehltau bis Wurzelfäule – behandelt unser Überblick über [Krankheiten an Zimmerpflanzen](/zimmerpflanzen-krankheiten/).
 
 **Weiße Ränder und Krusten** am Topfrand oder auf der Erde sind meist Kalk- und Salzablagerungen aus dem Gießwasser. Sie sehen Wollläusen auf den ersten Blick ähnlich, sitzen aber auf Topf und Substrat statt in den Blattachseln und lassen sich trocken abreiben. Ebenfalls harmlos: kleine weiße, springende Tierchen auf der Erde (Springschwänze), die organisches Material abbauen und der Pflanze nicht schaden.
 

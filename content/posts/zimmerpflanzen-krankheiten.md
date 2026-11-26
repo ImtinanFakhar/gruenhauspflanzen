@@ -9,7 +9,7 @@ image: "/images/posts/zimmerpflanzen-krankheiten/zimmerpflanzen-krankheiten-01.w
 category: "Pflanzenpflege"
 seoTitle: "Krankheiten an Zimmerpflanzen erkennen & behandeln"
 imageAlt: "Blatt einer Zimmerpflanze mit hellen Flecken wird aus der Nähe auf Krankheitszeichen untersucht"
-relatedSlugs: ["zimmerpflanzen-schaedlinge", "schimmel-auf-blumenerde", "gelbe-blaetter-zimmerpflanzen", "spinnmilben-bekaempfen", "blattlaeuse-bekaempfen"]
+relatedSlugs: ["zimmerpflanzen-schaedlinge", "schimmel-auf-blumenerde", "gelbe-blaetter-zimmerpflanzen", "spinnmilben-bekaempfen", "blattlaeuse-bekaempfen", "braune-blattspitzen-zimmerpflanzen"]
 showToc: true
 ---
 

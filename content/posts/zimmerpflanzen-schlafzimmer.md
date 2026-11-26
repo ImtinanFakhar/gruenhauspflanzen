@@ -9,7 +9,7 @@ imageAlt: "Ruhiges Schlafzimmer mit Bogenhanf auf dem Nachttisch und Efeutute au
 category: "Zimmerpflanzen"
 seoTitle: "Zimmerpflanzen fürs Schlafzimmer: 11 Arten für jedes Licht"
 excerpt: "Elf Pflanzen, die im Schlafzimmer wirklich funktionieren – von der Efeutute fürs dunkle Eck bis zur Aloe für die sonnige Fensterbank. Ehrlich eingeordnet: was Sauerstoff- und Reinigungsversprechen taugen, welche Düfte den Schlaf stören und welche Arten für Haustiere sicher sind."
-relatedSlugs: ["luftreinigende-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "ungiftige-zimmerpflanzen-fuer-katzen"]
+relatedSlugs: ["luftreinigende-zimmerpflanzen", "zimmerpflanzen-fur-schwach-beleuchtete", "ungiftige-zimmerpflanzen-fuer-katzen", "zimmerpflanzen-im-winter"]
 showToc: true
 ---
 
